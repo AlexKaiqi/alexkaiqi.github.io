@@ -26,7 +26,6 @@ github_username:  AlexKaiqi
 
 # Build settings
 markdown: kramdown
-  input: GFM
 theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
