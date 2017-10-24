@@ -1,39 +1,37 @@
-# Headers
+# Markdown
+## Headers
 # This is an h1 tag
 ## This is an h2 tag
 ###### This is an h6 tag
-# Emphasis
+
+## Emphasis
 *this text will be italic*
 _this will also be italic_
 **this text will be bold**
 __this will also be bold__
-# Lists
-## Unordered
+
+## Lists
+### Unordered
 * Item 1
 * Item 2
     * Item 2a
     * Item 2b
-## Ordered
+### Ordered
 1. Item 1
 2. Item 2
     1. Item 2a
     2. Item 2b
-# Images
+    
+## Images
 ![Github Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-# Links
+## Links
 [I'm an inline-style link](https://www.google.com)
 
 http://github.com - automatic!
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'm a relative reference to a repository file](../blog/index.html)
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-[You can use numbers for reference-style link definitions][1]
-
-# Code
+## Code
 ```javascript
 var a = 0;
 alert(a);
@@ -42,18 +40,19 @@ alert(a);
 s = "python syntax highlighting";
 ```
 
-# Tables
+## Tables
 name | age | gender
 ---|:---:|---:
 tom | 20 | male
 jerry | 21| male
 sily | 22 | female
 
-# Block Quotes
+## Block Quotes
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 > This is a short line
-# Inner Html
+
+## Inner Html
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -62,7 +61,7 @@ sily | 22 | female
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-# Horizontal Rules
+## Horizontal Rules
 Three or more...
 ---
 Hyphens
@@ -71,7 +70,7 @@ Asterisk
 ___
 underscores
 
-# Line Breaks
+## Line Breaks
 Here's a line for us to start with.
 
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
