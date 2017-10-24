@@ -11,6 +11,25 @@ _this will also be italic_
 __this will also be bold__
 
 ## Lists
+(In this example, leading and trailing spaces are shown with with dots: ⋅)
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
+⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
+⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
 ### Unordered
 * Item 1
 * Item 2
@@ -23,13 +42,40 @@ __this will also be bold__
     2. Item 2b
     
 ## Images
-![Github Logo](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Here's github logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 ## Links
+There are two ways to create links.
+
 [I'm an inline-style link](https://www.google.com)
 
-http://github.com - automatic!
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
-[I'm a relative reference to a repository file](../blog/index.html)
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
 
 ## Code
 ```javascript
@@ -41,11 +87,22 @@ s = "python syntax highlighting";
 ```
 
 ## Tables
-name | age | gender
----|:---:|---:
-tom | 20 | male
-jerry | 21| male
-sily | 22 | female
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ## Block Quotes
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
@@ -88,6 +145,7 @@ function fancyAlert(arg) {
 }
 ```
 you can also simply indent your code by four space
+
     function fancyAlert(arg) {
       if(arg) {
         $.facebox({div:'#foo'})
@@ -111,8 +169,8 @@ You can create tables by assembling a list of words and dividing them with hyphe
 
 First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+cell 1 |  cell 2
+first column | second column
 
 ## SHA references
 Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
