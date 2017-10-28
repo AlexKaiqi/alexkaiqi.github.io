@@ -1,4 +1,10 @@
-# Markdown
+---
+layout: post
+title: Markdown
+date: 2017-10-24 15:23:22
+categories: note markdown cheatsheet
+tags: markdown cheatsheet
+---
 ## Headers
 # This is an h1 tag
 ## This is an h2 tag
