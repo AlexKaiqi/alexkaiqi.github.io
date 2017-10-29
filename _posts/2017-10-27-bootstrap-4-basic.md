@@ -1,7 +1,6 @@
 ---
-layout: blog
 istop: true
-title: "Bootstrap 4 Get Started"
+title: Bootstrap 4 Get Started
 date: 2017-10-27 11:09:00
 background-image: ../style/images/bootstrap-4.jpeg
 category: bootstrap

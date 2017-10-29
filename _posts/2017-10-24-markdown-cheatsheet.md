@@ -1,7 +1,6 @@
 ---
-layout: blog
 istop: true
-title: "Markdown cheatsheet"
+title: Markdown cheatsheet
 date: 2017-10-24 15:23:22
 background-image: ../style/images/markdown.png
 category: markdown

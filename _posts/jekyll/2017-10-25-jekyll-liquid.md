@@ -1,7 +1,6 @@
 ---
-layout: blog
 istop: true
-title: "Jekyll Liquid"
+title: Jekyll Liquid
 date: 2017-10-25 10:34:11
 background-image: ../style/images/jekyll.jpg
 category: jekyll

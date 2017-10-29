@@ -3,9 +3,14 @@ title:            "Alex Kai的博客"
 description:      "即将步入社会|我想追求的生活是社么样呢|我想成为什么样的人呢"
 url:              "https://alexkaiqi.github.io/" # 域名
 signoff:          "Alex Kai" # Your name
+
 facebook_appid:   #facebook_id
-github_username:  AlexKaiqi
+github_username:  alexkaiqi
+github_url: https://github.com/alexkaiqi
 twitter_username: alexkaiqi
+twitter_url: https://twitter.com/alexkaiqi
+stackoverflow_username: alex-kai
+stackoverflow_url: https://stackoverflow.com/users/7967346/alex-kai
 email: alexkaiqi@gmail.com
 baseurl: ""
 #google_analytics:

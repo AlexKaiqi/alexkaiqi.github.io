@@ -1,7 +1,6 @@
 ---
-layout: blog
 istop: true
-title: "Jekyll Configuration"
+title: Jekyll Configuration
 date: 2017-10-25 21:23:22
 background-image: ../style/images/jekyll.jpg
 category: jekyll

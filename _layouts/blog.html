@@ -2,16 +2,16 @@
 <!DOCTYPE html>
 <html lang="zh-cn" data-scribe-reduced-action-queue="true">
 <head>
-    <meta content='{{ page.title }} - {{ site.title }}' name='title'/>
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title'/>
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
+  <meta content='{{ page.title }} - {{ site.title }}' name='title'/>
+  <meta content='{{ page.title }} - {{ site.title }}' name='og:title'/>
+  <title>{{ page.title }} - {{ site.title }}</title>
+  {% include head.html %}
 </head>
 <body class="" gtools_scp_screen_capture_injected="true">
 <header id="header" class="header bg-white">
     <div class="navbar-container">
         <a href="/?alexkaiqi" title="访问 {{site.title }}" class="navbar-logo"> <img
-                src="{{ site.url }}/style/images/logo-alexkaiqi.png" alt="{{ site.title }}"> </a>
+                src="{{ site.url }}/style/images/logo.png" alt="{{ site.title }}"> </a>
         <div class="navbar-menu">
             {% for link in site.links %}
             <a href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}">{{ link.name }}</a>
