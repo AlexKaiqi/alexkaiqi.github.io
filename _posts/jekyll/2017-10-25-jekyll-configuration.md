@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Jekyll Configuration
+layout: blog
+istop: true
+title: "Jekyll Configuration"
 date: 2017-10-25 21:23:22
-categories: note jekyll configuration
+background-image: ../style/images/jekyll.jpg
+category: jekyll
 tags: jekyll configuration
 ---
 {% highlight yaml %}

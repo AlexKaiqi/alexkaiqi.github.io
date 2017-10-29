@@ -1,10 +1,16 @@
 ---
-title: Bootstrap 4 basic
-date: 2017-10-28 11:09:00
-categories: note bootstrap 
+layout: blog
+istop: true
+title: "Bootstrap 4 Get Started"
+date: 2017-10-27 11:09:00
+background-image: ../style/images/bootstrap-4.jpeg
+category: bootstrap
 tags: bootstrap frontend
 ---
-## Start
+## Bootstrap 4 CDN
+If you don't want to download and host Bootstrap 4 yourself, you can include it from a CDN (Content Delivery Network).
+
+MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
 
 ```html
 <!DOCTYPE html>
@@ -13,21 +19,33 @@ tags: bootstrap frontend
   <title>Bootstrap 4 Example</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
+  <!-- jQuery library -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <!-- Popper JS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+  <!-- Latest compiled JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
 </head>
 <body>
 
 <div class="container">
   <h1>My First Bootstrap Page</h1>
-  <p>This is some text.</p> 
+  <p>This is some text.</p>
 </div>
 
 </body>
 </html>
 ```
+
+## 3. Containers
+Bootstrap 4 also requires a containing element to wrap site contents.
+
+There are two container classes to choose from:
+1. The .container class provides a responsive fixed width container
+2. The .container-fluid class provides a full width container, spanning the entire width of the viewport
+
 ## Grid Basic
 Bootstrap 4 uses a mobile-first flexbox grid system allows up to 12 columns across the page.
 
@@ -66,7 +84,7 @@ Display headings are used to stand out more than normal headings (larger font-si
   <h1 class="display-4">Display 4</h1>
 </div>
 ```
-### <small>
+### \<small\>
 In Bootstrap 4 the HTML <small> element is used to create a lighter, secondary text in any heading:
 ```html
 <div class="container">
@@ -76,7 +94,7 @@ In Bootstrap 4 the HTML <small> element is used to create a lighter, secondary t
   <h2>h2 heading <small>secondary text</small></h2>
 </div>
 ```
-### <mark>
+### \<mark\>
 Bootstrap 4 will style the HTML <mark> element with a yellow background color and some padding:
 
 ```html
@@ -85,7 +103,7 @@ Bootstrap 4 will style the HTML <mark> element with a yellow background color an
   <p>Use the mark element to <mark>highlight</mark> text.</p>
 </div>
 ```
-### <abbr>
+### \<abbr\>
 Bootstrap 4 will style the HTML <abbr> element with a dotted border bottom:
 ```html
 <div class="container">
@@ -94,7 +112,7 @@ Bootstrap 4 will style the HTML <abbr> element with a dotted border bottom:
   <p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
 </div>
 ```
-### <blockquote>
+### \<blockquote\>
 Add the .blockquote class to a <blockquote> when quoting blocks of content from another source:
 ```html
 <div class="container">
@@ -106,11 +124,8 @@ Add the .blockquote class to a <blockquote> when quoting blocks of content from 
   </blockquote>
 </div>
 ```
-### <dl>
-```html
+### \<dl\>
 Bootstrap 4 will style the HTML <dl> element in the following way:
-```
-### <dl>
 ```html
 <div class="container">
   <h1>Description Lists</h1>    
@@ -132,8 +147,8 @@ Bootstrap 4 will style the HTML <code> element in the following wa
   <p>The following HTML elements: <code>span</code>, <code>section</code>, and <code>div</code> defines a section in a document.</p>
 </div>
 ```
-### <kbd>
-Bootstrap 4 will style the HTML <kbd> element in the following way:
+### \<kbd\>
+Bootstrap 4 will style the HTML \<kbd\> element in the following way:
 ```html
 <div class="container">
   <h1>Keyboard Inputs</h1>
@@ -141,7 +156,12 @@ Bootstrap 4 will style the HTML <kbd> element in the following way:
   <p>Use <kbd>ctrl + p</kbd> to open the Print dialog box.</p>
 </div>
 ```
-### <pre>
+<div class="container">
+  <h1>Keyboard Inputs</h1>
+  <p>To indicate input that is typically entered via the keyboard, use the kbd element:</p>
+  <p>Use <kbd>ctrl + p</kbd> to open the Print dialog box.</p>
+</div>
+### \<pre\>
 ```html
 <div class="container">
 <h1>Multiple Code Lines</h1>
@@ -156,5 +176,23 @@ line breaks.
 </div>
 ```
 
-    
-    
+class                 | description
+----------------------|--------------
+.font-weight-bold     |	Bold text	Try it
+.font-weight-normal   |	Normal text	Try it
+.font-weight-light    | Light weight text	Try it
+.font-italic	        | Italic text	Try it
+.lead	                | Makes a paragraph stand out	Try it
+.small	              | Indicates smaller text (set to 85% of the size of the parent)	Try it
+.text-left	          | Indicates left-aligned text	Try it
+.text-center	        | Indicates center-aligned text	Try it
+.text-right	          | Indicates right-aligned text	Try it
+.text-justify	        | Indicates justified text	Try it
+.text-nowrap	        | Indicates no wrap text	Try it
+.text-lowercase	      | Indicates lowercased text	Try it
+.text-uppercase	      | Indicates uppercased text	Try it
+.text-capitalize	    | Indicates capitalized text	Try it
+.initialism	          | Displays the text inside an <abbr> element in a slightly smaller font size	Try it
+.list-unstyled	      | Removes the default list-style and left margin on list items (works on both <ul> and <ol>). This class only applies to immediate children list items (to remove the default list-style from any nested lists, apply this class to any nested lists as well)	Try it
+.list-inline	        | Places all list items on a single line (used together with .list-inline-item on each <li> elements)	Try it
+.pre-scrollable       |	Makes a <pre> element scrollable

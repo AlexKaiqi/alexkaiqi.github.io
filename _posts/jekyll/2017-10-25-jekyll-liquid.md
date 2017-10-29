@@ -1,8 +1,10 @@
 ---
-layout: post
-title: Jekyll Liquid
+layout: blog
+istop: true
+title: "Jekyll Liquid"
 date: 2017-10-25 10:34:11
-categories: note jekyll liquid
+background-image: ../style/images/jekyll.jpg
+category: jekyll
 tags: jekyll liquid
 my_defined_variable_name: my defined content
 show_heading: true
@@ -24,14 +26,14 @@ Variables set in front matter are available to us at page.variable_name:
 
 ### There’s two tags in Liquid:
 * We can output variables by surrounding them in two curly braces.
-e.g. 
-```liquid 
-{% raw %}{{ variable }}{% endraw %} 
+e.g.
+```liquid
+{% raw %}{{ variable }}{% endraw %}
 ```
 * We can perform logic statements by surrounding them in a curly brace,
-percentage sign e.g. 
-```liquid 
-{% raw %}{% if statement %}{% endraw %} 
+percentage sign e.g.
+```liquid
+{% raw %}{% if statement %}{% endraw %}
 ```
 You can use your defined variable like this:
 ```liquid
