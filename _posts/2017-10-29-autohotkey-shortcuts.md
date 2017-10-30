@@ -2,7 +2,7 @@
 istop: true
 title: AutoHotKey Useful ShortCuts
 date: 2017-10-29 08:58:26
-background-image: ../style/images/
+background-image: ../style/images/autohotkey.jpg
 category: AutoHotKey
 tags: AutoHotKey ShortCut
 ---
