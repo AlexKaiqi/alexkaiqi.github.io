@@ -61,6 +61,7 @@ p, blockquote, ul, ol, dl, table, pre {
 }
 
 h1, h2, h3, h4, h5, h6 {
+    padding-top: 80px; /* height of header, to make anchor locate properly */
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
 }
@@ -1547,6 +1548,8 @@ pre code::after {
     display: inline-block;
     text-align: left;
     margin-top: 230px;
+    overflow-y: auto;
+    max-height: calc(100vh - 80px - 230px);
 }
 
 #directory ul, #directory li {
