@@ -5,7 +5,7 @@ date: 2017-10-28 16:22:11
 background-image: ../style/images/git.png
 category: git
 tags: git cheatsheet
-reprint-from:
+reprint-from: https://gist.github.com/hofmannsven/6814451
 ---
 Using Git
 ===============

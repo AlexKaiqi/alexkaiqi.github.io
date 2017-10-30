@@ -2,17 +2,11 @@
 title:            "Alex Kai的博客"
 description:      "即将步入社会|我想追求的生活是社么样呢|我想成为什么样的人呢"
 url:              "https://alexkaiqi.github.io/" # 域名
-signoff:          "Alex Kai" # Your name
-
-facebook_appid:   #facebook_id
-github_username:  alexkaiqi
-github_url: https://github.com/alexkaiqi
-twitter_username: alexkaiqi
-twitter_url: https://twitter.com/alexkaiqi
-stackoverflow_username: alex-kai
-stackoverflow_url: https://stackoverflow.com/users/7967346/alex-kai
-email: alexkaiqi@gmail.com
 baseurl: ""
+signoff:          "Alex Kai" # Your name
+email:            alexkaiqi@gmail.com
+
+
 #google_analytics:
 share:            true
 kramdown:
@@ -21,6 +15,10 @@ kramdown:
 paginate: 15
 paginate_path: "alexkaiqipage:num"
 plugins: [jekyll-paginate]
+include: ['_pages']
+# ------------ CONFIGURABLE END ------------
+
+
 links:
   - name:         首页
     url:          /
@@ -40,11 +38,9 @@ links:
   - name:         关于
     url:          /about
     external:     false
-# ------------ CONFIGURABLE END ------------
-include: ['_pages']
-#permalink:        /:categories/:title.html
 
 
+#defaults:
 defaults:
   -
     scope:
@@ -61,3 +57,25 @@ defaults:
       layout: "default"
       author: "Alex Kai"
       permalink: /:category/
+
+#social links
+facebook_appid:   #facebook_id
+github_username:  alexkaiqi
+github_url: https://github.com/alexkaiqi
+twitter_username: alexkaiqi
+twitter_url: https://twitter.com/alexkaiqi
+stackoverflow_username: alex-kai
+stackoverflow_url: https://stackoverflow.com/users/7967346/alex-kai
+social:
+  - name: facebook
+    url:
+    username: alexkaiqi
+  - name: twitter
+    url: https://twitter.com/alexkaiqi
+    username: alexkaiqi
+  - name: github
+    url: https://github.com/alexkaiqi
+    username: alexkaiqi
+  - name: stackoverflow
+    url: https://stackoverflow.com/users/7967346/alex-kai
+    username: alex-kai
