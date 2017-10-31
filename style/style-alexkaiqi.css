@@ -61,7 +61,6 @@ p, blockquote, ul, ol, dl, table, pre {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    padding-top: 80px; /* height of header, to make anchor locate properly */
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
 }
