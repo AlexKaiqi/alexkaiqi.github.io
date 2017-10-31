@@ -13,7 +13,7 @@ capcakes:
   - strawberry
 ---
 
-# Liquid
+## Liquid
 Liquid is a templating language Jekyll uses to process pages on your site.
 With Liquid you can output and modify variables,
 have logic statements inside your pages and loop over content.
