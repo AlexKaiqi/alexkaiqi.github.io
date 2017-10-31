@@ -13,12 +13,11 @@ capcakes:
   - strawberry
 ---
 
-## Liquid
+### Liquid
 Liquid is a templating language Jekyll uses to process pages on your site.
 With Liquid you can output and modify variables,
 have logic statements inside your pages and loop over content.
 
-## Output
 Let’s start with a basic example. We’ll add some content in front matter,
 then output it using front matter.
 Variables set in front matter are available to us at page.variable_name:
