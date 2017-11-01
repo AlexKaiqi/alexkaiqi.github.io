@@ -56,6 +56,12 @@ defaults:
       layout:     "default"
       author:     "Alex Kai"
       permalink:  /:category/
+  -
+    scope:
+      path:       "_posts/书籍"
+      types:      "posts"
+    values:
+      reprint-from: "https://liberxue.github.io"
 
 #social links
 facebook_appid:   #facebook_id
