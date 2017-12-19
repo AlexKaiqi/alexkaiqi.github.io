@@ -1,4 +1,4 @@
-@charset 'UTF-8';
+@charset "UTF-8";
 
 /* ==========================================================================
    #reset
@@ -61,8 +61,14 @@ p, blockquote, ul, ol, dl, table, pre {
 }
 
 h1, h2, h3, h4, h5, h6 {
+
+/*
+    padding-top: 80px;
+    margin-top: -80px;*/
+
     font-weight: normal;
     -webkit-font-smoothing: antialiased;
+
 }
 
 h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
@@ -71,7 +77,7 @@ h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, 
 
 h1 {
     font-size: 1.4em;
-    color: #6f7477;
+    color: #ff2d2d;
 }
 
 h2 {
@@ -81,7 +87,7 @@ h2 {
 
 h3 {
     font-size: 1.2em;
-    color: #333;
+    color: #3d97ff;
 }
 
 h4 {
@@ -1136,12 +1142,17 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 }
 
 .post-content h1::before, .post-content h2::before, .post-content h3::before, .post-content h4::before, .post-content h5::before, .post-content h6::before {
-    font-weight: 600;
+/*    font-weight: 600;
     position: absolute;
     top: 0;
     left: -15px;
     content: '#';
-    color: #eb5055;
+    color: #eb5055;*/
+
+    content:"";
+    display:block;
+    height:90px; /* fixed header height*/
+    margin:-90px 0 0; /* negative fixed header height */
 }
 
 .post-content pre {

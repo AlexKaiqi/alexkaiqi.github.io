@@ -6,7 +6,9 @@ background-image: ../style/images/bootstrap-4.jpeg
 category: bootstrap
 tags: bootstrap frontend
 ---
-## Bootstrap 4 CDN
+## Resources
+[Bootstrap 4 class reference](https://hackerthemes.com/bootstrap-cheatsheet/#!)
+## Bootstrap 4 CDNvn
 If you don't want to download and host Bootstrap 4 yourself, you can include it from a CDN (Content Delivery Network).
 
 MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
@@ -43,7 +45,7 @@ Bootstrap 4 also requires a containing element to wrap site contents.
 
 There are two container classes to choose from:
 1. The .container class provides a responsive fixed width container
-2. The .container-fluid class provides a full width container, spanning the entire width of the viewport
+2. The .container-fluidd class provides a full width container, spanning the entire width of the viewport
 
 ## Grid Basic
 Bootstrap 4 uses a mobile-first flexbox grid system allows up to 12 columns across the page.
