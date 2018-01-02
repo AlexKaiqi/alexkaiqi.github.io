@@ -1,0 +1,37 @@
+<footer class="container">
+    <!-- social links after article -->
+    <ul class="list-inline text-center">
+        {% for social in site.social %}
+        <li class="list-inline-item"><a href="{{ social.url }}">{{ social.name }}</a></li>
+        {% endfor %}
+    </ul>
+
+    <div class="row">
+        <!-- personal info and legal statement -->
+        <section class="col-sm-4">
+            <nav class="nav flex-column">
+                <a href="/" class="navbar-brand">
+                    <img src="{{ site.url }}/assets/images/logo.png" alt="Alex Kai" width="80px">
+                </a>
+                <a class="nav-link" href="#" title="访问 Jekyll alexkaiqi主题">Jekyll alexkaiqi</a>
+                <a class="nav-link" href="http://www.alexkaiqi.com/about" target="_blank">alexkaiqi</a>
+                <a class="nav-link" href="{{ site.url }}/tags/#Jekyll" title="Jekyll">Jekyll</a>
+                <p>总计文章：{{paginator.total_posts}}篇</p>
+            </nav>
+        </section>
+        <!-- top articlesc-->
+        <section class="col-sm-4">
+            <h5>置顶文章</h5>
+            <nav class="nav flex-column">
+
+            </nav>
+        </section>
+        <!-- recent articles -->
+        <section class="col-sm-4">
+            <h5>最新文章</h5>
+            <nav class="nav flex-column">
+
+            </nav>
+        </section>
+    </div>
+</footer>

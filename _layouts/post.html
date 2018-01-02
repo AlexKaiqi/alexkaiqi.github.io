@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<aside>
+
+</aside>
+<main class="container">
+    {% include header.html %}
+    <hr>
+    <article data-spy="scroll" data-target="#navbar-example2" data-offset="0">
+        {{ content }}
+    </article>
+    <hr>
+    <footer class="post-info">
+        {% if page.reprint-from %}
+        本文转载自<a href="{{page.reprint-from}}"> {{page.reprint-from}}</a><br>
+        {% else %}
+        本文由 <a href="/about">{{site.signoff}}</a> 创作，采用
+        <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a>
+        国际许可协议进行许可<br>
+        {% endif %}
+        本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>
+        最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
+    </footer>
+</main>

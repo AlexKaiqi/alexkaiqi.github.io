@@ -1,23 +1,99 @@
-# ----------- CONFIGURABLE START -----------
-title:            "Alex Kai的博客"
-description:      "即将步入社会|我想追求的生活是社么样呢|我想成为什么样的人呢"
-url:              "https://alexkaiqi.github.io/" # 域名
-baseurl:          ""
-signoff:          "Alex Kai" # Your name
-email:            alexkaiqi@gmail.com
-#google_analytics:
-share:            true
-kramdown:
-  input: GFM
-# 分页
-paginate: 15
-paginate_path: "alexkaiqipage:num"
-plugins:       [jekyll-paginate]
-include:       ['_pages']
-# ------------ CONFIGURABLE END ------------
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Alex Kai的博客
+email: alexkaiqi@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal blog sites for recording daily development
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://alexkaiqi.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 
-links:
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-last-modified-at
+
+paginate: 12
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+
+exclude: []
+
+#----------------Core Configuration End --------------------
+
+# Customized content global configurations.
+defaults:
+  -
+    scope:
+      path:       _posts
+      types:      posts
+    values:
+      layout:     post
+      author:     Alex Kai
+      #permalink:  /:year/:month/:day/:title.html
+      card-hover-effect: hovereffect
+  -
+    scope:
+      path:       _pages
+      types:      pages
+    values:
+      layout:     default
+      author:     Alex Kai
+      #permalink:  /:category/
+  -
+    scope:
+      path:       _posts/book
+      types:      posts
+    values:
+      reprint-from: https://liberxue.github.io
+
+# Social links
+social:
+  - name:       facebook
+    url:        https://facebook.com/alexkaiqi
+    username:   Alex Kai
+  - name:       twitter
+    url:        https://twitter.com/alexkaiqi
+    username:   Alex Kai
+  - name:       github
+    url:        https://github.com/alexkaiqi
+    username:   Alex Kai
+  - name:       stackoverflow
+    url:        https://stackoverflow.com/users/7967346/alex-kai
+    username:   Alex Kai
+
+# Navigation bar configuration
+nav-items:
   - name:         首页
     url:          /
     external:     false
@@ -36,52 +112,3 @@ links:
   - name:         关于
     url:          /about
     external:     false
-
-
-#defaults:
-defaults:
-  -
-    scope:
-      path:       "_posts"
-      types:      "posts"
-    values:
-      layout:     "blog"
-      author:     "Alex Kai"
-      permalink:  /:year/:month/:day/:title.html
-  -
-    scope:
-      path:       "_pages"
-      types:      "pages"
-    values:
-      layout:     "default"
-      author:     "Alex Kai"
-      permalink:  /:category/
-  -
-    scope:
-      path:       "_posts/书籍"
-      types:      "posts"
-    values:
-      reprint-from: "https://liberxue.github.io"
-
-#social links
-facebook_appid:   #facebook_id
-github_username:        alexkaiqi
-github_url:             https://github.com/alexkaiqi
-twitter_username:       alexkaiqi
-twitter_url:            https://twitter.com/alexkaiqi
-stackoverflow_username: alex-kai
-stackoverflow_url:      https://stackoverflow.com/users/7967346/alex-kai
-
-social:
-  - name:       facebook
-    url:        https://facebook.com/alexkaiqi
-    username:   alexkaiqi
-  - name:       twitter
-    url:        https://twitter.com/alexkaiqi
-    username:   alexkaiqi
-  - name:       github
-    url:        https://github.com/alexkaiqi
-    username:   alexkaiqi
-  - name:       stackoverflow
-    url:        https://stackoverflow.com/users/7967346/alex-kai
-    username:   alex-kai

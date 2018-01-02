@@ -1,0 +1,21 @@
+<div class="card">
+    <a href="{{ post.url }}">
+        <div class="{{ post.card-hover-effect }}">
+            <img class="card-img-top" src="{{ post.background-image }}" alt="Card image cap">
+            <div class="overlay">
+                <!--<h2>{{ post.title }}</h2>-->
+                <p>{{ post.content | strip_html | strip_newlines | truncate: 60 }}</p>
+            </div>
+        </div>
+    </a>
+
+    <div class="card-body ">
+        <a href="{{ post.url }}">
+            <h2 href="{{ post.url }}" class="card-title">{{ post.title }}</h2>
+        </a>
+    </div>
+    <div class="card-footer">
+        <a href="{{ post.url }}">{{ post.date  | date: "%Y-%m-%d" }}</a>
+        <a href="/tags#{{ post.category }}" title="访问 {{ post.category }}">{{ post.category }}</a>
+    </div>
+</div>
