@@ -1,0 +1,110 @@
+---
+---
+
+@import "variables";
+@import "hover-effect";
+@import "bootstrap/scss/bootstrap";
+
+table {
+  @extend .table;
+  @extend .table-hover;
+  thead {
+    @extend .thead-light;
+  }
+}
+
+blockquote {
+  @extend .blockquote;
+}
+
+nav {
+  margin-bottom: 1rem;
+}
+
+.card {
+  .hovereffect {
+    margin-bottom: 1rem;
+    img {
+      object-position: center;
+      object-fit: cover;
+    }
+  }
+  .card-body {
+    a {
+      text-decoration: none;
+      h2 {
+        color: black;
+        font-size: 1.1rem;
+        &:hover {
+          color: orange;
+        }
+      }
+    }
+
+  }
+
+  .card-footer {
+    a {
+      text-decoration: none;
+      color: grey;
+      &:hover {
+        color: orange;
+      }
+    }
+  }
+
+  &:hover {
+
+  }
+
+}
+
+main {
+
+  header {
+    margin-bottom: 1rem;
+  }
+
+  article {
+    font-size: 1.2rem;
+    line-height: 2.0rem;
+    h2,h3,h4,h5,h6 {
+      @extend .text-muted;
+    }
+    p img {
+      @extend .img-fluid;
+      @extend .img-thumbnail;
+    }
+  }
+
+  footer {
+
+  }
+
+}
+
+.card-columns {
+  @include media-breakpoint-only(md) {
+    column-count: 2;
+  }
+  @include media-breakpoint-only(lg) {
+    column-count: 3;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 4;
+  }
+}
+
+.row.equal-height {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.row.equal-height > [class*='col-'] {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  flex: 1;
+}
