@@ -71,17 +71,17 @@ defaults:
       author: Alex Kai
   -
     scope:
-
       path: _posts/book
       types: posts
     values:
       categories: book
-    -
+  -
     scope:
       path: _posts/tech
       types: posts
     values:
       categories: tech
+
 
 # Social links
 social:
