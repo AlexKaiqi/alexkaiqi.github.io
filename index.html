@@ -2,12 +2,8 @@
 layout: default
 ---
 <div class="card-columns">
-    {% for post in paginator.posts %}
-    {% if post.background-image %}
-    {% include card.html post=post %}
-    {% else %}
-    {% include card-no-image.html post=post %}
-    {% endif %}
+    {% for post in site.categories.book %}
+    {% include card-book.html post=post %}
     {% endfor %}
 </div>
 

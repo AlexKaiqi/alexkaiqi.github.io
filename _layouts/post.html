@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-<aside>
-
-</aside>
-<main class="container">
+{% include directory-aside.html %}
+<main>
     {% include header.html %}
     <hr>
     <article data-spy="scroll" data-target="#navbar-example2" data-offset="0">
@@ -23,3 +21,4 @@ layout: default
         最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
     </footer>
 </main>
+

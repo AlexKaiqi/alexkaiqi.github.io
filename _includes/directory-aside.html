@@ -1,3 +1,14 @@
+<script>
+    $(document).ready(function(){
+        var html = '';
+        $('h1, h2, h3, h4, h5, h6').each(function (i) {
+            if(this.id)
+                html += '<a class="nav nav-link" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
+        });
+        $('#section-nav').html(html);
+    });
+</script>
 <aside>
-
+    <nav id="section-nav" class="section-nav">
+    </nav>
 </aside>

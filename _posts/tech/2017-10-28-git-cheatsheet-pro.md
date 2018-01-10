@@ -1,8 +1,6 @@
 ---
 title: Git Github 技巧
 date: 2017-10-28 10:22:11
-background-image: ../assets/images/github.png
-category: github
 tags: git github cheatsheet
 reprint-from: https://github.com/tiimgreen/github-cheat-sheet
 ---
@@ -910,8 +908,9 @@ $ git config --global color.ui 1
 [*进一步了解 Git `config` 命令.*](http://git-scm.com/docs/git-config)
 
 ### Git 资源
+
 | Title | Link |
-| ----- | ---- |
+| --- | --- |
 | Official Git Site | http://git-scm.com/ |
 | Official Git Video Tutorials | http://git-scm.com/videos |
 | Code School Try Git | http://try.github.com/ |
@@ -926,8 +925,9 @@ $ git config --global color.ui 1
 | Git Visualization Playground | http://onlywei.github.io/explain-git-with-d3/#freeplay |
 
 #### Git 参考书籍
+
 | Title | Link |
-| ----- | ---- |
+| --- | --- |
 | Pragmatic Version Control Using Git | http://www.pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
 | Pro Git | http://git-scm.com/book |
 | Git Internals Pluralsight | https://github.com/pluralsight/git-internals-pdf |

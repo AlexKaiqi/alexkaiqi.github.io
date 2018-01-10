@@ -5,6 +5,42 @@
 @import "hover-effect";
 @import "bootstrap/scss/bootstrap";
 
+body {
+  position: relative;
+
+  nav {
+    margin-bottom: 1rem;
+  }
+
+  .section-nav {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 15rem;
+  }
+
+  main {
+    header {
+      margin-bottom: 1rem;
+    }
+    article {
+      font-size: 1.2rem;
+      line-height: 2.0rem;
+      h2, h3, h4, h5, h6 {
+        @extend .text-muted;
+      }
+      p img {
+        @extend .img-fluid;
+        @extend .img-thumbnail;
+      }
+    }
+    footer {
+
+    }
+
+  }
+}
+
 table {
   @extend .table;
   @extend .table-hover;
@@ -17,27 +53,22 @@ blockquote {
   @extend .blockquote;
 }
 
-nav {
-  margin-bottom: 1rem;
-}
-
 .card {
+
   .hovereffect {
     margin-bottom: 1rem;
-    img {
-      object-position: center;
-      object-fit: cover;
-    }
   }
+
   .card-body {
     a {
       text-decoration: none;
-      h2 {
-        color: black;
-        font-size: 1.1rem;
-        &:hover {
-          color: orange;
-        }
+    }
+
+    h2 {
+      color: black;
+      font-size: 1.1rem;
+      &:hover {
+        color: orange;
       }
     }
 
@@ -56,31 +87,6 @@ nav {
   &:hover {
 
   }
-
-}
-
-main {
-
-  header {
-    margin-bottom: 1rem;
-  }
-
-  article {
-    font-size: 1.2rem;
-    line-height: 2.0rem;
-    h2,h3,h4,h5,h6 {
-      @extend .text-muted;
-    }
-    p img {
-      @extend .img-fluid;
-      @extend .img-thumbnail;
-    }
-  }
-
-  footer {
-
-  }
-
 }
 
 .card-columns {
@@ -93,18 +99,4 @@ main {
   @include media-breakpoint-only(xl) {
     column-count: 4;
   }
-}
-
-.row.equal-height {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.row.equal-height > [class*='col-'] {
-  display: flex;
-  flex-direction: column;
-}
-
-.card {
-  flex: 1;
 }

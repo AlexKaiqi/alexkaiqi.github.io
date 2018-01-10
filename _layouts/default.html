@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
+<body data-spy="scroll" data-target="#section-nav">
 {% include nav.html %}
-<main class="container">
-    {{ content }}
-</main>
+<div class="container">
+{{ content }}
+</div>
 {% include footer.html %}
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>

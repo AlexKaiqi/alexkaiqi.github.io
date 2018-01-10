@@ -1,8 +1,6 @@
 ---
 title: Markdown cheatsheet
 date: 2017-10-24 15:23:22
-background-image: ../assets/images/markdown.png
-category: markdown
 tags: markdown cheatsheet
 ---
 # Typography

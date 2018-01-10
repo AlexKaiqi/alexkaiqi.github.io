@@ -1,9 +1,8 @@
 ---
 title: Jekyll Liquid
 date: 2017-10-25 10:34:11
-background-image: ../assets/images/jekyll.jpg
-category: jekyll
 tags: jekyll liquid
+
 my_defined_variable_name: my defined content
 show_heading: true
 capcakes:
@@ -12,7 +11,8 @@ capcakes:
   - strawberry
 ---
 
-### Liquid
+## Liquid
+
 Liquid is a templating language Jekyll uses to process pages on your site.
 With Liquid you can output and modify variables,
 have logic statements inside your pages and loop over content.
@@ -21,7 +21,9 @@ Let’s start with a basic example. We’ll add some content in front matter,
 then output it using front matter.
 Variables set in front matter are available to us at page.variable_name:
 
-### There’s two tags in Liquid:
+
+## There’s two tags in Liquid:
+
 * We can output variables by surrounding them in two curly braces.
 e.g.
 ```liquid
@@ -37,7 +39,9 @@ You can use your defined variable like this:
 {{ page.my_defined_variable_name }}
 ```
 
-### Filters
+
+## Filters
+
 We can run a variable through a filter to modify the output.
 To use filter we'll add "|" after the variable the pass it a filter.
 For example we want the output to be uppercase.
@@ -54,7 +58,8 @@ Here we’ll run in through a truncate to only output a maximum of eight charact
 {{ page.my_defined_variable_name | upcase | truncate: 8 }}
 ```
 
-### Logic Statements
+## Logic Statements
+
 Let’s control whether the h1 is output on the page.
 We’ll add a new variable to the front matter called show_heading
 and initalize it to true.
@@ -63,7 +68,9 @@ Then we’ll surround the h1 in an if statement to check if show_heading is true
     ## {{ page.my_defined_variable_name | upcase }}
 {% endif %}
 
-### Loops
+
+## Loops
+
 Let’s create a cupcakes array in front matter then loop over it
 in Liquid and output it in an unordered list.
 The syntax to loop in Liquid is for variable in array,
@@ -81,7 +88,9 @@ Your Content
    * {{ page.url }}
 {% endif %}{% endfor %}
 
-### syntax hightlight
+
+## syntax hightlight
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight liquid %}
@@ -98,4 +107,8 @@ Jekyll also offers powerful support for code snippets:
 {% raw %}{% endhighlight %}{% endraw %}
 {% endhighlight %}
 
+
+## Useful Resources
+
 [supported language in jekyll](https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/)
+[Jekyll & Liquid cheatsheet](https://gist.github.com/smutnyleszek/9803727)

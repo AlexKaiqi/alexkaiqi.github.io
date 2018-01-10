@@ -1,13 +1,10 @@
 ---
 title: Bootstrap 4 Get Started
 date: 2017-10-27 11:09:00
-background-image: ../assets/images/bootstrap-4.jpeg
-category: bootstrap
-tags: bootstrap frontend
+tags: bootstrap
 ---
-## Resources
-[Bootstrap 4 class reference](https://hackerthemes.com/bootstrap-cheatsheet/#!)
 ## Bootstrap 4 CDNvn
+
 If you don't want to download and host Bootstrap 4 yourself, you can include it from a CDN (Content Delivery Network).
 
 MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also include jQuery:
@@ -39,14 +36,18 @@ MaxCDN provides CDN support for Bootstrap's CSS and JavaScript. You must also in
 </html>
 ```
 
+
 ## 3. Containers
+
 Bootstrap 4 also requires a containing element to wrap site contents.
 
 There are two container classes to choose from:
 1. The .container class provides a responsive fixed width container
 2. The .container-fluidd class provides a full width container, spanning the entire width of the viewport
 
+
 ## Grid Basic
+
 Bootstrap 4 uses a mobile-first flexbox grid system allows up to 12 columns across the page.
 
 If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
@@ -72,6 +73,7 @@ If you do not want to use all 12 columns individually, you can group the columns
 </div>
 ```
 ## Typographical
+
 ### Display Headings
 Display headings are used to stand out more than normal headings (larger font-size and lighter font-weight), and there are four classes to choose from: .display-1, .display-2, .display-3, .display-4
 ```html
@@ -156,11 +158,6 @@ Bootstrap 4 will style the HTML \<kbd\> element in the following way:
   <p>Use <kbd>ctrl + p</kbd> to open the Print dialog box.</p>
 </div>
 ```
-<div class="container">
-  <h1>Keyboard Inputs</h1>
-  <p>To indicate input that is typically entered via the keyboard, use the kbd element:</p>
-  <p>Use <kbd>ctrl + p</kbd> to open the Print dialog box.</p>
-</div>
 ### \<pre\>
 ```html
 <div class="container">
@@ -196,3 +193,6 @@ class                 | description
 .list-unstyled	      | Removes the default list-style and left margin on list items (works on both <ul> and <ol>). This class only applies to immediate children list items (to remove the default list-style from any nested lists, apply this class to any nested lists as well)	Try it
 .list-inline	        | Places all list items on a single line (used together with .list-inline-item on each <li> elements)	Try it
 .pre-scrollable       |	Makes a <pre> element scrollable
+
+## Resources
+[Bootstrap 4 class reference](https://hackerthemes.com/bootstrap-cheatsheet/#!)

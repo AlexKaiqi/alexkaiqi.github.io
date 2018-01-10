@@ -55,27 +55,33 @@ exclude: []
 defaults:
   -
     scope:
-      path:       _posts
-      types:      posts
+      path: _posts
+      types: posts
     values:
-      layout:     post
-      author:     Alex Kai
+      layout: post
+      author: Alex Kai
       #permalink:  /:year/:month/:day/:title.html
       card-hover-effect: hovereffect
   -
     scope:
-      path:       _pages
-      types:      pages
+      path: _pages
+      types: pages
     values:
-      layout:     default
-      author:     Alex Kai
-      #permalink:  /:category/
+      layout: default
+      author: Alex Kai
   -
     scope:
-      path:       _posts/book
-      types:      posts
+
+      path: _posts/book
+      types: posts
     values:
-      reprint-from: https://liberxue.github.io
+      categories: book
+    -
+    scope:
+      path: _posts/tech
+      types: posts
+    values:
+      categories: tech
 
 # Social links
 social:
@@ -101,7 +107,7 @@ nav-items:
     url:          /book
     external:     false
   - name:         旅游
-    url:          /road
+    url:          /travel
     external:     false
   - name:         归档
     url:          /archives

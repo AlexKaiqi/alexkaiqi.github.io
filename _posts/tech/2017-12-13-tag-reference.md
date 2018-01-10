@@ -1,13 +1,11 @@
 ---
 title: HTML5 tag reference
 date: 2017-12-13 13:04:44
-background-image: ../assets/images/html5.png
-category: html5
 tags: html html5 tag reference
 ---
 **Only html5 supported tags**
 
-### Basic HTML
+## Basic HTML
 
 Tag | Description
 --- | ---
@@ -23,13 +21,13 @@ Tag | Description
 [\<!--...--\>](https://www.w3schools.com/tags/tag_comment.asp) | Defines a comment
 
 
-### Frames
+## Frames
 
 Tag | Description
 --- | ---
 [\<iframe\>](https://www.w3schools.com/tags/tag_iframe.asp) | Defines an inline frame
 
-### Formatting
+## Formatting
 
 Tag | Description
 ---|---
@@ -66,7 +64,7 @@ Tag | Description
 [\<wbr\>](https://www.w3schools.com/tags/tag_wbr.asp) | Defines a possible line-break
 
 
-### Forms and Input
+## Forms and Input
 
 Tag | Description
 --- | ---
@@ -84,7 +82,7 @@ Tag | Description
 [\<output\>](https://www.w3schools.com/tags/tag_output.asp) | Defines the result of a calculation
 
 
-### Images
+## Images
 
 Tag | Description
 --- | ---
@@ -97,7 +95,7 @@ Tag | Description
 [\<picture\>](https://www.w3schools.com/tags/tag_picture.asp) | Defines a container for multiple image resources
 
 
-### Audio / Video
+## Audio / Video
 
 Tag | Description
 --- | ---
@@ -107,7 +105,7 @@ Tag | Description
 [\<video\>](https://www.w3schools.com/tags/tag_video.asp) | Defines a video or movie
 
 
-### Links
+## Links
 
 Tag | Description
 --- | ---
@@ -116,7 +114,7 @@ Tag | Description
 [\<nav\>](https://www.w3schools.com/tags/tag_nav.asp) | Defines navigation links
 
 
-### Lists
+## Lists
 
 Tag | Description
 --- | ---
@@ -130,7 +128,7 @@ Tag | Description
 [\<menuitem\>](https://www.w3schools.com/tags/tag_menuitem.asp) | Defines a command/menu item that the user can invoke from a popup menu
 
 
-### Tables
+## Tables
 
 Tag | Description
 --- | ---
@@ -146,7 +144,7 @@ Tag | Description
 [\<colgroup\>](https://www.w3schools.com/tags/tag_colgroup.asp) | Specifies a group of one or more columns in a table for formatting
 
 
-### Styles and Semantics
+## Styles and Semantics
 
 Tag | Description
 --- | ---
@@ -165,7 +163,7 @@ Tag | Description
 [\<data\>](https://www.w3schools.com/tags/tag_data.asp) | Links the given content with a machine-readable translation
 
 
-### Meta Info
+## Meta Info
 
 Tag | Description
 --- | ---

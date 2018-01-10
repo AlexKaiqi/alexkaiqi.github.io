@@ -1,18 +1,16 @@
 ---
 title: AutoHotKey Useful ShortCuts
 date: 2017-10-29 08:58:26
-background-image: ../assets/images/autohotkey.jpg
-category: AutoHotKey
 tags: AutoHotKey ShortCut
 ---
 
-### Start a program
+## Start a program
 ```script
 !q:: run, C:\Users\alexk\Documents\WinApp ShortCut\QQ
 return
 ```
 
-### Search selected text in default browser
+## Search selected text in default browser
 ```script
 ; search lighlight text in default browser
 ^+c:: ; ctrl shift + c
@@ -24,7 +22,7 @@ return
 }
 ```
 
-### Open file with specified program
+## Open file with specified program
 ```script
 ; Open file with specified program
 ^j:: ; ctrl + j
@@ -34,21 +32,21 @@ ClipWait ;waits for the clipboard to have content
 Run, C:\Users\alexk\AppData\Local\atom\atom.exe %clipboard%
 ```
 
-### Windows always on top, stroke again to disable
+## Windows always on top, stroke again to disable
 ```script
 ; Windows always on Top
 ^SPACE:: Winset, Alwaysontop, , A ; ctrl + space
 Return
 ```
 
-### Launch web app
+## Launch web app
 ```script
 ; Launch Chrome app exp. MakeTechEasier, you need set up chrome as default browser first
 ^+t::Run "www.maketecheasier.com" ; use ctrl+Shift+t
 return
 ```
 
-### Move up a folder in explorer
+## Move up a folder in explorer
 ```script
 ; Press ~ to move up a folder in Explorer
 #IfWinActive, ahk_class CabinetWClass
@@ -57,7 +55,7 @@ return
 return
 ```
 
-### Custom volume buttons
+## Custom volume buttons
 ```script
 ; Custom volume buttons
 +NumpadAdd:: Send {Volume_Up} ;shift + numpad plus
@@ -66,14 +64,14 @@ break::Send {Volume_Mute} ; Break key mutes
 return
 ```
 
-### Suspend AutoHotKey
+## Suspend AutoHotKey
 ```script
 ; Suspend AutoHotKey
 #ScrollLock::Suspend ; Win + scrollLock
 return
 ```
 
-### Insert a text to editor
+## Insert a text to editor
 ```script
 ; Insert jekyll blog front matter to editor
 !+f::
@@ -93,7 +91,7 @@ tags:
 return
 ```
 
-### Insert current time to editor
+## Insert current time to editor
 ```script
 ; Insert current time to
 !+t::
