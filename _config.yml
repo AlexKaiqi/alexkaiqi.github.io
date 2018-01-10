@@ -64,7 +64,7 @@ defaults:
       card-hover-effect: hovereffect
   -
     scope:
-      path: _pages
+      path: pages
       types: pages
     values:
       layout: default
@@ -78,10 +78,15 @@ defaults:
   -
     scope:
       path: _posts/tech
-      types: posts
+      type: posts
     values:
       categories: tech
-
+  -
+    scope:
+      path: _posts/life
+      type: posts
+    values:
+      categories: life
 
 # Social links
 social:
@@ -102,19 +107,17 @@ social:
 nav-items:
   - name:         首页
     url:          /
-    external:     false
   - name:         书籍
     url:          /book
-    external:     false
   - name:         旅游
     url:          /travel
-    external:     false
+  - name:         生活
+    url:          /life
+  - name:         技术
+    url:          /tech
   - name:         归档
     url:          /archives
-    external:     false
   - name:         标签
     url:          /tags
-    external:     false
   - name:         关于
     url:          /about
-    external:     false

@@ -1,0 +1,8 @@
+---
+permalink: life
+---
+<div class="card-columns">
+    {% for post in site.categories.life %}
+    {% include card-book.html post=post %}
+    {% endfor %}
+</div>
