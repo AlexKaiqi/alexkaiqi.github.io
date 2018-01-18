@@ -15,8 +15,8 @@ body {
   }
 
   .post-tags {
-    a {
-
+    .badge.badge-pill>a {
+      color: white;
     }
     .badge.badge-pill:nth-child(1n) {background: #6fa3ef;}
     .badge.badge-pill:nth-child(2n) {background: #ff9800;}

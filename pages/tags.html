@@ -4,13 +4,13 @@ permalink: tags
 <section class="post-tags">
     <h1>标签分类的博文--点击自动查找相应`Tags`</h1>
     <div>
-        {% assign tags =  site.posts | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+        {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
         {% for tag in tags %}
-        <a href="#{{ tag }}">
-            <span class="badge badge-pill">
+        <span class="badge badge-pill">
+             <a href="#{{ tag }}">
                 {{ tag }} {{ site.tags[tag].size }}
-            </span>
-        </a>
+             </a>
+        </span>
         {% endfor %}
     </div>
 </section>
@@ -27,7 +27,7 @@ permalink: tags
                 </a>
             </div>
             <div class="card-footer" style="padding: 0.2rem">
-                <a href="{{ post.url }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+                <a href="{{ post.url }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
                 <a href="/{{ post.category }}" class="card-link">{{ post.category }}</a>
             </div>
         </div>
