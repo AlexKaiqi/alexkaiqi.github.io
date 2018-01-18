@@ -32,11 +32,11 @@ This behavior means courage in my book.
 ## That's news to me
 对我来说很新鲜, 我之前并不知道
 
-A; Do you know that Rose is marrying to a foreign woman?
-A; 你知道Marry要和一个外国人结婚了吗?
+A: Do you know that Rose is marrying to a foreign woman?
+你知道Marry要和一个外国人结婚了吗?
 
 B: No I didn't know, that's news to me.
-B: 不, 我并不知道, 这对我来说很新鲜.
+不, 我并不知道, 这对我来说很新鲜.
 
 Really? We don't have to work tomorrow. That's news to me.
 这的吗? 明天不需要上班, 从没听说过.
@@ -54,10 +54,10 @@ I have rarely seen my parents flip out.
 这就是朋友该做的
 
 A: Thank you for helping me out!
-A: 谢谢你帮我!
+谢谢你帮我!
 
 B: You're welcome. That's what friends are for.
-B: 不用谢. 这是朋友该做的.
+不用谢. 这是朋友该做的.
 
 I will be here for you. That's what friends are for.
 我会在这等你的. 朋友不就是该这样吗.
@@ -147,10 +147,10 @@ It takes two to tangle, but I think it's more his fault.
 过往云烟
 
 A: Hey, I'm, sorry I hurt your feelings just now.
-A: Hey, 我很抱歉刚刚伤到你.
+Hey, 我很抱歉刚刚伤到你.
 
 B: Don't worry, it's water under the bridge.
-B: 别担心, 都过去了.
+别担心, 都过去了.
 
 All these small problems will be become water under the bridge.
 所有这些小问题都会变成过往云烟.
@@ -227,8 +227,8 @@ Think nothing of it, he is in the bad mood today.
 Tom was rude just now, think nothing of it.
 Tom 刚刚很无礼, 别放在心上.
 
-A; Thanks you so much for helping me out.
-A: 十分感谢你帮了我.
+A: Thanks you so much for helping me out.
+十分感谢你帮了我.
 
 B: Oh, think nothing of it, anybody would have done it.
 Oh, 别放在心上, 换作是别人也会这样做的.

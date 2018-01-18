@@ -163,10 +163,10 @@ My friends study quantum mechanics, it's greek to me.
 我听说的
 
 A: Where did you learned that news?
-A: 你在哪听说这个新闻的?
+你在哪听说这个新闻的?
 
 B: A little bird told me.
-B: 我听说的.
+我听说的.
 
 Janne and Lorry got married secretly, a little bird told me.
 Janne 和 Lorry 秘密的结婚了, 我听说的.
@@ -262,7 +262,7 @@ We had a big fight a month ago, and the rest is history.
 不用算上我
 
 A: We're going to have a party tonight, are you coming?
-A: 我们今晚打算举办一个聚会, 你来吗?
+我们今晚打算举办一个聚会, 你来吗?
 
 B: I have to work tonight, so count me out.
 我今天必须要工作, 所以不用算上我.

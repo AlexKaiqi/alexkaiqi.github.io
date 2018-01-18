@@ -149,7 +149,7 @@ I can't believe I get the invitation. I am really flattered.
 我不敢相信收到了邀请, 我真的受宠若惊.
 
 A: Your cooking is so good.
-A: 你的菜真好吃.
+你的菜真好吃.
 
 B: Thank you. I am flattered.
 谢谢, 我受宠若惊.
@@ -206,22 +206,22 @@ It's been a long time. How is you study?
 你也一样
 
 A: Enjoy your weekend!
-A: 周末玩的愉快!
+ 周末玩的愉快!
 
 B: Same to you.
-B: 你也是.
+你也是.
 
 A: Happy new year!
-A: 新年快乐!
+新年快乐!
 
-B: Thank you. Same to you.
-B: 谢谢. 你也是.
+Thank you. Same to you.
+谢谢. 你也是.
 
 A: Enjoy you summer holiday!
-A: 假期玩的愉快!
+假期玩的愉快!
 
 B: Thanks a lot. Same to you.
-B: 十分感谢. 你也是.
+十分感谢. 你也是.
 
 ## Look before you leap
 三思而后行

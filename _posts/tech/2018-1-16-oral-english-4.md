@@ -23,13 +23,13 @@ A: Can you pass this message to her for me?
 你可以帮我向她传达这个消息吗?
 
 B: You bet!
-B: 当然!
+当然!
 
 A: Will you come to my party tomorrow night?
-A: 你会来参加我明晚的聚会吗?
+你会来参加我明晚的聚会吗?
 
 B: You bet!
-B: 当然!
+当然!
 
 ## Burn the midnight oil
 挑灯夜战
@@ -59,10 +59,10 @@ I'm up to my ears in study for the exam is coming.
 事情还没有决定, 悬而未决
 
 A: Have you decided where to spend your holiday?
-A: 你决定好在哪里度假了吗?
+你决定好在哪里度假了吗?
 
 B: No, it's up in the air.
-B: 没, 这事还没定.
+没, 这事还没定.
 
 I don't know the final plan, maybe it's still up in the air.
 我不知道最终的计划, 可能还没有决定吧.
@@ -134,10 +134,10 @@ Don't get me wrong, I am not a bad guy.
 听你的, 你决定
 
 A: Where should we spend our holiday?
-A: 我们该去哪里度假呢?
+我们该去哪里度假呢?
 
 B: It's up to you, we'll go wherever you like.
-B: 由你决定, 我们会去任何你想去的地方.
+由你决定, 我们会去任何你想去的地方.
 
 It's totally up to you to decide what we are having for dinner.
 完全由你决定接下来晚饭吃什么.
@@ -290,7 +290,7 @@ I'm Jenifer, how do I address you?
 我叫 Jenifer, 该如何称呼你?]
 
 A: How do I address you?
-A: 我该如何称呼你?
+我该如何称呼你?
 
 B: Please call me Frank.
-B: 叫我 Frank 就行了.
+叫我 Frank 就行了.
