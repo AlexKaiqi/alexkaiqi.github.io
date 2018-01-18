@@ -1,0 +1,38 @@
+---
+permalink: tags
+---
+<section class="post-tags">
+    <h1>标签分类的博文--点击自动查找相应`Tags`</h1>
+    <div>
+        {% assign tags =  site.posts | map: 'tags' | join: ','  | split: ',' | uniq | sort %}
+        {% for tag in tags %}
+        <a href="#{{ tag }}">
+            <span class="badge badge-pill">
+                {{ tag }} {{ site.tags[tag].size }}
+            </span>
+        </a>
+        {% endfor %}
+    </div>
+</section>
+
+{% for tag in tags %}
+<section id="#{{ tag }}">
+    <h2>{{ tag }}</h2>
+    <div class="card-columns">
+        {% for post in site.tags[tag] %}
+        <div class="card">
+            <div class="card-body" style="padding: 0.2rem 0.1rem 0 0">
+                <a href="{{ post.url }}">
+                    <h2 class="card-title" style="font-size: 1rem;">{{ post.title | truncate: 18}}</h2>
+                </a>
+            </div>
+            <div class="card-footer" style="padding: 0.2rem">
+                <a href="{{ post.url }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+                <a href="/{{ post.category }}" class="card-link">{{ post.category }}</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+{% endfor %}
