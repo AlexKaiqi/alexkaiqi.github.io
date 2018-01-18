@@ -274,4 +274,26 @@ The world cup is about to begin. Chines soccer fans will have to stay up late ag
 The exams are coming. Many people are planning to stay up late.
 快要考试了. 很多人都计划熬夜.
 
-##
+## No big deal
+没什么大不了的
+
+You get hurt and you move on. No big deal.
+你受了伤继续走. 没什么大不了的.
+
+I just twisted my anchor. No big deal. Don't worry.
+我只是扭伤了脚. 没什么. 不用担心.
+
+You just say what's in your mind. No big deal.
+你只要说出心里话. 没什么大不了的.
+
+## Stand somebody up
+放某人鸽子
+
+I'm so sorry that I stood you up last night. I had to work late.
+我很抱歉昨晚爽约了. 不得不工作到很晚.
+
+It's impolite to stand somebody up without any reason.
+不说理由就爽约很没礼貌.
+
+I'm sorry. I won't stand you up again. You have my word.
+我错了. 我不会再放你鸽子了. 我保证.
