@@ -1,11 +1,13 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body data-spy="scroll" data-target="#section">
+{% include nav.html %}
 {% include section-nav-aside.html %}
-<main>
+<main class="container">
     {% include header.html %}
     <hr>
-    <article data-spy="scroll" data-target="#navbar-example2" data-offset="0">
+    <article>
         {{ content }}
     </article>
     <hr>
@@ -21,4 +23,21 @@ layout: default
         最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
     </footer>
 </main>
+{% include footer.html %}
+<script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+<script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
+<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+<script>
+    $(document).ready(function(){
+        var html = '';
+        $('article>h2').each(function (i) {
+            if(this.id)
+                html += '<a class="nav nav-link" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
+        });
+        $('#section-nav-aside').html(html);
+    });
+</script>
+</body>
+</html>
+
 

@@ -214,6 +214,15 @@ He has been living in a bed of roses since he was born.
 High school students always believe that university life is a bed of roses.
 高中生总是相信大学生活是舒适安逸的.
 
+Life hasn't always been a bed of roses. It's also filled with difficulties.
+生活不总是称心如意. 它还充满困难.
+
+I remember what it's like to be in the 20's. It's not a bed of rose.
+我记得20年代的生活. 那时并不是一直称心如意.
+
+Even though life isn't always a bed of roses. You should have hopes.
+尽管生活不总是如意. 你应该抱着希望.
+
 ## Put on weight
 长胖
 

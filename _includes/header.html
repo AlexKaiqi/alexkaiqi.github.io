@@ -8,9 +8,11 @@
         <div class="post-tags">
             {% unless page.tags == empty %}
             {% for tag in page.tags %}
-            <a href="/tags#{{ tag }}" title="访问{{ tag }}">
-                 <span class="badge badge-pill badge-primary">{{ tag }}({{ site.tags[tag].size }})</span>
-            </a>
+            <span class="badge badge-pill">
+                <a href="/tags#{{ tag }}" title="访问{{ tag }}">
+                    {{ tag }}({{ site.tags[tag].size }})
+                </a>
+            </span>
             {% endfor %}
             {% endunless %}
         </div>

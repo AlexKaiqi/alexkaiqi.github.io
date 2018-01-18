@@ -7,7 +7,7 @@ permalink: tags
         {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
         {% for tag in tags %}
         <span class="badge badge-pill">
-             <a href="#{{ tag }}">
+             <a href="#section-{{ tag }}">
                 {{ tag }} {{ site.tags[tag].size }}
              </a>
         </span>
@@ -16,8 +16,8 @@ permalink: tags
 </section>
 
 {% for tag in tags %}
-<section id="#{{ tag }}">
-    <h2>{{ tag }}</h2>
+<section id="section-{{ tag }}">
+    <h2 class="text-muted">{{ tag }}</h2>
     <div class="card-columns">
         {% for post in site.tags[tag] %}
         <div class="card">
@@ -27,8 +27,8 @@ permalink: tags
                 </a>
             </div>
             <div class="card-footer" style="padding: 0.2rem">
-                <a href="{{ post.url }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
-                <a href="/{{ post.category }}" class="card-link">{{ post.category }}</a>
+                <a href="/archives/{{ post.url }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
+                <a href="/{{ post.categories }}" class="card-link" style="float: right">{{ post.categories }}</a>
             </div>
         </div>
         {% endfor %}
