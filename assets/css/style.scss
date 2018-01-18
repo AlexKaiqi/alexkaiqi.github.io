@@ -3,6 +3,8 @@
 
 @import "variables";
 @import "hover-effect";
+@import "section-nav-aside";
+@import "card-book";
 @import "bootstrap/scss/bootstrap";
 
 body {
@@ -12,77 +14,56 @@ body {
     margin-bottom: 1rem;
   }
 
-  .section-nav {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 15rem;
-    max-height: 80%;
-    overflow-y: scroll;
+  .post-tags {
+    a {
+
+    }
+    .badge.badge-pill:nth-child(1n) {background: #6fa3ef;}
+    .badge.badge-pill:nth-child(2n) {background: #ff9800;}
+    .badge.badge-pill:nth-child(3n) {background: #46c47c;}
+    .badge.badge-pill:nth-child(4n) {background: #f9bb3c;}
+    .badge.badge-pill:nth-child(5n) {background: #bc99c4;}
+    .badge.badge-pill:nth-child(6n) {background: #e8583d;}
+
   }
 
   main {
     header {
       margin-bottom: 1rem;
     }
+
     article {
       font-size: 1.2rem;
       line-height: 2.0rem;
-
-      h2, h3, h4, h5, h6 {
-        @extend .text-muted;
+      & > blockquote {
+        @extend .blockquote;
       }
-      p img {
+      & > table {
+        @extend .table;
+        @extend .table-hover;
+        thead {
+          @extend .thead-light;
+        }
+      }
+      pre {
+        background: #f4f4f4;
+        padding: 1rem;
+      }
+      & > h2, & > h3, & > h4, & > h5, & > h6 {
+        @extend .text-muted;
+        &::before {
+          content: '# ';
+          color: coral;
+        }
+      }
+      & > p > img {
         @extend .img-fluid;
         @extend .img-thumbnail;
       }
     }
-    footer {
+    & > footer {
 
     }
-
-  }
-}
-
-table {
-  @extend .table;
-  @extend .table-hover;
-  thead {
-    @extend .thead-light;
-  }
-}
-
-blockquote {
-  @extend .blockquote;
-}
-
-.card {
-
-  .card-body {
-    a {
-      text-decoration: none;
-    }
-    h2 {
-      color: black;
-      font-size: 1.1rem;
-      &:hover {
-        color: orange;
-      }
-    }
-  }
-
-  .card-footer {
-    a {
-      text-decoration: none;
-      color: grey;
-      &:hover {
-        color: orange;
-      }
-    }
-  }
-
-  &:hover {
-
   }
 }
 
