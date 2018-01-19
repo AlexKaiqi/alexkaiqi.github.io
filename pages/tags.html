@@ -1,13 +1,16 @@
 ---
 permalink: tags
 ---
+<!-- index page that categorizes posts by tags -->
+
+<!-- tags navigator -->
 <section class="post-tags">
     <h1>标签分类的博文--点击自动查找相应`Tags`</h1>
     <div>
         {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
         {% for tag in tags %}
         <span class="badge badge-pill">
-             <a href="#section-{{ tag }}">
+             <a href="#{{ tag }}">
                 {{ tag }} {{ site.tags[tag].size }}
              </a>
         </span>
@@ -15,24 +18,30 @@ permalink: tags
     </div>
 </section>
 
+<hr>
+
+<!-- tags in alphabetical order-->
 {% for tag in tags %}
-<section id="section-{{ tag }}">
+<section id="{{ tag }}">
+
     <h2 class="text-muted">{{ tag }}</h2>
+
+    <!-- posts of a certain tag -->
     <div class="card-columns">
         {% for post in site.tags[tag] %}
-        <div class="card">
-            <div class="card-body" style="padding: 0.2rem 0.1rem 0 0">
+        <div class="card card-tags">
+            <div class="card-body">
                 <a href="{{ post.url }}">
-                    <h2 class="card-title" style="font-size: 1rem;">{{ post.title | truncate: 18}}</h2>
+                    <h2 class="card-title">{{ post.title | truncate: 18}}</h2>
                 </a>
             </div>
-            <div class="card-footer" style="padding: 0.2rem">
-                <a href="/archives/{{ post.url }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
-                <a href="/{{ post.categories }}" class="card-link" style="float: right">{{ post.categories }}</a>
+            <div class="card-footer">
+                <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
+                <a href="/{{ post.categories }}" class="card-link float-right">{{ post.categories }}</a>
             </div>
         </div>
         {% endfor %}
     </div>
-</section>
 
+</section>
 {% endfor %}

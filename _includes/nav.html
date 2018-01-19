@@ -1,10 +1,13 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<!-- navigation bar on top of the page -->
+<nav class="navbar navbar-expand-lg">
     <div class="container">
+        <!-- navbar brand. customize the logo of yours in /assets/images/logo.png -->
         <a class="navbar-brand" href="/"><img src="/assets/images/logo.png" width="80px" alt="Alex Kai"></a>
+        <!-- toggle on small media device -->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu">
             <span class="navbar-toggler-icon"></span>
         </button>
-
+        <!-- nav-items, configured in _config.yml -->
         <div class="collapse navbar-collapse " id="menu">
             <ul class="navbar-nav ml-auto">
                 {% for item in site.nav-items %}
@@ -13,8 +16,9 @@
                 </li>
                 {% endfor %}
             </ul>
+            <!-- TODO: search box for post -->
             <form class="form-inline">
-                <input type="search" placeholder="Search" class="form-control" >
+                <input type="search" placeholder="Search" class="form-control bg-light text-muted" >
             </form>
         </div>
     </div>

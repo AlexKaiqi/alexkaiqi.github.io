@@ -1,7 +1,8 @@
 ---
-title: Oral English from 爱英语
+title: 爱英语-2
 date: 2018-01-11 13:07:30
 tags: english oral speak
+reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Hang in there
@@ -52,7 +53,7 @@ You don't know when your knowledge will come in handy.
 Your language skills will come in handy when you're abroad.
 你的语言技巧将会在你出国时派上用场.
 
-# Rain cats and dogs
+## Rain cats and dogs
 下倾盆大雨
 
 It was sunning in the morning, but it started to rain cats and dogs in the afternoon.

@@ -3,15 +3,48 @@
 {% include head.html %}
 <body data-spy="scroll" data-target="#section">
 {% include nav.html %}
-{% include section-nav-aside.html %}
+
+<!-- content navigator of the post  aside from main area -->
+<aside>
+    <nav id="section-nav-aside" class="section-nav-aside">
+    </nav>
+</aside>
+
+<!-- main area of the post -->
 <main class="container">
-    {% include header.html %}
+
+    <!-- header of the post -->
+    <header class="container">
+        <h1>{{ page.title }}</h1>
+        <div class="post-data">
+            <time datetime="{{ page.date | date: '%F'}}">发布时间：{{ page.date | date: "%F"}}
+            </time>
+            <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
+               data-hover="博客分类: {{ page.category }}">博客分类: {{ page.category }}
+            </a>
+            <div class="post-tags">
+                {% unless page.tags == empty %}
+                {% for tag in page.tags %}
+                <span class="badge badge-pill">
+                    <a href="/tags#{{ tag }}" title="访问{{ tag }}">
+                        {{ tag }}({{ site.tags[tag].size }})
+                    </a>
+                 </span>
+                {% endfor %}
+                {% endunless %}
+            </div>
+        </div>
+    </header>
+
     <hr>
+
+    <!-- content of the post -->
     <article>
         {{ content }}
     </article>
-    <hr>
-    <footer class="post-info">
+
+    <!--legislation info of the post -->
+        <footer class="post-info">
         {% if page.reprint-from %}
         本文转载自<a href="{{page.reprint-from}}"> {{page.reprint-from}}</a><br>
         {% else %}
@@ -23,16 +56,22 @@
         最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
     </footer>
 </main>
+
+<hr>
+
 {% include footer.html %}
+
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+
+<!-- script to create content navigator for the post aside from main area-->
+<!-- TODO  create a more delicate navigator -->
 <script>
     $(document).ready(function(){
         var html = '';
         $('article>h2').each(function (i) {
-            if(this.id)
-                html += '<a class="nav nav-link" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
+            html += '<a class="nav nav-link" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
         });
         $('#section-nav-aside').html(html);
     });

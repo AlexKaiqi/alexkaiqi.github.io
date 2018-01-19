@@ -2,23 +2,111 @@
 ---
 
 @import "variables";
-@import "hover-effect";
 @import "section-nav-aside";
-@import "card-book";
 @import "bootstrap/scss/bootstrap";
 
 body {
+  @extend .bg-dark;
+  @extend .text-muted;
   position: relative;
 
-  &>nav {
-    margin-bottom: 1rem;
+  /**
+  Style for navigatin bar
+   */
+  & > nav {
+    @extend .navbar-dark;
+    @extend .bg-dark;
+    margin-bottom: 2rem;
   }
 
+  /**
+  Style for main content
+   */
+  & > main {
+    a {
+      @extend .text-light;
+      text-decoration: none
+    }
+
+    margin-bottom: 2rem;
+
+    /**
+    Style for post header
+     */
+    & > header {
+      margin-bottom: 1rem;
+    }
+
+    /**
+    Style for post content
+     */
+    & > article {
+      font-size: $article-font-size;
+      line-height: $article-line-height;
+      margin-bottom: 1rem;
+      & > blockquote {
+        @extend .blockquote;
+      }
+      & > table {
+        @extend .table;
+        @extend .table-dark;
+        @extend .table-striped;
+        @extend .table-hover;
+        thead {
+          @extend .thead-light;
+        }
+      }
+      & > h2, & > h3, & > h4, & > h5, & > h6 {
+        color: darkturquoise;
+        &::before {
+          content: '# ';
+          color: mediumslateblue;
+        }
+      }
+      & > p > img {
+        @extend .img-fluid;
+        @extend .img-thumbnail;
+      }
+      pre {
+        padding: 0.5rem;
+      }
+    }
+
+    /**
+    Style for post footer
+     */
+    & > footer {
+
+    }
+  }
+
+  /**
+  Style for footer in page
+   */
+  & > footer {
+    a {
+      @extend .text-light;
+      text-decoration: none
+    }
+
+    margin-bottom: 2rem;
+  }
+
+  .section-nav-aside {
+    a {
+      @extend .text-light;
+      text-decoration: none
+    }
+  }
+
+  /**
+  Style for post-tags in tags.html
+   */
   .post-tags {
     .badge.badge-pill {
       margin-bottom: 0.2rem;
-      transition:all 0.5s ease;
-      a{
+      transition: all 0.5s ease;
+      a {
         text-decoration: none;
         color: white;
         font-size: 1.2rem;
@@ -30,55 +118,94 @@ body {
         transform: scale(1.2);
       }
     }
-    .badge.badge-pill:nth-child(1n) {background: #6fa3ef;}
-    .badge.badge-pill:nth-child(2n) {background: #ff9800;}
-    .badge.badge-pill:nth-child(3n) {background: #46c47c;}
-    .badge.badge-pill:nth-child(4n) {background: #f9bb3c;}
-    .badge.badge-pill:nth-child(5n) {background: #bc99c4;}
-    .badge.badge-pill:nth-child(6n) {background: #e8583d;}
+    .badge.badge-pill:nth-child(1n) {
+      background: #6fa3ef;
+    }
+    .badge.badge-pill:nth-child(2n) {
+      background: #ff9800;
+    }
+    .badge.badge-pill:nth-child(3n) {
+      background: #46c47c;
+    }
+    .badge.badge-pill:nth-child(4n) {
+      background: #f9bb3c;
+    }
+    .badge.badge-pill:nth-child(5n) {
+      background: #bc99c4;
+    }
+    .badge.badge-pill:nth-child(6n) {
+      background: #e8583d;
+    }
 
   }
 
-  main {
-    header {
-      margin-bottom: 1rem;
+  /**
+  Style for general card
+   */
+  .card {
+    @extend .bg-dark;
+    a {
+      text-decoration: none;
     }
+    .card-title {
+      font-size: 1.2rem;
+    }
+  }
 
-    article {
-      font-size: $article-font-size;
-      line-height: $article-line-height;
-      & > blockquote {
-        @extend .blockquote;
-      }
-      & > table {
-        @extend .table;
-        @extend .table-hover;
-        thead {
-          @extend .thead-light;
-        }
-      }
-      pre {
-        background: #f4f4f4;
-        padding: 1rem;
-      }
-      & > h2, & > h3, & > h4, & > h5, & > h6 {
-        @extend .text-muted;
-        &::before {
-          content: '# ';
-          color: coral;
-        }
-      }
-      & > p > img {
-        @extend .img-fluid;
-        @extend .img-thumbnail;
-      }
+  /**
+  Style card in archives.html
+   */
+  .card.card-archives {
+    .card-body {
+      padding-bottom: 0.2rem;
+      padding-right: 0.2rem;
     }
-    & > footer {
+    .card-footer {
 
     }
   }
+
+  /**
+  Sytle card in book.html
+   */
+  .card.card-book {
+    .card-img-wapper {
+      position: relative;
+      .card-img-overlay {
+        background-color: rgba(75, 75, 75, 0.7);
+        opacity: 0;
+        transition: opacity 0.8s ease;
+        a {
+          text-decoration: none;
+          color: white;
+        }
+        &:hover {
+          opacity: 1;
+        }
+      }
+    }
+    .card-body {
+
+    }
+
+  }
+
+  /**
+  Style for card in tech.html
+   */
+  .card.card-tech {
+  }
+  /**
+  Style for card in tags.html
+   */
+  .card.card-tags {
+  }
+
 }
 
+/**
+Style for how many columns in different media device
+ */
 .card-columns {
   @include media-breakpoint-only(md) {
     column-count: 2;

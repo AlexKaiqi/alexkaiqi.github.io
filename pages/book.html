@@ -1,8 +1,26 @@
 ---
 permalink: book
 ---
+<!-- index page for posts of categories: book -->
 <div class="card-columns">
     {% for post in site.categories.book %}
-    {% include card-book.html post=post %}
+    <div class="card card-book">
+        <div class="card-img-wapper">
+            <img class="card-img" src="{{ post.background-image }}" alt="Card image cap">
+            <div class="card-img-overlay">
+                <a href="{{ post.url }}">
+                    <p class="card-text">{{ post.content | strip_html | strip_newlines | truncate: 60 }}</p>
+                </a>
+            </div>
+        </div>
+        <div class="card-body">
+            <a href="{{ post.url }}">
+                <h2 class="card-title">{{ post.title }}</h2>
+            </a>
+        </div>
+        <div class="card-footer">
+            <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+        </div>
+    </div>
     {% endfor %}
 </div>

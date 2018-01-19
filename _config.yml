@@ -61,7 +61,6 @@ defaults:
       layout: post
       author: Alex Kai
       #permalink:  /:year/:month/:day/:title.html
-      card-hover-effect: hovereffect
   -
     scope:
       path: pages

@@ -1,6 +1,6 @@
 ---
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/91630214.jpg
-title: liberxue读过书|在读的书
+background-image: /assets/images/book-1.jpg
+title: 在读的书
 date: 1970-01-01 23:13:54
 tags: book
 ---

@@ -1,22 +1,24 @@
 ---
 permalink: /archives
 ---
-<h1>Archive</h1>
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
+<!-- index page that archives all posts by month in descending order -->
+<h1>Archives</h1>
+
+{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y-%b'"  %}
 {% for yearMonth in postsByYearMonth %}
 <section>
-    <h2>{{ yearMonth.name }}</h2>
+    <h2 id="{{ yearMonth.name }}">{{ yearMonth.name }}</h2>
     <div class="card-columns">
         {% for post in yearMonth.items %}
-        <div class="card">
-            <div class="card-body" style="padding: 0.2rem 0.1rem 0 0">
+        <div class="card card-archives">
+            <div class="card-body">
                 <a href="{{ post.url }}">
-                    <h2 class="card-title" style="font-size: 1rem;">{{ post.title}}</h2>
+                    <h2 class="card-title">{{ post.title}}</h2>
                 </a>
             </div>
-            <div class="card-footer" style="padding: 0.2rem">
-                <a href="/archives/{{ post.url }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
-                <a href="/{{ post.categories }}" class="card-link" style="float: right">{{ post.categories }}</a>
+            <div class="card-footer">
+                <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
+                <a href="/{{ post.categories }}" class="card-link float-right">{{ post.categories }}</a>
             </div>
         </div>
         {% endfor %}
