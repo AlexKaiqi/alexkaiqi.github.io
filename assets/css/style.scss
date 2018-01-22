@@ -53,7 +53,9 @@ body {
         @extend .table-striped;
         @extend .table-hover;
         thead {
-          @extend .thead-light;
+          //@extend .thead-light;
+          background-color: darkgrey;
+          color: black;
         }
       }
       & > h2, & > h3, & > h4, & > h5, & > h6 {
