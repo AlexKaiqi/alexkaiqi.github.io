@@ -6,9 +6,10 @@
 @import "bootstrap/scss/bootstrap";
 
 body {
-  @extend .bg-dark;
-  @extend .text-muted;
-  position: relative;
+
+  @extend .bg-dark; // dark theme
+  @extend .text-muted; // base font color
+  position: relative; // for bootstrap scrollspy
 
   /**
   Style for navigatin bar
@@ -23,12 +24,15 @@ body {
   Style for main content
    */
   & > main {
-    a {
-      @extend .text-light;
-      text-decoration: none
-    }
 
     margin-bottom: 2rem;
+
+    a {
+      @extend .text-light;
+      &:hover {
+        text-decoration: none;
+      }
+    }
 
     /**
     Style for post header
@@ -43,10 +47,8 @@ body {
     & > article {
       font-size: $article-font-size;
       line-height: $article-line-height;
-      margin-bottom: 1rem;
-      & > blockquote {
-        @extend .blockquote;
-      }
+      margin-bottom: 2rem;
+
       & > table {
         @extend .table;
         @extend .table-dark;
@@ -201,6 +203,10 @@ body {
   Style for card in tags.html
    */
   .card.card-tags {
+  }
+
+  blockquote {
+    @extend .blockquote;
   }
 
 }
