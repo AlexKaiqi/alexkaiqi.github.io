@@ -18,14 +18,13 @@ body {
     @extend .bg-dark;
     margin-bottom: 2rem;
     .search-box {
-      float: right;
       input {
-        @extend  .bg-light;
+        @extend .bg-light;
         @extend .text-muted;
         padding: 0 12px 0 25px;
         background-color: whitesmoke;
         border: 1px solid;
-        border-radius: 13px;
+        border-radius: 20px;
         &:focus {
           outline: none;
           border-color: white;
