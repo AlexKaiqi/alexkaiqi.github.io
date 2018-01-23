@@ -104,7 +104,8 @@ social:
 
 # Navigation bar configuration
 nav-items:
-
+  - name:         首页
+    url:          /
   - name:         书籍
     url:          /book
   - name:         旅游
