@@ -2,7 +2,6 @@
 ---
 
 @import "variables";
-@import "section-nav-aside";
 @import "bootstrap/scss/bootstrap";
 
 body {
@@ -18,6 +17,32 @@ body {
     @extend .navbar-dark;
     @extend .bg-dark;
     margin-bottom: 2rem;
+    .search-box {
+      float: right;
+      input {
+        @extend  .bg-light;
+        @extend .text-muted;
+        padding: 0 12px 0 25px;
+        background-color: whitesmoke;
+        border: 1px solid;
+        border-radius: 13px;
+        &:focus {
+          outline: none;
+          border-color: white;
+        }
+      }
+      .results-container {
+        display: block;
+        position: absolute;
+        top: 3.5rem;
+        left: inherit;
+        width: inherit;
+        z-index: 10;
+        .list-group-item {
+          background-color: gray;
+        }
+      }
+    }
   }
 
   /**
@@ -28,9 +53,10 @@ body {
     margin-bottom: 2rem;
 
     a {
-      @extend .text-light;
+      color: lightgray;
       &:hover {
         text-decoration: none;
+        color: lightslategray;
       }
     }
 
@@ -55,12 +81,15 @@ body {
         @extend .table-striped;
         @extend .table-hover;
         thead {
-          //@extend .thead-light;
           background-color: darkgrey;
           color: black;
         }
+        @extend .text-muted;
       }
-      & > h2, & > h3, & > h4, & > h5, & > h6 {
+      blockquote {
+        @extend .blockquote;
+      }
+      & > h1, & > h2, & > h3, & > h4, & > h5, & > h6 {
         color: darkturquoise;
         &::before {
           content: '# ';
@@ -89,126 +118,144 @@ body {
    */
   & > footer {
     a {
-      @extend .text-light;
-      text-decoration: none
+      color: lightgray;
+      &:hover {
+        text-decoration: none;
+        color: lightslategray;
+      }
     }
-
     margin-bottom: 2rem;
   }
 
-  .section-nav-aside {
-    a {
-      @extend .text-light;
-      text-decoration: none
+}
+
+
+/**
+Style for post content navigator
+ */
+.section-nav-aside {
+  position: fixed;
+  bottom: 2rem;
+  right: 1rem;
+  width: 15rem;
+  max-height: 80%;
+  overflow-y: auto;
+  a {
+    color: lightgray;
+    &:hover {
+      text-decoration: none;
+      color: lightslategray;
     }
   }
+  &::-webkit-scrollbar
+  {
+    width: 3px;
+    background-color: lightsalmon;
+    //border-radius: 2px;
+  }
+}
 
-  /**
-  Style for post-tags in tags.html
-   */
-  .post-tags {
-    .badge.badge-pill {
-      margin-bottom: 0.2rem;
-      transition: all 0.5s ease;
+/**
+Style for post-tags in tags.html
+ */
+.post-tags {
+  .badge.badge-pill {
+    margin-bottom: 0.2rem;
+    transition: all 0.5s ease;
+    a {
+      text-decoration: none;
+      color: white;
+      font-size: 1.2rem;
+    }
+    &:hover {
+      filter: contrast(150%);
+      -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+      transform: scale(1.2);
+    }
+  }
+  .badge.badge-pill:nth-child(1n) {
+    background: #6fa3ef;
+  }
+  .badge.badge-pill:nth-child(2n) {
+    background: #ff9800;
+  }
+  .badge.badge-pill:nth-child(3n) {
+    background: #46c47c;
+  }
+  .badge.badge-pill:nth-child(4n) {
+    background: #f9bb3c;
+  }
+  .badge.badge-pill:nth-child(5n) {
+    background: #bc99c4;
+  }
+  .badge.badge-pill:nth-child(6n) {
+    background: #e8583d;
+  }
+
+}
+
+/**
+Style for general card
+ */
+.card {
+  @extend .bg-dark;
+  a {
+    text-decoration: none;
+  }
+  .card-title {
+    font-size: 1.2rem;
+  }
+}
+
+/**
+Style card in archives.html
+ */
+.card.card-archives {
+  .card-body {
+    padding-bottom: 0.2rem;
+    padding-right: 0.2rem;
+  }
+  .card-footer {
+
+  }
+}
+
+/**
+Sytle card in book.html
+ */
+.card.card-book {
+  .card-img-wapper {
+    position: relative;
+    .card-img-overlay {
+      background-color: rgba(75, 75, 75, 0.7);
+      opacity: 0;
+      transition: opacity 0.8s ease;
       a {
         text-decoration: none;
         color: white;
-        font-size: 1.2rem;
       }
       &:hover {
-        filter: contrast(150%);
-        -webkit-transform: scale(1.2);
-        -ms-transform: scale(1.2);
-        transform: scale(1.2);
+        opacity: 1;
       }
     }
-    .badge.badge-pill:nth-child(1n) {
-      background: #6fa3ef;
-    }
-    .badge.badge-pill:nth-child(2n) {
-      background: #ff9800;
-    }
-    .badge.badge-pill:nth-child(3n) {
-      background: #46c47c;
-    }
-    .badge.badge-pill:nth-child(4n) {
-      background: #f9bb3c;
-    }
-    .badge.badge-pill:nth-child(5n) {
-      background: #bc99c4;
-    }
-    .badge.badge-pill:nth-child(6n) {
-      background: #e8583d;
-    }
+  }
+  .card-body {
 
   }
 
-  /**
-  Style for general card
-   */
-  .card {
-    @extend .bg-dark;
-    a {
-      text-decoration: none;
-    }
-    .card-title {
-      font-size: 1.2rem;
-    }
-  }
+}
 
-  /**
-  Style card in archives.html
-   */
-  .card.card-archives {
-    .card-body {
-      padding-bottom: 0.2rem;
-      padding-right: 0.2rem;
-    }
-    .card-footer {
+/**
+Style for card in tech.html
+ */
+.card.card-tech {
+}
 
-    }
-  }
-
-  /**
-  Sytle card in book.html
-   */
-  .card.card-book {
-    .card-img-wapper {
-      position: relative;
-      .card-img-overlay {
-        background-color: rgba(75, 75, 75, 0.7);
-        opacity: 0;
-        transition: opacity 0.8s ease;
-        a {
-          text-decoration: none;
-          color: white;
-        }
-        &:hover {
-          opacity: 1;
-        }
-      }
-    }
-    .card-body {
-
-    }
-
-  }
-
-  /**
-  Style for card in tech.html
-   */
-  .card.card-tech {
-  }
-  /**
-  Style for card in tags.html
-   */
-  .card.card-tags {
-  }
-
-  blockquote {
-    @extend .blockquote;
-  }
-
+/**
+Style for card in tags.html
+ */
+.card.card-tags {
 }
 
 /**
@@ -225,3 +272,6 @@ Style for how many columns in different media device
     column-count: 4;
   }
 }
+
+
+

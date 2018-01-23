@@ -10,11 +10,12 @@
     </nav>
 </aside>
 
+
 <!-- main area of the post -->
 <main class="container">
 
     <!-- header of the post -->
-    <header class="container">
+    <header>
         <h1>{{ page.title }}</h1>
         <div class="post-data">
             <time datetime="{{ page.date | date: '%F'}}">发布时间：{{ page.date | date: "%F"}}
@@ -64,7 +65,8 @@
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
-
+<!-- Configuration for search script. See <a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a> for more information-->
+<script src="{{'/assets/js/simple-jekyll-search.js' | prepend: site.baseurl }}"></script>
 <!-- script to create content navigator for the post aside from main area-->
 <!-- TODO  create a more delicate navigator -->
 <script>
@@ -76,6 +78,7 @@
         $('#section-nav-aside').html(html);
     });
 </script>
+
 </body>
 </html>
 

@@ -1,7 +1,8 @@
 /**
-Syntax hight for post content
+Syntax highlight for post content
  */
-.highlight code{color: #f8f8f2 }
+pre > code {color: white}
+.highlight code { color: white; }
 .highlight pre { background-color: #272822; }
 .highlight .hll { background-color: #272822; }
 .highlight .c { color: #75715e } /* Comment */
