@@ -1,0 +1,196 @@
+---
+title: 爱英语-10
+date: 2018-01-22 9:16:42
+tags: english oral speak
+reprint-from: 喜马拉雅-爱英语
+---
+
+## Show someone around
+带某人参观, 带某人逛逛
+
+You are a fresh man right? Let me show you around our campus.
+你是新生吧? 我带你参观一下我们的校园.
+
+Jenifer has been here for only two months. You can show her around tomorrow.
+Jenifer 来这才两个月. 你明天可以带他逛逛.
+
+## Make yourself at home
+别客气, 就当自己家一样
+
+Take a seat please. make yourself at home.
+请坐, 别客气.
+
+Make yourself at home. Help yourself to anything you want.
+别客气. 想要什么就拿好了.
+
+I have to go out for a half an hour. Please make yourself at home.
+我必须外出半小时. 请别客气.
+
+## Time is running out
+快没时间了
+
+Hurry up. Time is running out.
+快抓紧. 快没时间了
+
+What I'm really worried about is that time is running out.
+我真的担心的是快没时间了.
+
+Time is running out. I'm afraid we won't be able to finish the task.
+快没时间了. 我担心我们不能完成任务了.
+
+## Keep your chin up
+振作起来
+
+Don't be sad. Try to keep you chin up.
+别再伤心了, 振作起来.
+
+You should keep you chin up and don't let people laugh at you.
+你应该振作起来别让人们嘲笑你.
+
+Keep your chin up. You have a bright future a head of you.
+振作起来. 你的未来还无限光明.
+
+## Have a good of it
+玩的开心
+
+I heard that you are going to have a trip abroad. Have a good of it.
+我听说你们要去国外旅行了. 玩的开心.
+
+I'm sorry I can't make it to your birthday party. Have a good of it.
+我很抱歉不能去你的生日聚会了. 玩的开心.
+
+This event is very interesting. I had a good of it.
+这个活动十分有趣. 我玩的很开心.
+
+
+## In the long run
+长期来看, in the long term
+
+In the long run, we will benefit from this program.
+从长远来看, 我们会从这个项目中获益的.
+
+Your efforts will pay off in the long run.
+长远来看你的努力会有回报的.
+
+In the long run, this may not be the best decision.
+长期而言, 这可能不是最好的决定.
+
+## Make nice with someone
+与某人搞好关系, 讨好某人
+
+You must do everything to make nice with the investor.
+你必须用尽手段和投资者搞好关系.
+
+I have to make nice with my parents. I said something I shouldn't have this morning.
+我必须讨好父母. 我今天早上说了一些不该说的话.
+
+I'm pretty sure that he will make nice with those officers.
+我很确定他会讨好那些官员的.
+
+## Make a difference / Make no difference
+有影响, 有重要作用 / 没影响, 没作用
+
+I want to work in the UN, because I want to make a difference in the world.
+我想要在联合国工作, 因为我想要对世界做出影响.
+
+I'm glad that I worked really hard in my young. It made a huge difference in my life.
+我很高兴自己年轻时十分努力工作. 这对我的人生有重要影响.
+
+Some things don't cost money, but can make a real difference.
+一些东西不花钱, 但可能有重要作用.
+
+## If I were you
+如果换作是我的话
+
+If I were you, I would not do this.
+如果我是你的话, 我不会这么做.
+
+If I were you, I would go and get her back.
+如果我是你的话, 我就会把她追回来.
+
+If I were you, I would not give up so soon.
+如果我是你的话, 我不会这么快放弃.
+
+## How time flies
+时间过的真快, 光阴似箭
+
+How time flies. I have been graduated for ten years.
+时光飞逝. 我毕业已经有十年了.
+
+How time flies. Last time I saw you, you were still a little girl.
+时光飞逝. 上次我见你时, 你还是个小女孩.
+
+## Don't speak too soon
+不要过早下结论
+
+Don't speak too soon. The stock market has always been ups and downs.
+别过早下结论. 股市一直是跌宕起伏的.
+
+The final result isn't out yet. Don't speak too soon.
+最后结论还没有出来. 不过早下结论.
+
+Don't speak too soon, for there is no way of telling who will win in the end.
+别作灶下结论, 因为没人说得准最后谁会赢.
+
+## I don't have a clue
+我不知道, 我没有线索
+
+I'm a new comer. I don't have a clue what happened.
+我是个新来的. 我不知道发生了什么.
+
+Don't look at me. I don't have a clue what he is talking about either.
+别看着我. 我也不知道他在说什么.
+
+I don't have a clue. Could someone explain it to me?
+我不知道. 有人能帮我解决一下吗?
+
+## Ring a bell
+听起来耳熟
+
+The name does ring a bell with me.
+这个名字确实耳熟.
+
+The event may ring a bell with those who went to college 10 years ago.
+可能十年前进入大学的人熟悉这个事件.
+
+Sorry it doesn't ring a bell with me. Is it possible that you have the wrong person>
+抱歉我想不起来. 是不是你弄错人了?
+
+## It kills my eyes
+太精彩了, 亮瞎了我的眼
+
+Look at the dress on you. It kills my eyes.
+看看你身上穿的裙子. 真是太漂亮了.
+
+A: Check out my new cloth.
+看我的新衣服.
+B: Wow! It kills my eyes.
+哇! 亮瞎了我的眼.
+
+What a show! It kills my eyes.
+多么精彩的表演! 亮瞎了我的眼.
+
+## I've heard so much about you
+久闻大名
+
+It's such a great honer to meet you. I've heard so much about you.
+很荣幸见到你. 久仰大名.
+
+I've heard so much about you from sister. It's so nice to finally meet you in person.
+我从姐姐那听说过很多关于你的事. 恨高兴最终见到你本人.
+
+It's a great pleasure to see you. I've heard so much about you.
+见到你真荣幸. 久仰大名.
+
+## Raise one's eyebrows
+吃惊
+
+He raise his eyebrows at the news.
+他对这个新闻很惊讶.
+
+We raised our eyebrows when we saw him step on a cat.
+当我们看到他踩在一只猫身上时很惊讶.
+
+The teacher raised his eyebrows when he heard that Tom dropped out of school.
+老师听到 Tom 辍学后很惊讶.
+

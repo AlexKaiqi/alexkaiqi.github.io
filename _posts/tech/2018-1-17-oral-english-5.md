@@ -5,301 +5,195 @@ tags: english oral speak
 reprint-from: 喜马拉雅-爱英语
 ---
 
-## My hands are full right now
-我现在很忙
 
-Can you wait for a few minutes? My hands are full right now.
-你能等几分钟吗? 我现在很忙.
+## Talk is cheap
+说的容易, 光说没用
 
-My hands are full right now, I will get to you later.
-我现在很忙, 我待会会联系你.
+Talk is cheap, you have to take action.
+光说没用, 你必须采取行动.
 
-I can't help you, because my hands are full right now.
-我不能帮你, 因为我现在非常忙.
+Talk is cheap, he has to show his abilities.
+光说没用, 他还要显示他的能力.
 
-## I'm short on cash
-我缺钱, 手头有点紧
+## I wasn't born yesterday
+我又不是三岁小孩
 
-Can you lend me some money? I'm short on cash recently.
-你能借我点钱吗? 我最近手头有点紧.
+You just go and travel, I wasn't born yesterday, I can take care of myself.
+你们离开去旅行就行, 我又不是小孩子, 我能够照看好自己.
 
-I'm short on cash, I have to find a part time job.
-我现在缺钱, 我不得不找兼职.
+Don't fool me, I wasn't born yesterday.
+别骗我了我, 我又不是三岁小孩.
 
-Because I'm short on cash, I have cancelled all my travel plan.
-因为缺钱, 我取消了所有的旅行计划.
+Of course I know he is joking, I wasn't born yesterday.
+我当然知道他在开玩笑, 我又不是三岁小孩.
 
-## Have a sweet tooth
-喜欢吃甜食
+## Be in the same boat
+一根绳上的蚂蚱, 处境相同
 
-Most of the chidren have a sweet tooth.
-大多数小孩爱吃甜食.
+When the economy is not doing well, most people are in the same boat.
+但经济不景气时, 大多数人都出境相同.
 
-I have a sweet tooth, but my younger sister hates sweet foods.
-我爱吃甜食, 但我的妹妹讨厌甜的食物.
+I guess we are in the same boat, because we are both refused.
+我猜我们出境相同, 因为我们都被拒了.
 
-All the girls in my class have a sweet tooth.
-我的班上所有女孩都爱吃甜食.
+Henry was punished for being late, but he knows others are in the same boat with him.
+Henry 因为迟到受罚了, 但他知道其他人和他出境相同.
 
-I have a spicy tooth.
-我喜欢吃辣的.
+## Think nothing of something
+别放在心上
 
-## Pull one's leg
-开某人玩笑
+Think nothing of it, he is in the bad mood today.
+别放在心上, 他今天心情不好.
 
-Are you pulling my leg, I'm very serious right now.
-你在拿我开玩笑吗, 我现在非常认真.
+Tom was rude just now, think nothing of it.
+Tom 刚刚很无礼, 别放在心上.
 
-Jone always pulls my leg.
-Jone 总是拿我开玩笑.
+A: Thanks you so much for helping me out.
+十分感谢你帮了我.
 
-Marry is a serious person, don't pull her leg.
-Marry 是一个严肃的人, 不要开她的玩笑.
+B: Oh, think nothing of it, anybody would have done it.
+Oh, 别放在心上, 换作是别人也会这样做的.
 
-## Neck and neck
-不分上下, 势均力敌
+## I'm not myself today
+我今天状态不佳
 
-That game was really exciting, the two teams were really neck and neck.
-那个游戏真的很
+I'm not myslef today, so I don't want to go out.
+我今天不舒服, 所用我不想出门了.
 
-In terms of speed, my old car is neck and neck with a new one.
-说到速度, 我的旧车和新的一样快.
+I'm not myself today, and I have been making mistakes the whole day.
+我今天不舒服, 整天一直在犯错误.
 
-Jack and Morgan were neck and neck when they were running.
-Jack 和 Morgan 之前跑步时不分上下.
+## Under the weather
+心情不好, 身体不舒服
 
-## Blue
-心情低落
+You look under the weather, do you need to have a rest.
+你看起来不舒服, 需要休息一下吗.
 
-What happened? You look blue.
-发生什么了? 你看起来情绪低落.
+I am a little bit under the weather, and I want to go home now.
+我有点不舒服, 我现在想回家了.
 
-I can feel blue without any reason.
-我有时没有理由地感觉心情低落.
+It's easy for people to feel under the weather under so much pressure.
+人们在如此大的压力下很容易感到不舒服.
 
-He has been looking blue all week, something must be wrong.
-他已经整整一周看起来心情低落了, 一定是发生了什么.
+## The walls have ears
+隔墙有耳
 
-## Nice going
-干得漂亮
+We'd better keep our voice down, the walls have ears.
+我们最好降低音量, 隔墙有耳.
 
-That lecture was really great. Nice going.
-那个论文真的太棒了, 干的漂亮.
+Be careful of what you say for the walls have ears.
+小心你说的话, 因为隔墙有耳.
 
-Nice going, you organized a great event.
-干得漂亮, 有组织了一个伟大的活动.
+Don't speak to loud, the walls have ears.
+别说太大声, 隔墙有耳.
 
-You have made a huge progress. Nice going.
-你已经取得了巨大进步, 干的漂亮.
+## We better get going
+我们最好现在就出发
 
-## After you
-你先请
+We'd better get going, it starts to rain.
+我们最好现在就走, 开始下雨了.
 
-After you, you are the guest.
-你先请, 你是客人.
+The train is leaving in 30 minutes, we'd better get going.
+火车还有30分钟就出发了, 我们最好现在就走.
 
-After you, I will close the door.
-你先请, 我会关门的.
+It's so late, we better get going.
+已经这么晚了, 我们最好现在就走.
 
-After you, you know, lady first.
-你先请, 你知道的, 女士优先.
+## Never say die
+永不言弃
 
-## Waste one's breath
-白费口舌
+Never say die, you will succeed in the end.
+不要放弃, 你最终会成功的.
 
-You are wasting your breath, nobody is listening.
-你是在白费口舌, 没人在听.
+Never say die even in great difficulties.
+即便在困难之中也不要放弃.
 
-If you go to talk to him, you are wasting your breath.
-如果你去和他说, 你就是在白费口舌.
+Never say die, you are so close to success.
+永不言弃, 你距离成功已经十分近了.
 
-Don't waste your breath, you should do something.
-别白费口舌了, 你应该做些什么.
+## Seeing is believing
+眼见为实
 
-## Out of one's mind
-丧失了理智
+Seeing is believing, whatever you say is useless.
+眼见为实, 不管你说什么都没有用.
 
-Are you out of your mimd? You may hurt yourself.
-你疯了吗, 你会伤到你自己的.
+Seeing is believing, we have to see the real condition before we make any judgement.
+眼见为实, 在做出任何判前我们必须看到实际情况.
 
-He must be out of his mind, or he wouldn't leave his family.
-他一定是失去理智了, 不然他不会离开他的家人.
+## For crying out loud
+天啊! 表示强烈的语气.
 
-Are you out of your mind? Do you even realise what you just did!
-你疯了吗? 你知道你刚刚做了什么吗!
+For crying out loud! I've been waiting you for two hours, and you are still sleeping.
+天啊! 我已经等了你两个小时了, 结果你还在睡觉.
 
-## Haste makes waste
-欲速则不达, 心急吃不了热豆腐
+For crying out loud! Stop standing there and doing nothing.
+拜托! 别傻站在那啥事不干.
 
-Haste makes waste, there is no need to hurry.
-欲速则不达, 没有必要着急.
+For crying out loud! For how many time do I have to tell you not to be late.
+拜托, 我还要告诉你多少次不要迟到.
 
-Take your time, we've got enough time. You know haste makes waste.
-慢慢来, 我们有足够多的时间. 你知道的欲速则不达.
+## You bet
+当然, 一定
 
-Haste makes waste. We should do it step by step.
-欲速则不达. 我们应该一步步来.
+A: Can you pass this message to her for me?
+你可以帮我向她传达这个消息吗?
 
-## I am flattered
-我受宠若惊
+B: You bet!
+当然!
 
-Thank you for your praise. I am flattered.
-谢谢你的称赞, 我受宠若惊.
+A: Will you come to my party tomorrow night?
+你会来参加我明晚的聚会吗?
 
-I can't believe I get the invitation. I am really flattered.
-我不敢相信收到了邀请, 我真的受宠若惊.
+B: You bet!
+当然!
 
-A: Your cooking is so good.
-你的菜真好吃.
+## Burn the midnight oil
+挑灯夜战
 
-B: Thank you. I am flattered.
-谢谢, 我受宠若惊.
+He is a night person and often burns the midnight oil.
+他是个夜猫子,经常熬夜工作.
 
-## Cheap skate
-小气鬼, 吝啬的人
+You know burning the midnight oil is bad for you health.
+你知道, 熬夜工作对你的健康不好.
 
-I don't like Charly, he is a cheap skate.
-我不喜欢 Charly, 他是个小气鬼.
+I burned the midnight oil last night and now I can hardly keep my eyes open.
+我昨天晚上挑灯夜战了, 现在我几乎睁不开眼.
 
-Don't be like a cheap skate. You don't have to buy everything.
-别弄得跟个小气鬼一样, 你又不需要买下所有的东西.
+## I'm up to my ears
+忙的不可开交
 
-I am not a cheap skate, I am just short on cash recently.
-我不是一个吝啬的人, 我只是最近手头紧.
+I have been up to my ears recently, it's time to take a rest.
+最近我一直忙的不可开交, 是时候放松一下了.
 
-## Make it up to somebody
-补偿某人
+I'm sorry I couldn't go to your party, I'm up to my ears.
+我很抱歉不能参加你的聚会了, 我现在忙得不可开交.
 
-I am so sorry that I am late for 2 hours. I will make it up to you.
-我真的十分抱歉迟到了2小时. 我会补偿你的.
+I'm up to my ears in study for the exam is coming.
+因为快要考试, 我忙于学习.
 
-To make it up to you, this dinner is on me.
-为了补偿你, 这顿饭我请.
+## It't up in the air
+事情还没有决定, 悬而未决
 
-I am terribly sorry, Is there anything I can do to make it up to you?
-我真的万分抱歉. 有什么我可以补偿你的吗?
+A: Have you decided where to spend your holiday?
+你决定好在哪里度假了吗?
 
-## See you around
-回见, 后会有期
+B: No, it's up in the air.
+没, 这事还没定.
 
-I have to go to the bank now. See you around.
-我现在必须去银行, 待会见.
+I don't know the final plan, maybe it's still up in the air.
+我不知道最终的计划, 可能还没有决定吧.
 
-It's nice to meet you. See you around.
-见到你真好. 待会见.
+We have not decided to choose which one. It's up in the air.
+我们还没有决定选择哪一个, 这还是悬而未决的.
 
-I have to go. I'll see you around.
-我得走了, 回见.
+## My mouth is watering
+我流口水了
 
-## It's been a long time
-好久不见
+The dinner smells delicious, my mouth is watering.
+晚餐闻起来很美味, 我已经在流口水了.
 
-It's been a long time. How are you these days?
-好久不见, 最近过的怎么样?
+I can't wait to taste the turkey, my mouth is watering.
+我等不及尝一尝这个火鸡了, 我已经在流口水了.
 
-What a surprise! It's been a long time.
-哇! 好久不见.
-
-It's been a long time. How is you study?
-好久不见. 学习咋样了?
-
-## Same to you
-你也一样
-
-A: Enjoy your weekend!
- 周末玩的愉快!
-
-B: Same to you.
-你也是.
-
-A: Happy new year!
-新年快乐!
-
-Thank you. Same to you.
-谢谢. 你也是.
-
-A: Enjoy you summer holiday!
-假期玩的愉快!
-
-B: Thanks a lot. Same to you.
-十分感谢. 你也是.
-
-## Look before you leap
-三思而后行
-
-Look before you leap. It's an important decision.
-三思而后行. 这是一个重要的决定.
-
-That's alright. Next time, look before you leap.
-没关系. 下次记得三思而后行.
-
-Look before you leap. Or you will regret it.
-三思而后行. 否则你会后悔的.
-
-## What took you so long
-什么花了你这么长时间
-
-What took you so long? I have been waiting for you for 2 hours.
-什么花了你这么长时间? 我已经等了你2小时了.
-
-What took you so long? Everyone else is gone.
-什么花了你这么长时间? 所有人都走了.
-
-What took you so long? The movie has already started.
-什么花了你这么长时间? 电影已经开始了.
-
-## Fair and square
-光明正大
-
-I won the game fair and square. I didn't cheat.
-我光明正大地赢得了比赛. 我没有作弊.
-
-He won the competition fair and square. We should give him a big hand.
-他光明正大地赢得了比赛. 我们应该为他鼓掌.
-
-## Butter somebody up
-巴结, 讨好
-
-He likes to butter up new leaders.
-他喜欢讨好新领导.
-
-I bought a new TV to butter up my parents.
-我买了一台新的电视去讨好我的父母.
-
-You don't have to butter up everyone.
-你不必讨好每个人.
-
-## Pie in the sky
-不切实际的想法
-
-I think your plan is a pie in the sky. It's hard to realise.
-我认为你的计划是不切实际地想法. 很难实现.
-
-Stop talking about your dream. It's just a pie in the sky.
-别再讨论你的梦想了. 她只是不切实际的想法.
-
-At first I thought his promise was just a pie in the sky. But in the end he made it.
-开始我认为他的承诺只是不切实际的. 但是最终他实现了它.
-
-## Face the music
-面对现实
-
-Let's face the music. We have done something bad.
-让我们面对现实吧. 我们做了一些坏事.
-
-You should face the music. Other people don't have the responsibility to do everything for you.
-你应该面对现实. 别人没有义务为你做所有的事.
-
-Face the music. The only thing to do is to wait
-面对现实吧. 唯一能做的事就是等待.
-
-## Easy come easy go
-(钱财等东西)来的快去得也快
-
-Easy come easy go. Don't be upset about it.
-(钱)来的快去得也快. 别为之沮丧了.
-
-Easy come easy go. That's my attitude to money.
-来得快去得也快. 这就是我对钱的态度.
-
-
+The picture of that ice cream looks good, my mouth is watering already.
+这张关于那个冰淇凌的照片看起来很好, 我正在流口水.

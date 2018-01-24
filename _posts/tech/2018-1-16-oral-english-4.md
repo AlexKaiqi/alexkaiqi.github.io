@@ -5,293 +5,192 @@ tags: english oral speak
 reprint-from: 喜马拉雅-爱英语
 ---
 
-## For crying out loud
-天啊! 表示强烈的语气.
 
-For crying out loud! I've been waiting you for two hours, and you are still sleeping.
-天啊! 我已经等了你两个小时了, 结果你还在睡觉.
+## Check somebody out
+看的入迷, 盯着看
 
-For crying out loud! Stop standing there and doing nothing.
-拜托! 别傻站在那啥事不干.
+Have you noticed the man over there, he is totally checking you out.
+你注意到那边的男人了吗, 他完全就是看你看得入迷了.
 
-For crying out loud! For how many time do I have to tell you not to be late.
-拜托, 我还要告诉你多少次不要迟到.
+My goodness, if you are checking that beautiful woman out please don't make it so apparent.
+我的天, 如果你是看那个漂亮的女人入迷的话, 请不要表现的这么明显.
 
-## You bet
-当然, 一定
+## Take a lot out of somebody
+花费某人很多精力
 
-A: Can you pass this message to her for me?
-你可以帮我向她传达这个消息吗?
+Throwing the party took a lot out of me.
+举办这个聚会花了我很多精力.
 
-B: You bet!
-当然!
+Preparing for the college entrance exam took a lot out of me.
+备战高考花了我很多精力.
 
-A: Will you come to my party tomorrow night?
-你会来参加我明晚的聚会吗?
+## Throw a party
+举办聚会
 
-B: You bet!
-当然!
+I am planning to throw a party, are you coming?
+我正打算举办一个聚会, 你要来吗?
 
-## Burn the midnight oil
-挑灯夜战
+## In one's book
+以某人的观念看来
 
-He is a night person and often burns the midnight oil.
-他是个夜猫子,经常熬夜工作.
+There is no such word as giving up in my book.
+我的字典里没有放弃这个词.
 
-You know burning the midnight oil is bad for you health.
-你知道, 熬夜工作对你的健康不好.
+This behavior means courage in my book.
+在我看来这种行为代表了勇气.
 
-I burned the midnight oil last night and now I can hardly keep my eyes open.
-我昨天晚上挑灯夜战了, 现在我几乎睁不开眼.
+## That's news to me
+对我来说很新鲜, 我之前并不知道
 
-## I'm up to my ears
-忙的不可开交
+A: Do you know that Rose is marrying to a foreign woman?
+你知道Marry要和一个外国人结婚了吗?
 
-I have been up to my ears recently, it's time to take a rest.
-最近我一直忙的不可开交, 是时候放松一下了.
+B: No I didn't know, that's news to me.
+不, 我并不知道, 这对我来说很新鲜.
 
-I'm sorry I couldn't go to your party, I'm up to my ears.
-我很抱歉不能参加你的聚会了, 我现在忙得不可开交.
+Really? We don't have to work tomorrow. That's news to me.
+这的吗? 明天不需要上班, 从没听说过.
 
-I'm up to my ears in study for the exam is coming.
-因为快要考试, 我忙于学习.
+## Flip out
+发怒, 激怒
 
-## It't up in the air
-事情还没有决定, 悬而未决
+This news will flip him out.
+这个消息将会激怒他.
 
-A: Have you decided where to spend your holiday?
-你决定好在哪里度假了吗?
+I have rarely seen my parents flip out.
+我很少看到父母发怒.
 
-B: No, it's up in the air.
-没, 这事还没定.
+## That's what friends are for
+这就是朋友该做的
 
-I don't know the final plan, maybe it's still up in the air.
-我不知道最终的计划, 可能还没有决定吧.
+A: Thank you for helping me out!
+谢谢你帮我!
 
-We have not decided to choose which one. It's up in the air.
-我们还没有决定选择哪一个, 这还是悬而未决的.
+B: You're welcome. That's what friends are for.
+不用谢. 这是朋友该做的.
 
-## My mouth is watering
-我流口水了
+I will be here for you. That's what friends are for.
+我会在这等你的. 朋友不就是该这样吗.
 
-The dinner smells delicious, my mouth is watering.
-晚餐闻起来很美味, 我已经在流口水了.
+## Rock the boat
+捣乱
 
-I can't wait to taste the turkey, my mouth is watering.
-我等不及尝一尝这个火鸡了, 我已经在流口水了.
+Don't rock the boat, things are fine the way they are.
+别捣乱, 照现在的方式就很好.
 
-The picture of that ice cream looks good, my mouth is watering already.
-这张关于那个冰淇凌的照片看起来很好, 我正在流口水.
+We are at a critical time, I don't want anyone to rock the boat.
+我们正处于关键时期, 我不想有任何人捣乱.
 
-## For the time being
-暂时, 目前
+## Chicken out
+退缩, 临阵脱逃
 
-For the time being, I can take the workload.
-暂时, 我还承受得了这个工作强度.
+I'm afraid that I would chicken out in front of so many people.
+我担心自己在这么多人面前退缩.
 
-We can't afford such a big house for the time being.
-我们暂时还支付不起这么大的房子.
+Don't chicken out even if you are in great difficulties.
+即使在面临巨大挑战时也不要退缩.
 
-We should have a rest for the time being.
-我们应该暂时休息一下.
+## You can never tell
+谁也说不准, 什么都有可能.
 
-## Bit around the bush
-拐弯抹角, 说话不直接
+Some people seems to be joking but actully very sincere, you can never tell.
+有些人看起来是在开玩笑, 但实际上很真诚, 谁也说不准.
 
-Don't bit around the bush, just tell us what happened.
-别拐弯抹角了, 直接告诉我们发生了什么.
+Sometimes misfortune can turn into a blessing, you can never tell.
+有时候不幸可能变成幸运, 谁也说不准.
 
-We don't have a lot of time, so stop biting around the bush.
-我们没多少时间了, 别再拐弯抹角了.
+## On purpose
+故意的
 
-There is no need to bit around the bush, we are all good friend.
-没有必要拐弯抹角, 我们都是好朋友.
+She left her coat on the floor on purpose.
+她故意的将自己的大衣丢在地板上.
 
-## It slipped my mind
-忘记了
+I'm sorry I hit you in the back, but I didn't do it on purpose.
+我很抱歉打到了你的背, 但我不是故意这样做的.
 
-I meam to call you yesterday, but it slipped my mind.
-我昨天打算打电话给你的, 但忘记了.
+## Fly at somebody
+向某人发脾气
 
-It slipped my mind that we had a meeting today.
-我忘记今天有个会议了.
+He flies at me every time he loses his game.
+每次他输了比赛都会向我发脾气.
 
-I was so busy this morning and it slipped my mind.
-我早上太忙忘记了.
+Do not fly at others without any reason.
+不要无缘无故向别人发脾气.
 
-## Don't get me wrong
-别误会我
+## Easy does it
+放轻松, 慢慢来
 
-Don't get me wrong, I love my job very much.
-别误会我, 我十分喜爱我的工作.
+Easy does it, we have plenty of time.
+慢慢来, 我们有充足的时间.
 
-Don't get me wrong, I am not here to borrow money from you.
-别误会, 我不是来找你借钱的.
+Easy dose it, nobody is criticising you.
+放轻松, 没有人在责骂你.
 
-Don't get me wrong, I am not a bad guy.
-别误会我, 我不是坏人.
+## Be fed up with
+受够了, 厌烦了
 
-## It's up to you
-听你的, 你决定
+I am fed up with all these meaningless works.
+我受够了这些毫无意义的工作了.
 
-A: Where should we spend our holiday?
-我们该去哪里度假呢?
+We are fed up with his selfishness.
+我们已经受够了他的自私了.
 
-B: It's up to you, we'll go wherever you like.
-由你决定, 我们会去任何你想去的地方.
+## Step on one's toes
+激怒某人
 
-It's totally up to you to decide what we are having for dinner.
-完全由你决定接下来晚饭吃什么.
+Your mother is in bad mood today, don't step on her toes.
+你妈妈今天心情不好, 别惹怒了她.
 
-Don't ask me what to do next, it's up to you.
-别问我接下来怎么做, 这由你决定.
+They are very good friends, but from time to time they step on each others toes.
+他们是很好的朋友, 但是不是惹怒对方.
 
-## Let's talk over coffee
-让我们边喝咖啡边聊
+## It takes two to tangle
+一个巴掌拍不响
 
-I'm going to the Café. Let's talk over coffee.
-我们正打算去咖啡店. 让我们边喝咖啡边聊.
+Don't blame Marry alone, because it takes two to tangle.
+别指责 Marry 一个人, 一个巴掌拍不响.
 
-You must be hungry, let's talk over dinner.
-你一定很饿了, 让我们边吃晚饭边聊.
+It takes two to tangle, but I think it's more his fault.
+一个巴掌拍不响, 但我认为他的过错大一些.
 
-Hey, we haven't seem each other for a long time, let's talk over coffee.
-Hey, 我们很久没见面了, 让我们边喝咖啡边聊.
+## Water under the bridge
+过往云烟
 
-## As far as I'm concerned
-就我而言, 在我看来
+A: Hey, I'm, sorry I hurt your feelings just now.
+Hey, 我很抱歉刚刚伤到你.
 
-As far as I'm concerned, it's not a easy work.
-在我看来, 这不是一个轻松的工作.
+B: Don't worry, it's water under the bridge.
+别担心, 都过去了.
 
-As far as I'm concerned, we should give it another try.
-在我看来, 我们应该再试一次.
+All these small problems will be become water under the bridge.
+所有这些小问题都会变成过往云烟.
 
-As far as I'm concerned, there is no differences between the two dresses.
-就我而言, 这两条裙子没有任何区别.
+## Lose one's temper
+发脾气
 
-## You have my word
-我保证
+He loses his temper easily.
+他很容易发脾气
 
-I won't bother you when you are busy, you have my word.
-我不会在你忙的时候来打扰你, 我保证.
+It is impolite to lose your temper in front of so many people.
+在这么多人面前发脾气是不礼貌的.
 
-You have my word, I won't disappoint you.
-我保证, 不会让你失望.
+I regret that I lost my temper before my parents.
+我后悔在父母面前发脾气了.
 
-I will spend more time with you, you have my word.
-我会花更多时间陪你的, 我保证.
+## There is no place like home
+没有比家更好的地方
 
-## That's really something
-真是了不起
+I'm extremely home sick, because there is no place like home.
+我十分想念家, 因为没有和家一样好的地方.
 
-He travelled around the world alone, that's really something.
-他一个人完成了环球旅行, 真了不起.
+I have been to many places, but there is no place like home.
+我去过很多地方, 但没有比家更好的地方.
 
-He started from scratch and founded this company, that's really something.
-他白手起家创办了这家公司, 真了不起.
+## Have one's head in the clouds
+心不在焉
 
-She finished the game although she was injured, that's really something.
-尽管受伤了她还是完成了比赛, 真是了不起.
+Don't have your head in the clouds when you are having the class.
+上课时不要心不在焉.
 
-## Sorry to bother you
-抱歉打扰一下
-
-Sorry to bother you, may I know how to get to The Statue Of Liberty?
-抱歉打扰一下, 我能问一下怎么去自由女神像吗?
-
-Sorry to bother you, where is the manager's office?
-抱歉打扰一下, 经理的办公室在哪?
-
-Sorry to bother you, would you help me with this problem?
-抱歉打扰一下, 你能帮我解决一下这个问题吗?
-
-## Have someone sight on something
-下决心要某样东西
-
-Once he has his sight on something, he will do everything to get it.
-一旦他看上某样东西, 他就会用尽一切手段得到它.
-
-I had my sight on that pair of shoes several month ago.
-我几个月前看上了那双鞋子.
-
-If you have your sight on that book, I will buy it for you.
-如果你下决心要那本书, 我会买给你.
-
-## Turn over a new leaf
-洗心革面, 开始新的生活
-
-It's not easy for him to turn over a new leaf.
-他下定决心重新开始很不容易.
-
-Turning over a new leaf is good for you.
-洗心革面对你有好处.
-
-He went to a new city and turned over a new leaf.
-他去了新的城市, 开始了新的生活.
-
-## Every dog has its day
-风水轮流转
-
-Every dog has its day, maybe my day will come soon.
-风水轮流转, 也许我的好日子就要来了.
-
-When you are in trouble, just remember that every dog has its day.
-当你处于困境时, 要记得人人都有出头的时候.
-
-Every dog has its day, so don't give up.
-人人都有出头的时候, 所以不要放弃.
-
-## Lose one's head
-失去理智, 昏了头
-
-Don't lose your head at this important moment.
-在这么重要的时候昏了头.
-
-I'm so sorry that I lost my head at the meeting.
-我很抱歉在会议上失去了理智.
-
-You are the leader now, if you lose your head everyone will lose confidence.
-你现在是领队, 如果你失去理智, 每个人都会失去信心的.
-
-## There is no such thing as a free launch
-天下没有免费的午餐, 天上不会掉馅饼
-
-There is no such thing as a free launch, if you want something you have to work for it.
-天下没有免费的午餐, 你想要某样东西就必须为之努力.
-
-There is no such thing as a free launch, you must make efforts in order to succeed.
-天下没有免费的午餐, 你想要成功就必须努力.
-
-## Give someone a big hand
-为某人热烈鼓掌
-
-Tom has solved the problem all by himself, let's give him a big hand.
-Tom 独自一人解决了这个问题, 让我们为他报以热烈掌声.
-
-Morgan saved the whole team. We should give him a big hand.
-Morgan 拯救了整个团队, 我们应该为他热烈鼓掌.
-
-## Money will come and go
-钱乃身外之物
-
-Money will come and go, don't care too much about it.
-钱乃身外之物, 别太看重.
-
-Money will come and go, but family is always family.
-钱乃身外之物, 但家人永远是家人.
-
-Happiness is more important than money, because money will come and go.
-快乐比金钱重要, 因为金钱乃身外之物.
-
-## How do I address you
-如何称呼你
-
-I'm Jenifer, how do I address you?
-我叫 Jenifer, 该如何称呼你?]
-
-A: How do I address you?
-我该如何称呼你?
-
-B: Please call me Frank.
-叫我 Frank 就行了.
+His head is in the clouds today. What happen to him?
+他今天心不在焉. 发生什么了?

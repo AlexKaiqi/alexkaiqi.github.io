@@ -5,6 +5,105 @@ tags: english oral speak
 reprint-from: 喜马拉雅-爱英语
 ---
 
+## Not one's cup of tea
+对某物某人不感兴趣, 不合胃口
+
+Thank you for hooking me up with date, but he is really not my cup of tea.
+谢谢你安排我约会, 但他真的不和我胃口.
+
+Leave me alone, you're not my cup of tea.
+不要管我, 你不合我的胃口.
+
+## Have second thoughts
+改变了想法, 犹豫不决, 从新思考
+
+The girl's parents have second thoughts after knowing that he has a divorce.
+知道他离过婚后, 这个女孩的父母改变了想法.
+
+The company has second thoughts about this program.
+这个公司对这个项目有了新的思考.
+
+## Have butterflies in one's stomach
+十分紧张
+
+I felt like having butterflies in my stomach before the speech.
+演讲开始前我感觉到十分紧张.
+
+He is having butterflies in his stomach because this interview may change his life.
+他现在感到十分紧张, 因为这场面试会改变他的一生.
+
+## Take one's word for it
+相信某人的话
+
+You will realise your dream, take my word for it.
+你会实现你的梦想, 相信我的话.
+
+Take my word for it, the road to success is full of difficulties, but you'll reach it one day.
+相信我说的话, 通向成功的道路充满困难, 但你终有一天会成功.
+
+## It's easier said than done
+说起来容易做起来难
+
+Everyone is talking about dreams, but it's easier said than done.
+每个人都在谈论梦想, 但说起来容易做起来难.\
+
+## Once in the blue moon
+千载难逢的, 十分稀罕的
+
+You get to visit the headquarter of IBM once in the blue moon.
+你将要参观IBM的总部, 这是千载难逢的机会.
+
+Win in lottery happens once in the blue moon for most people.
+对大多数人来说中彩票是十分稀罕的.
+;
+## The rest is history
+剩下的事情是都知道的
+
+Princess Dianna began her life in the royal family in the 1981, and the rest is history.
+戴安娜王妃于1981年在皇氏出生, 剩下的大家都知道了.
+
+We had a big fight a month ago, and the rest is history.
+我们一个月前大干了一架, 剩下的都知道了.
+
+## Count me out
+不用算上我
+
+A: We're going to have a party tonight, are you coming?
+我们今晚打算举办一个聚会, 你来吗?
+
+B: I have to work tonight, so count me out.
+我今天必须要工作, 所以不用算上我.
+
+Go ahead and play, you can count me out.
+继续玩吧, 不用算上我.
+
+## Get real
+变得认真起来
+
+Get real, I really mean to quit and travel.
+认真一点, 我真的是说退出然后旅游.
+
+Get real, the  problem is getting worth.
+认真一点, 问题正在变得更严重.
+
+## Beat a dead horse
+白费劲, 徒劳的
+
+Can you give me some response, I feel like I'm beating a dead horse.
+你能给我点反应吗, 我感觉自己是白费功夫.
+
+I know I am beating a dead horse, but you have to realise the importance of having a family.
+我知道我是在白费功夫, 但比必须认识到有一个家庭的重要性.
+
+## What's the catch?
+有什么意图
+
+You don't visit me for no reason, what's the catch.
+无事不登三宝殿, 有什么意图?
+
+You're saying all those nice things today, what's the catch.
+你今天尽说好话, 有什么意图?
+
 ## Hang in there
 坚持下去, 挺住
 
@@ -100,207 +199,3 @@ What I just told you is a top secret, don't let the cat out of the bag.
 
 Don't tell your personal secrets to him, he always let the cat out of the bag.
 别把你的个人秘密告诉他, 他总是说漏嘴.
-
-## On the tip of one's tongue
-快要说出口(但就是想不起来), 差一点就说出口
-
-The name of the book is right on the tip of my tongue, but I just can't remember it.
-这本书的名字就差一点了, 但我就是想不起来.
-
-It was on the tip of my tongue to tell the truth.
-我差一点就说出了真相.
-
-## Let someone out of the hook
-帮助某人摆脱麻烦, 使某人免于责罚
-
-We should let him to wait for several hours before letting him out of the hook.
-在帮他摆脱麻烦前, 我们应该让他等几个小时.
-
-Don't worry, we'll figure something out to let you out of the hook.
-别担心, 我们会想办法帮你摆脱麻烦的.
-
-## Burn the candle at both ends
-白天夜里都在工作, 过度劳累. 透支体力
-
-You must have some sleep, you can't burn the candle at both ends.
-你应该睡一觉, 你不能过度劳累.
-
-It's never wise to burn the candle at both ends.
-透支体力是不明智的.
-
-## Out of sight, out of mind
-眼不见, 心不烦
-
-I'm glad of his leaving, out of sight out of mind.
-我很高兴他离开, 眼不见心不烦.
-
-## Suit yourself
-随你便
-
-I think it's best to be here at 7:00, but anyway, suit yourself.
-我认为最好7点到这, 不过管他的, 随你便.
-
-I have to go, as for the arrangement, suit yourself.
-我必须离开了, 至于安排, 随你便吧.
-
-## Get cold feet
-临阵退缩, 打退堂鼓
-
-Frank got cold feet before the wedding started.
-在婚礼开始前 Frank 临阵退缩了.
-
-You can never have a good result if you get cold feet before the exam.
-如果你在考试前临阵退缩了, 你永远拿不到好的成绩.
-,
-## No pains no gains
-没有付出就没有回报, 一分耕耘一分收获
-
-You have to work hard because no pains no gains.
-你必须努力工作, 因为一分耕耘一根收获.
-
-No pains no gains, his success today come from his hard work in the past.
-没有付出就没有回报, 他今天的成功离不开他过去的努力.
-
-## Hit the jackpot
-中大奖, 走大运
-
-You really hit the jackpot with your girlfriend.
-能交上你的女朋友, 你真的是走大运了.
-
-Passing the exam makes me feel like I hit the jackpot.
-通过考试让我感觉自己中了大奖.
-
-## Rub someone the wrong way
-激怒某人
-
-I try to kiss her ass, but rub her the wrong way.
-我打算拍她的马屁, 但激怒了她.
-
-Boss is back, and remember not to rub him the wrong way.
-老板回来了, 记得不要激怒她.
-
-## Read somebody like an open book
-十分清楚某人的想法
-
-I read you like an open book, so stop lying to me.
-我十分清楚你的想法, 别再跟我撒谎了.
-
-After living together for decades, he reads his wife like an open book.
-一起生活了几十年后, 他对他的妻子的想法了如指掌.
-
-## Put my foot down
-下定决心
-
-Usually I would agree, but this time I'm putting my foot down against it.
-通常我会同意, 但这次我下定决心反对这件事.
-
-I'm putting my foot down, don't ever think about changing me.
-我下定了决心, 别再妄想改变我.
-
-## Be in the seventh heaven
-欣喜若狂
-
-You seem to be in the seventh heaven, what's up?
-你看起来欣喜若狂, 发生什么事了?
-
-I was in the seventh heaven when my girlfriend said yes.
-当我的女朋友说yes时, 我欣喜若狂.
-
-## A bed of roses
-舒适安逸的生活
-
-He has been living in a bed of roses since he was born.
-他自从出生就过着舒适安逸的生活.
-
-High school students always believe that university life is a bed of roses.
-高中生总是相信大学生活是舒适安逸的.
-
-Life hasn't always been a bed of roses. It's also filled with difficulties.
-生活不总是称心如意. 它还充满困难.
-
-I remember what it's like to be in the 20's. It's not a bed of rose.
-我记得20年代的生活. 那时并不是一直称心如意.
-
-Even though life isn't always a bed of roses. You should have hopes.
-尽管生活不总是如意. 你应该抱着希望.
-
-## Put on weight
-长胖
-
-Every time I put on a little weight, I start questioning everything.
-每次我长胖一点, 我就开始质疑所有的事.
-
-I put on a lot of weight during the spring festival.
-我在春节期间长胖了很多.
-
-## Sleep like a log
-睡得很沉
-
-He slept like a log after a long journey.
-一场漫长的旅途之后, 他睡得很沉.
-
-He envy those people who sleep like a log.
-他嫉妒那些可以睡得很沉的人.
-
-## Scratch each other's back
-相互帮助
-
-We should scratch each other's back during difficult time.
-在困难时期我们应该互相帮助.
-
-It's important to scratch each other's back in order to succeed.
-为了成功, 互相帮助是很重要的.
-
-## Make a mountain out of a molehill
-小题大做
-
-I just went for a walk with him, don't make a mountain out of a molehill.
-我只是和他一起走了一段, 不要小题大做.
-
-She likes to make a mountain out of a molehill.
-她喜欢习题大作.
-
-## A pain in the neck
-讨厌的人或事
-
-I don't want to be a pain in the neck, but I've told so many times to clean your room.
-我也不想被你讨厌, 但我已经跟你说过好多遍要打扫你的房间了.
-
-I really hope Tom is not coming, because he is a pain in the neck.
-我真的不希望 Tom 过来, 因为他很讨厌.
-
-## The tip of the iceberg
-冰山一角
-
-They have a lot of problem to solve, this is only the tip of the iceberg.
-他们有很多问题待解决, 这还仅仅是冰山一角.
-
-If you are interested in novels, the books on the list is simply the tip of the iceberg.
-如果你对小说感兴趣, 这些在列表上的书还只是冰山一角.
-
-## Save something for a rainy day
-留着以防万一
-
-You shouldn't spend all of your money, instead you should save it for a rainy day.
-你不应该不所有钱花光的, 相反, 你应该留着以备不时之需.
-
-She started working part-time very early to save the money for a rainy day.
-她早早的就开始做兼职, 存钱以备不时之需.
-
-## Beside the point
-偏离主题, 不是重点
-
-What you said just now is beside the point, I don't want to waste my time.
-你该刚说的不是重点, 我不想浪费我的时间.
-
-I know he was married before, but that's beside the point.
-我知道他结过婚, 但这不是重点.
-
-## Check somebody out
-看的入迷, 盯着看
-
-Have you noticed the man over there, he is totally checking you out.
-你注意到那边的男人了吗, 他完全就是看你看得入迷了.
-
-My goodness, if you are checking that beautiful woman out please don't make it so apparent.
-我的天, 如果你是看那个漂亮的女人入迷的话, 请不要表现的这么明显.

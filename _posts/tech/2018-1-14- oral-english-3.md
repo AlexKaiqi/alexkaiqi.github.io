@@ -5,297 +5,197 @@ tags: english oral speak
 reprint-from: 喜马拉雅-爱英语
 ---
 
+## On the tip of one's tongue
+快要说出口(但就是想不起来), 差一点就说出口
 
-## Take a lot out of somebody
-花费某人很多精力
+The name of the book is right on the tip of my tongue, but I just can't remember it.
+这本书的名字就差一点了, 但我就是想不起来.
 
-Throwing the party took a lot out of me.
-举办这个聚会花了我很多精力.
+It was on the tip of my tongue to tell the truth.
+我差一点就说出了真相.
 
-Preparing for the college entrance exam took a lot out of me.
-备战高考花了我很多精力.
+## Let someone out of the hook
+帮助某人摆脱麻烦, 使某人免于责罚
 
-## Throw a party
-举办聚会
+We should let him to wait for several hours before letting him out of the hook.
+在帮他摆脱麻烦前, 我们应该让他等几个小时.
 
-I am planning to throw a party, are you coming?
-我正打算举办一个聚会, 你要来吗?
+Don't worry, we'll figure something out to let you out of the hook.
+别担心, 我们会想办法帮你摆脱麻烦的.
 
-## In one's book
-以某人的观念看来
+## Burn the candle at both ends
+白天夜里都在工作, 过度劳累. 透支体力
 
-There is no such word as giving up in my book.
-我的字典里没有放弃这个词.
+You must have some sleep, you can't burn the candle at both ends.
+你应该睡一觉, 你不能过度劳累.
 
-This behavior means courage in my book.
-在我看来这种行为代表了勇气.
+It's never wise to burn the candle at both ends.
+透支体力是不明智的.
 
-## That's news to me
-对我来说很新鲜, 我之前并不知道
+## Out of sight, out of mind
+眼不见, 心不烦
 
-A: Do you know that Rose is marrying to a foreign woman?
-你知道Marry要和一个外国人结婚了吗?
+I'm glad of his leaving, out of sight out of mind.
+我很高兴他离开, 眼不见心不烦.
 
-B: No I didn't know, that's news to me.
-不, 我并不知道, 这对我来说很新鲜.
+## Suit yourself
+随你便
 
-Really? We don't have to work tomorrow. That's news to me.
-这的吗? 明天不需要上班, 从没听说过.
+I think it's best to be here at 7:00, but anyway, suit yourself.
+我认为最好7点到这, 不过管他的, 随你便.
 
-## Flip out
-发怒, 激怒
+I have to go, as for the arrangement, suit yourself.
+我必须离开了, 至于安排, 随你便吧.
 
-This news will flip him out.
-这个消息将会激怒他.
+## Get cold feet
+临阵退缩, 打退堂鼓
 
-I have rarely seen my parents flip out.
-我很少看到父母发怒.
+Frank got cold feet before the wedding started.
+在婚礼开始前 Frank 临阵退缩了.
 
-## That's what friends are for
-这就是朋友该做的
+You can never have a good result if you get cold feet before the exam.
+如果你在考试前临阵退缩了, 你永远拿不到好的成绩.
+,
+## No pains no gains
+没有付出就没有回报, 一分耕耘一分收获
 
-A: Thank you for helping me out!
-谢谢你帮我!
+You have to work hard because no pains no gains.
+你必须努力工作, 因为一分耕耘一根收获.
 
-B: You're welcome. That's what friends are for.
-不用谢. 这是朋友该做的.
+No pains no gains, his success today come from his hard work in the past.
+没有付出就没有回报, 他今天的成功离不开他过去的努力.
 
-I will be here for you. That's what friends are for.
-我会在这等你的. 朋友不就是该这样吗.
+## Hit the jackpot
+中大奖, 走大运
 
-## Rock the boat
-捣乱
+You really hit the jackpot with your girlfriend.
+能交上你的女朋友, 你真的是走大运了.
 
-Don't rock the boat, things are fine the way they are.
-别捣乱, 照现在的方式就很好.
+Passing the exam makes me feel like I hit the jackpot.
+通过考试让我感觉自己中了大奖.
 
-We are at a critical time, I don't want anyone to rock the boat.
-我们正处于关键时期, 我不想有任何人捣乱.
-
-## Chicken out
-退缩, 临阵脱逃
-
-I'm afraid that I would chicken out in front of so many people.
-我担心自己在这么多人面前退缩.
-
-Don't chicken out even if you are in great difficulties.
-即使在面临巨大挑战时也不要退缩.
-
-## You can never tell
-谁也说不准, 什么都有可能.
-
-Some people seems to be joking but actully very sincere, you can never tell.
-有些人看起来是在开玩笑, 但实际上很真诚, 谁也说不准.
-
-Sometimes misfortune can turn into a blessing, you can never tell.
-有时候不幸可能变成幸运, 谁也说不准.
-
-## On purpose
-故意的
-
-She left her coat on the floor on purpose.
-她故意的将自己的大衣丢在地板上.
-
-I'm sorry I hit you in the back, but I didn't do it on purpose.
-我很抱歉打到了你的背, 但我不是故意这样做的.
-
-## Fly at somebody
-向某人发脾气
-
-He flies at me every time he loses his game.
-每次他输了比赛都会向我发脾气.
-
-Do not fly at others without any reason.
-不要无缘无故向别人发脾气.
-
-## Easy does it
-放轻松, 慢慢来
-
-Easy does it, we have plenty of time.
-慢慢来, 我们有充足的时间.
-
-Easy dose it, nobody is criticising you.
-放轻松, 没有人在责骂你.
-
-## Be fed up with
-受够了, 厌烦了
-
-I am fed up with all these meaningless works.
-我受够了这些毫无意义的工作了.
-
-We are fed up with his selfishness.
-我们已经受够了他的自私了.
-
-## Step on one's toes
+## Rub someone the wrong way
 激怒某人
 
-Your mother is in bad mood today, don't step on her toes.
-你妈妈今天心情不好, 别惹怒了她.
+I try to kiss her ass, but rub her the wrong way.
+我打算拍她的马屁, 但激怒了她.
 
-They are very good friends, but from time to time they step on each others toes.
-他们是很好的朋友, 但是不是惹怒对方.
+Boss is back, and remember not to rub him the wrong way.
+老板回来了, 记得不要激怒她.
 
-## It takes two to tangle
-一个巴掌拍不响
+## Read somebody like an open book
+十分清楚某人的想法
 
-Don't blame Marry alone, because it takes two to tangle.
-别指责 Marry 一个人, 一个巴掌拍不响.
+I read you like an open book, so stop lying to me.
+我十分清楚你的想法, 别再跟我撒谎了.
 
-It takes two to tangle, but I think it's more his fault.
-一个巴掌拍不响, 但我认为他的过错大一些.
+After living together for decades, he reads his wife like an open book.
+一起生活了几十年后, 他对他的妻子的想法了如指掌.
 
-## Water under the bridge
-过往云烟
+## Put my foot down
+下定决心
 
-A: Hey, I'm, sorry I hurt your feelings just now.
-Hey, 我很抱歉刚刚伤到你.
+Usually I would agree, but this time I'm putting my foot down against it.
+通常我会同意, 但这次我下定决心反对这件事.
 
-B: Don't worry, it's water under the bridge.
-别担心, 都过去了.
+I'm putting my foot down, don't ever think about changing me.
+我下定了决心, 别再妄想改变我.
 
-All these small problems will be become water under the bridge.
-所有这些小问题都会变成过往云烟.
+## Be in the seventh heaven
+欣喜若狂
 
-## Lose one's temper
-发脾气
+You seem to be in the seventh heaven, what's up?
+你看起来欣喜若狂, 发生什么事了?
 
-He loses his temper easily.
-他很容易发脾气
+I was in the seventh heaven when my girlfriend said yes.
+当我的女朋友说yes时, 我欣喜若狂.
 
-It is impolite to lose your temper in front of so many people.
-在这么多人面前发脾气是不礼貌的.
+## A bed of roses
+舒适安逸的生活
 
-I regret that I lost my temper before my parents.
-我后悔在父母面前发脾气了.
+He has been living in a bed of roses since he was born.
+他自从出生就过着舒适安逸的生活.
 
-## There is no place like home
-没有比家更好的地方
+High school students always believe that university life is a bed of roses.
+高中生总是相信大学生活是舒适安逸的.
 
-I'm extremely home sick, because there is no place like home.
-我十分想念家, 因为没有和家一样好的地方.
+Life hasn't always been a bed of roses. It's also filled with difficulties.
+生活不总是称心如意. 它还充满困难.
 
-I have been to many places, but there is no place like home.
-我去过很多地方, 但没有比家更好的地方.
+I remember what it's like to be in the 20's. It's not a bed of rose.
+我记得20年代的生活. 那时并不是一直称心如意.
 
-## Have one's head in the clouds
-心不在焉
+Even though life isn't always a bed of roses. You should have hopes.
+尽管生活不总是如意. 你应该抱着希望.
 
-Don't have your head in the clouds when you are having the class.
-上课时不要心不在焉.
+## Put on weight
+长胖
 
-His head is in the clouds today. What happen to him?
-他今天心不在焉. 发生什么了?
+Every time I put on a little weight, I start questioning everything.
+每次我长胖一点, 我就开始质疑所有的事.
 
-## Talk is cheap
-说的容易, 光说没用
+I put on a lot of weight during the spring festival.
+我在春节期间长胖了很多.
 
-Talk is cheap, you have to take action.
-光说没用, 你必须采取行动.
+## Sleep like a log
+睡得很沉
 
-Talk is cheap, he has to show his abilities.
-光说没用, 他还要显示他的能力.
+He slept like a log after a long journey.
+一场漫长的旅途之后, 他睡得很沉.
 
-## I wasn't born yesterday
-我又不是三岁小孩
+He envy those people who sleep like a log.
+他嫉妒那些可以睡得很沉的人.
 
-You just go and travel, I wasn't born yesterday, I can take care of myself.
-你们离开去旅行就行, 我又不是小孩子, 我能够照看好自己.
+## Scratch each other's back
+相互帮助
 
-Don't fool me, I wasn't born yesterday.
-别骗我了我, 我又不是三岁小孩.
+We should scratch each other's back during difficult time.
+在困难时期我们应该互相帮助.
 
-Of course I know he is joking, I wasn't born yesterday.
-我当然知道他在开玩笑, 我又不是三岁小孩.
+It's important to scratch each other's back in order to succeed.
+为了成功, 互相帮助是很重要的.
 
-## Be in the same boat
-一根绳上的蚂蚱, 处境相同
+## Make a mountain out of a molehill
+小题大做
 
-When the economy is not doing well, most people are in the same boat.
-但经济不景气时, 大多数人都出境相同.
+I just went for a walk with him, don't make a mountain out of a molehill.
+我只是和他一起走了一段, 不要小题大做.
 
-I guess we are in the same boat, because we are both refused.
-我猜我们出境相同, 因为我们都被拒了.
+She likes to make a mountain out of a molehill.
+她喜欢习题大作.
 
-Henry was punished for being late, but he knows others are in the same boat with him.
-Henry 因为迟到受罚了, 但他知道其他人和他出境相同.
+## A pain in the neck
+讨厌的人或事
 
-## Think nothing of something
-别放在心上
+I don't want to be a pain in the neck, but I've told so many times to clean your room.
+我也不想被你讨厌, 但我已经跟你说过好多遍要打扫你的房间了.
 
-Think nothing of it, he is in the bad mood today.
-别放在心上, 他今天心情不好.
+I really hope Tom is not coming, because he is a pain in the neck.
+我真的不希望 Tom 过来, 因为他很讨厌.
 
-Tom was rude just now, think nothing of it.
-Tom 刚刚很无礼, 别放在心上.
+## The tip of the iceberg
+冰山一角
 
-A: Thanks you so much for helping me out.
-十分感谢你帮了我.
+They have a lot of problem to solve, this is only the tip of the iceberg.
+他们有很多问题待解决, 这还仅仅是冰山一角.
 
-B: Oh, think nothing of it, anybody would have done it.
-Oh, 别放在心上, 换作是别人也会这样做的.
+If you are interested in novels, the books on the list is simply the tip of the iceberg.
+如果你对小说感兴趣, 这些在列表上的书还只是冰山一角.
 
-## I'm not myself today
-我今天状态不佳
+## Save something for a rainy day
+留着以防万一
 
-I'm not myslef today, so I don't want to go out.
-我今天不舒服, 所用我不想出门了.
+You shouldn't spend all of your money, instead you should save it for a rainy day.
+你不应该不所有钱花光的, 相反, 你应该留着以备不时之需.
 
-I'm not myself today, and I have been making mistakes the whole day.
-我今天不舒服, 整天一直在犯错误.
+She started working part-time very early to save the money for a rainy day.
+她早早的就开始做兼职, 存钱以备不时之需.
 
-## Under the weather
-心情不好, 身体不舒服
+## Beside the point
+偏离主题, 不是重点
 
-You look under the weather, do you need to have a rest.
-你看起来不舒服, 需要休息一下吗.
+What you said just now is beside the point, I don't want to waste my time.
+你该刚说的不是重点, 我不想浪费我的时间.
 
-I am a little bit under the weather, and I want to go home now.
-我有点不舒服, 我现在想回家了.
-
-It's easy for people to feel under the weather under so much pressure.
-人们在如此大的压力下很容易感到不舒服.
-
-## The walls have ears
-隔墙有耳
-
-We'd better keep our voice down, the walls have ears.
-我们最好降低音量, 隔墙有耳.
-
-Be careful of what you say for the walls have ears.
-小心你说的话, 因为隔墙有耳.
-
-Don't speak to loud, the walls have ears.
-别说太大声, 隔墙有耳.
-
-## We better get going
-我们最好现在就出发
-
-We'd better get going, it starts to rain.
-我们最好现在就走, 开始下雨了.
-
-The train is leaving in 30 minutes, we'd better get going.
-火车还有30分钟就出发了, 我们最好现在就走.
-
-It's so late, we better get going.
-已经这么晚了, 我们最好现在就走.
-
-## Never say die
-永不言弃
-
-Never say die, you will succeed in the end.
-不要放弃, 你最终会成功的.
-
-Never say die even in great difficulties.
-即便在困难之中也不要放弃.
-
-Never say die, you are so close to success.
-永不言弃, 你距离成功已经十分近了.
-
-## Seeing is believing
-眼见为实
-
-Seeing is believing, whatever you say is useless.
-眼见为实, 不管你说什么都没有用.
-
-Seeing is believing, we have to see the real condition before we make any judgement.
-眼见为实, 在做出任何判前我们必须看到实际情况.
+I know he was married before, but that's beside the point.
+我知道他结过婚, 但这不是重点.

@@ -5,294 +5,191 @@ tags: english oral speak
 reprint-from: 喜马拉雅-爱英语
 ---
 
-## Practice makes perfect
-熟能生巧
+## For the time being
+暂时, 目前
 
-Practice makes perfect. You should practice more.
-熟能生巧. 你应该练习更多.
+For the time being, I can take the workload.
+暂时, 我还承受得了这个工作强度.
 
-Practice makes perfect. So, keep practicing.
-熟能生巧. 所以, 继续练习.
+We can't afford such a big house for the time being.
+我们暂时还支付不起这么大的房子.
 
-Practice makes perfect. The more you practice the better you will become.
-熟能生巧. 练的越多, 变得越好.
+We should have a rest for the time being.
+我们应该暂时休息一下.
 
-## Have the upper hand
-处于优势, 占上风
+## Bit around the bush
+拐弯抹角, 说话不直接
 
-We have the upper hand, because we have more people.
-我们占上风, 因为我们人数更多.
+Don't bit around the bush, just tell us what happened.
+别拐弯抹角了, 直接告诉我们发生了什么.
 
-Aron has the upper hand. He is a lot stronger.
-Aron 有优势. 他更强壮.
+We don't have a lot of time, so stop biting around the bush.
+我们没多少时间了, 别再拐弯抹角了.
 
-If you learn english well, you will have the upper hand in the future.
-如果你英语学好, 将来就会有优势.
+There is no need to bit around the bush, we are all good friend.
+没有必要拐弯抹角, 我们都是好朋友.
 
-## Call it a day
-今天就到此为止
+## It slipped my mind
+忘记了
 
-Let's call it a day. We will continue our discussion tomorrow.
-今天就到此为止吧. 我们明天再继续讨论.
+I meam to call you yesterday, but it slipped my mind.
+我昨天打算打电话给你的, 但忘记了.
 
-Let's call it a day. Enjoy your party tonight.
-今天就到此为止吧. 好好享受今晚的聚会.
+It slipped my mind that we had a meeting today.
+我忘记今天有个会议了.
 
-You all look tired. We should call it a day.
-你们看起来都累了. 我们今天就到此为止吧.
+I was so busy this morning and it slipped my mind.
+我早上太忙忘记了.
 
-## Where are you heading
-你要去哪
+## Don't get me wrong
+别误会我
 
-Where are you heading? You are in such a hurry.
-你要去哪? 这么匆忙.
+Don't get me wrong, I love my job very much.
+别误会我, 我十分喜爱我的工作.
 
-You are going outside? Where are you heading?
-你要出门吗? 你要去哪?
+Don't get me wrong, I am not here to borrow money from you.
+别误会, 我不是来找你借钱的.
 
-Where are you heading? The movie is about to start.
-你要去哪? 电影要开始了.
+Don't get me wrong, I am not a bad guy.
+别误会我, 我不是坏人.
 
-## Show up
-出现, 露面
+## It's up to you
+听你的, 你决定
 
-I feel blue. He never shew up.
-我很伤心. 他从来没有出现.
+A: Where should we spend our holiday?
+我们该去哪里度假呢?
 
-I am expecting mr.Smith to show up tonight.
-我希望 Smith 先生今晚能够出现.
+B: It's up to you, we'll go wherever you like.
+由你决定, 我们会去任何你想去的地方.
 
-It's an important event. You have to show up.
-这个活动很重要. 你必须出席.
+It's totally up to you to decide what we are having for dinner.
+完全由你决定接下来晚饭吃什么.
 
-## Out of the question
-不可能
+Don't ask me what to do next, it's up to you.
+别问我接下来怎么做, 这由你决定.
 
-It seems like traveling abroad is out of the question.
-看起来出国旅行是不可能的了.
+## Let's talk over coffee
+让我们边喝咖啡边聊
 
-We should change our plan. The old one is out of the question.
-我们应该给编辑花了. 原来的计划已经不可能了.
+I'm going to the Café. Let's talk over coffee.
+我们正打算去咖啡店. 让我们边喝咖啡边聊.
 
-Getting back together is out of the question. You should move on.
-重新在一起是不可能的. 你应该向前看.
+You must be hungry, let's talk over dinner.
+你一定很饿了, 让我们边吃晚饭边聊.
 
-## Kill time
-打发时间
+Hey, we haven't seem each other for a long time, let's talk over coffee.
+Hey, 我们很久没见面了, 让我们边喝咖啡边聊.
 
-He walks around the room to kill time.
-他在房间里转来转去打发时间.
+## As far as I'm concerned
+就我而言, 在我看来
 
-What are you going to do to kill time?
-你要做什么来打发时间呢?
+As far as I'm concerned, it's not a easy work.
+在我看来, 这不是一个轻松的工作.
 
-Nowadays many people play their cellphone to kill time.
-现在很多人都玩手机来打发时间.
+As far as I'm concerned, we should give it another try.
+在我看来, 我们应该再试一次.
 
-## Boys will be boys
-本性难移
+As far as I'm concerned, there is no differences between the two dresses.
+就我而言, 这两条裙子没有任何区别.
 
-Boys will be boys. No matter how many times I told him, he will be late as usually.
-本性难移. 不管我告诉他多少次, 他还是会和以前一样迟到.
+## You have my word
+我保证
 
-Boys will be boys. He is as lazy as before.
-本性难移. 他还是和以前一样懒.
+I won't bother you when you are busy, you have my word.
+我不会在你忙的时候来打扰你, 我保证.
 
-Boys will be boys. Don't get you hopes high.
-本性难移. 别抱有太大期望.
+You have my word, I won't disappoint you.
+我保证, 不会让你失望.
 
-## Follow
-理解, 听懂
+I will spend more time with you, you have my word.
+我会花更多时间陪你的, 我保证.
 
-Can you slow down a little please? I can't follow you.
-你能放慢一点吗? 我听不懂你说的.
+## That's really something
+真是了不起
 
-Can you repeat it? I didn't quite follow you.
-你能重复一下吗? 我不是很能理解你的意思.
+He travelled around the world alone, that's really something.
+他一个人完成了环球旅行, 真了不起.
 
-If you don't concentrate, of course, you can't follow me.
-如果你不集中注意力, 当然你听不懂我的话.
+He started from scratch and founded this company, that's really something.
+他白手起家创办了这家公司, 真了不起.
 
-## Cross one's heart
-发誓, 承诺
+She finished the game although she was injured, that's really something.
+尽管受伤了她还是完成了比赛, 真是了不起.
 
-I cross my heart. I didn't lie to you.
-我发誓. 我没有向你撒谎.
+## Sorry to bother you
+抱歉打扰一下
 
-I cross my heart that I will finish my study this time.
-我保证这次我会好好完成学业.
+Sorry to bother you, may I know how to get to The Statue Of Liberty?
+抱歉打扰一下, 我能问一下怎么去自由女神像吗?
 
-## Big mouth
-大嘴巴
+Sorry to bother you, where is the manager's office?
+抱歉打扰一下, 经理的办公室在哪?
 
-He is famous for having a big mouth.
-他大嘴巴是出了名的.
+Sorry to bother you, would you help me with this problem?
+抱歉打扰一下, 你能帮我解决一下这个问题吗?
 
-You can tell me anything. I don't have a big mouth.
-你可以告诉我任何事. 我不是多嘴驴.
+## Have someone sight on something
+下决心要某样东西
 
-Having a big mouth isn't helpful.
-多嘴是不会有任何帮助的.
+Once he has his sight on something, he will do everything to get it.
+一旦他看上某样东西, 他就会用尽一切手段得到它.
 
-## Get high hat
-摆架子
+I had my sight on that pair of shoes several month ago.
+我几个月前看上了那双鞋子.
 
-Don't get high hat in front of your parents.
-别再父母面前摆架子.
+If you have your sight on that book, I will buy it for you.
+如果你下决心要那本书, 我会买给你.
 
-Marry is not very popular because she often gets high hat.
-Marry 不是很受欢迎, 因为她经常摆架子.
+## Turn over a new leaf
+洗心革面, 开始新的生活
 
-Don't get high hat. Everyone should be respected.
-别摆架子. 每个人都应该被尊重.
+It's not easy for him to turn over a new leaf.
+他下定决心重新开始很不容易.
 
-## Let it go
-让它过去
+Turning over a new leaf is good for you.
+洗心革面对你有好处.
 
-Let it go. It's so long ago.
-就让它过去吧. 已经是很久前的事了.
+He went to a new city and turned over a new leaf.
+他去了新的城市, 开始了新的生活.
 
-You should let it go and create your own future.
-你应该让它过去并创造你自己的将来.
+## Every dog has its day
+风水轮流转
 
-I know that one failure doesn't mean anything. So I let it go.
-我知道失败不能代表什么. 所以我让它过去了.
+Every dog has its day, maybe my day will come soon.
+风水轮流转, 也许我的好日子就要来了.
 
-## How big of you
-你真棒
+When you are in trouble, just remember that every dog has its day.
+当你处于困境时, 要记得人人都有出头的时候.
 
-How big of you. I'm so proud of you.
-你真棒. 我真为你骄傲.
+Every dog has its day, so don't give up.
+人人都有出头的时候, 所以不要放弃.
 
-How big of you. You have caught everyone's attention.
-你真棒. 所有人的注意力都被你吸引了.
+## Lose one's head
+失去理智, 昏了头
 
-You weren't scared at all on the stage. How big of you.
-你在舞台上一点也不害怕. 你真棒.
+Don't lose your head at this important moment.
+在这么重要的时候昏了头.
 
-## How come
-为什么, 怎么会这样
+I'm so sorry that I lost my head at the meeting.
+我很抱歉在会议上失去了理智.
 
-How come he gets a present and I don't.
-为什么他有礼物我没有.
+You are the leader now, if you lose your head everyone will lose confidence.
+你现在是领队, 如果你失去理智, 每个人都会失去信心的.
 
-How come you are looking so sad?
-怎么你看起来很郁闷?
+## There is no such thing as a free launch
+天下没有免费的午餐, 天上不会掉馅饼
 
-How come I never heard of this person?
-为什么我从来没有听说过这个人?
+There is no such thing as a free launch, if you want something you have to work for it.
+天下没有免费的午餐, 你想要某样东西就必须为之努力.
 
-## Let somebody down
+There is no such thing as a free launch, you must make efforts in order to succeed.
+天下没有免费的午餐, 你想要成功就必须努力.
 
-I will work hard not to let you down.
-我会努力不会让你失望的.
+## Give someone a big hand
+为某人热烈鼓掌
 
-I let my parents down, because I lied to them.
-我让我父母失望了, 因为我向他们撒谎了.
+Tom has solved the problem all by himself, let's give him a big hand.
+Tom 独自一人解决了这个问题, 让我们为他报以热烈掌声.
 
-Don't worry. I won't let you down.
-别担心. 我不会让你失望的.
-
-## A night person
-夜猫子
-
-I'm a night person and I sleep at a very late hour everyday.
-我是个夜猫子, 每天晚上都睡得很晚.
-
-I was a night person once. but I begin to sleep at an early hour after I started to work.
-我曾今是个夜猫子, 但在开始工作后我开始早睡了.
-
-Stop being a night person. It's bad for your health.
-别再当夜猫子了. 这对你健康不好.
-
-## Be in the way
-挡路, 妨碍
-
-I hope I'm not in the way.
-我希望自己没有挡路.
-
-If I am in the way of you two, do let me know.
-如果我挡了你俩的路, 一定要告诉我.
-
-Not let your brother come. He will be iu the way.
-别让你弟弟跟过来. 他会碍事的.
-
-## Bury one's head in the sand
-自欺欺人, 逃避现实
-
-Don't bury your head in the sand. You should face the mistakes you've made.
-别逃避现实. 你应该面对自己放下的错.
-
-Every time he is in trouble, he begins to bury his head in the sand.
-每次他遇到难题, 就会逃避现实.
-
-I was weak, so I choose to bury my head in the sand.
-我胆怯了, 所以我选择了逃避现实.
-
-## I can't agree more
-我完全赞同
-
-You are right. I can't agree more.
-你说的太对了. 我完全赞同.
-
-Your proposer is great. I can't agree more.
-你的提议太棒了. 我完全赞同.
-
-Jack's opinion is reasonable. I can't agree more.
-jack 的观点十分合理. 我完全赞同.
-
-## Excuse me for a moment
-失陪一下
-
-Excuse me for a moment. I've got a phone call.
-失陪一下. 我有个电话要接.
-
-Excuse me for a moment. I have to deal with something.
-失陪一下. 我必须处理一下一些事.
-
-## Ups and downs
-起起伏伏
-
-Everyone will experience ups and downs in his life.
-每个人的一生都会经历起起伏伏.
-
-We had our ups and downs last year, but overall, it was great.
-去年我们的生活起起伏伏, 但总的来说, 很好.
-
-You will have ups and downs in your life. Remember that I will always be there for you.
-你以后的生活会有起起伏伏, 记得我会一直支持你.
-
-## Give somebody a break
-饶了某人
-
-We should give him a break. It's not his fault.
-我们应该饶了他. 这不是他的错.
-
-Give me a break. You have been criticising me for a hour.
-饶了我吧. 你们已经批评我一个小时了.
-
-Give him a break. He is new here.
-饶了他吧. 他是新来的.
-
-## Show someone around
-带某人参观, 带某人逛逛
-
-You are a fresh man right? Let me show you around our campus.
-你是新生吧? 我带你参观一下我们的校园.
-
-Jenifer has been here for only two months. You can show her around tomorrow.
-Jenifer 来这才两个月. 你明天可以带他逛逛.
-
-## Make yourself at home
-别客气, 就当自己家一样
-
-Take a seat please. make yourself at home.
-请坐, 别客气.
-
-Make yourself at home. Help yourself to anything you want.
-别客气. 想要什么就拿好了.
-
-I have to go out for a half an hour. Please make yourself at home.
-我必须外出半小时. 请别客气.
-
-
+Morgan saved the whole team. We should give him a big hand.
+Morgan 拯救了整个团队, 我们应该为他热烈鼓掌.
