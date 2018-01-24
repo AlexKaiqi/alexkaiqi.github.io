@@ -1,62 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body data-spy="scroll" data-target="#section">
+<body data-spy="scroll" data-target="#article-nav-aside ">
 {% include nav.html %}
 
-<!-- content navigator of the post  aside from main area -->
-<aside>
-    <nav id="section-nav-aside" class="section-nav-aside">
-    </nav>
-</aside>
+<div class="container-fluid">
+    <div class="row">
 
-
-<!-- main area of the post -->
-<main class="container">
-
-    <!-- header of the post -->
-    <header>
-        <h1>{{ page.title }}</h1>
-        <div class="post-data">
-            <time datetime="{{ page.date | date: '%F'}}">发布时间：{{ page.date | date: "%F"}}
-            </time>
-            <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
-               data-hover="博客分类: {{ page.category }}">博客分类: {{ page.category }}
-            </a>
-            <div class="post-tags">
-                {% unless page.tags == empty %}
-                {% for tag in page.tags %}
-                <span class="badge badge-pill">
+        <!-- used only for spacing the content-->
+        <div class="col-xl-2 col-lg-1 d-none d-lg-block d-xl-block"></div>
+        <!-- main area of the post -->
+        <main class="main-content col-lg-8">
+            <!-- header of the post -->
+            <header>
+                <h1>{{ page.title }}</h1>
+                <div class="post-data">
+                    <time datetime="{{ page.date | date: '%F'}}">发布时间：{{ page.date | date: "%F"}}
+                    </time>
+                    <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
+                       data-hover="博客分类: {{ page.category }}">博客分类: {{ page.category }}
+                    </a>
+                    <div class="post-tags">
+                        {% unless page.tags == empty %}
+                        {% for tag in page.tags %}
+                        <span class="badge badge-pill">
                     <a href="/tags#{{ tag }}" title="访问{{ tag }}">
                         {{ tag }}({{ site.tags[tag].size }})
                     </a>
                  </span>
-                {% endfor %}
-                {% endunless %}
+                        {% endfor %}
+                        {% endunless %}
+                    </div>
+                </div>
+            </header>
+
+            <hr>
+
+            <!-- content of the post -->
+            <article>
+                {{ content }}
+            </article>
+
+            <!--legislation info of the post -->
+            <footer class="post-info mx-auto">
+                {% if page.reprint-from %}
+                本文转载自<a href="{{page.reprint-from}}"> {{page.reprint-from}}</a><br>
+                {% else %}
+                本文由 <a href="/about">{{site.signoff}}</a> 创作，采用
+                <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a>
+                国际许可协议进行许可<br>
+                {% endif %}
+                本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>
+                最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
+            </footer>
+        </main>
+
+        <!-- content navigator of the post  aside from main area -->
+        <aside class="article-nav-aside col-lg-2 d-none d-lg-block d-xl-block">
+            <div id="article-nav-aside" class="list-group sticky-top">
             </div>
-        </div>
-    </header>
-
-    <hr>
-
-    <!-- content of the post -->
-    <article>
-        {{ content }}
-    </article>
-
-    <!--legislation info of the post -->
-        <footer class="post-info">
-        {% if page.reprint-from %}
-        本文转载自<a href="{{page.reprint-from}}"> {{page.reprint-from}}</a><br>
-        {% else %}
-        本文由 <a href="/about">{{site.signoff}}</a> 创作，采用
-        <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a>
-        国际许可协议进行许可<br>
-        {% endif %}
-        本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>
-        最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
-    </footer>
-</main>
+        </aside>
+    </div>
+</div>
 
 <hr>
 
@@ -73,9 +78,12 @@
     $(document).ready(function(){
         var html = '';
         $('article>h2').each(function (i) {
-            html += '<a class="nav nav-link" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
+            html += '<a class="list-group-item bg-dark" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
         });
-        $('#section-nav-aside').html(html);
+        $('#article-nav-aside').html(html);
+        $('[data-spy="scroll"]').each(function () {
+            var $spy = $(this).scrollspy('refresh')
+        })
     });
 </script>
 
