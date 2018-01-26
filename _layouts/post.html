@@ -64,7 +64,10 @@
 </div>
 
 <hr>
-
+{% if page.comments %}
+    <h2>Comments</h2>
+    {% include disqus.html %}
+{% endif %}
 {% include footer.html %}
 
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
