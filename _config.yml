@@ -60,6 +60,7 @@ defaults:
     values:
       layout: post
       author: Alex Kai
+      comments: true
       #permalink:  /:year/:month/:day/:title.html
   -
     scope:
@@ -108,10 +109,10 @@ nav-items:
     url:          /
   - name:         书籍
     url:          /book
-  - name:         旅游
-    url:          /travel
-  - name:         生活
-    url:          /life
+#  - name:         旅游
+#    url:          /travel
+#  - name:         生活
+#    url:          /life
   - name:         技术
     url:          /tech
   - name:         归档
