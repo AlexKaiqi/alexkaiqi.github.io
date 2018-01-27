@@ -48,6 +48,7 @@ body {
 Style for post content navigator
  */
   .article-nav-aside {
+    ul {list-style-type: none;}
     a {
       color: lightgray;
       text-overflow: ellipsis;

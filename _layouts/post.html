@@ -57,8 +57,8 @@
 
         <!-- content navigator of the post  aside from main area -->
         <aside class="article-nav-aside col-lg-2 d-none d-lg-block d-xl-block">
-            <div id="article-nav-aside" class="list-group sticky-top">
-            </div>
+            <ul id="article-nav-aside" class="list-group sticky-top">
+            </ul>
         </aside>
     </div>
 </div>
@@ -77,16 +77,46 @@
 <!-- script to create content navigator for the post aside from main area-->
 <!-- TODO  create a more delicate navigator -->
 <script>
-    $(document).ready(function(){
-        var html = '';
-        $('article>h2').each(function (i) {
-            html += '<a class="list-group-item bg-dark" href="#' + this.id + '">' + this.innerHTML + '</a>\n';
+    $(document).ready(function() {
+        var data = [];
+        // extract headings from html
+        $('article>h1, article>h2, article>h3,article>h4,article>h5, article>h6').each(function(i) {
+            var n = 0;
+            switch(this.tagName) {
+                case "H1": n = 1; break;
+                case "H2": n = 2; break;
+                case "H3": n = 3; break;
+                case "H4": n = 4; break;
+                case "H5": n = 5; break;
+                case "H6": n = 6; break;
+                default: throw "not a Typography tag";
+            }
+            data.push({number: n, id: this.id, innerText: this.innerText});
         });
+        // build list structure from data
+        var level, tag;
+        var html = '';
+        level = data[0].number;
+        for (var i in data) {
+             tag = data[i].number;
+             if (tag < data[0].n) throw "invalid list structure";
+             while (level < tag) {
+                 level++;
+                 html += "<ul>";
+             }
+             while ( level > tag) {
+                 level--;
+                 html += "</ul>";
+             }
+             html += '<li><a class="list-group-item bg-dark" href="#' + data[i].id + '" >' + data[i].innerText + '</a></li>';
+        }
         $('#article-nav-aside').html(html);
+        console.log(html);
         $('[data-spy="scroll"]').each(function () {
-            var $spy = $(this).scrollspy('refresh')
-        })
-    });
+            var $spy = $(this).scrollspy('refresh');
+        });
+
+    })
 </script>
 
 </body>
