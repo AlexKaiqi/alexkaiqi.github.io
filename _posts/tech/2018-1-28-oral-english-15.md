@@ -17,4 +17,180 @@ He is quite into traveling and has been to many different places.
 I kind of have this feeling that he's not that into me.
 我有种感觉, 他不是很喜欢我.
 
-##
+## What are you up to
+你在忙什么
+
+What are you up to? I haven't seen you for a week.
+你最近在忙什么? 我已经一周没有见到你了.
+
+Hi, Aaron! Long time no see. What are you up to these days?
+Hi, Aaron! 好久不见. 你最近在忙什么呢?
+
+A: What are you up to lately?
+你最近在忙什么呢?
+
+B: I'm busy preparing for the Spring Festival.
+我在忙着准备过年呢.
+
+## Now you are talking
+这才说到点子上了, 这才对
+
+A: It will be impossible for us to realise our goal if we stick to the old plan.
+如果我们继续坚持旧的计划, 实现我们的目标是不可能的.
+
+B: Now you are talking.
+你说到点子上了.
+
+A: We'd better get in touch with every customer to find out what's going wrong.
+我们最好和每个客户联系, 找出哪出问题.
+
+B: Now you are talking.
+这才对.
+
+## Stop by
+顺便拜访, 顺便去
+
+Can you stop by the supermarket on your way home?
+你可以在回家的路上顺便去一下超市吗?
+
+I need to stop by a store so that I can buy a gift for my parents.
+我需要在商店停一下, 来给父母买个礼物.
+
+Do you mind if I stop by later?
+你介不介意我晚些时候顺道拜访?
+
+## The first step is always the hardest
+万事开头难
+
+The first step is always the hardest. Once you start, you are half way there.
+万事开头难. 一旦你开始了就成功了
+
+If you can make the first step toward trying new things, the rest will be easy. The first step is always the hardest.
+如果你能迈出尝试新事物的第一步, 剩下的就简单了. 万事开头难.
+
+## Feel free to do something
+不用拘束, 请随意去做
+
+If you need anything, please feel free to call me.
+如果你有任何需要, 不要拘束, 带电话给我就是.
+
+If you want to talk about your understanding, feel free to do so.
+如果你想要谈谈你的见解, 请随意.
+
+Feel free to do whatever you want. You are our guest.
+想做什么就做什么吧. 你是我们的客人.
+
+## Nod off
+打瞌睡
+
+I saw him nod off in the class. I guess he stayed up late.
+我看见他在课上打瞌睡. 我猜他熬夜了.
+
+He is nodding off in the car.
+他在车上睡着了.
+
+This movie is so bad that I nodded off.
+这个电影太糟糕了, 我都睡着了.
+
+## Pick on
+故意挑剔, 找茬, 吹毛求疵
+
+They always pick on me when something goes wrong.
+一旦有什么问题发生, 他们总是找我的茬.
+
+We should not pick on our lovers. We should respect who they are.
+我们不应该对我们的爱人挑毛病. 我们应该尊重他们真实的自己.
+
+I have great parents. They never pick on me.
+我有很棒的父母. 他们从来不对我吹毛求疵.
+
+## Prefer
+更愿意, 宁愿
+
+I prefer to take a walk after dinner.
+我宁愿晚饭后去散步.
+
+I prefer spending my time on reading and traveling.
+我宁愿把时间花在阅读和旅行上.
+
+Would you prefer coffee or milk?
+你更喜欢咖啡还是牛奶.
+
+## Something sucks
+某事物糟糕透了
+
+Welcome to the real world. It sucks but you gonna love it.
+欢迎来到现实世界. 它很糟糕但你会爱上它.
+
+My new job sucks. I have to work late into the midnight everyday.
+我的新工作糟透了. 我每天都不得不加班到深夜.
+
+A: How is your movie?
+电影怎么样?
+
+B: Well, It sucks.
+好吧, 糟透了.
+
+## Have a way with
+有一套, 擅长
+
+I have to say you really have a way with kids.
+我不得不说你和小孩相处真有一套.
+
+He seems to have a way with people.
+他似乎很擅长人际交往.
+
+You've got to have a taste of my mom's salad. She really has a way with it.
+你一定得尝尝我妈的沙拉. 她真的擅长这个.
+
+## It's a breeze
+轻而易举, 小菜一碟
+
+He is a talent. Math is a breeze for him.
+他是个天才. 数学对他来说轻而易举.
+
+I have been doing this for five years. Solving the problem is a breeze for me.
+我已经做这个工作五年了. 解决这问题对我来说小菜一碟.
+
+Relax. Winning the game is just a breeze for her.
+放轻松. 赢得这场比赛对她来说轻而易举.
+
+## Drag on
+一直拖着
+
+If nobody stops him. He will drag on and on and on.
+如果没人打断他. 他会一直说.
+
+The meeting dragged on for a whole day.
+会议拖拖拉拉了一整天.
+
+The speech dragged on for 2 hours. And many people were nodding off.
+演讲持续了两个小时. 很多人都打了瞌睡.
+
+## Like a fish out of water
+非常不舒服
+
+It very normal to feel like a fish out of water when you arrive at a new place.
+当你到了新环境感到不舒服是很正常的.
+
+Knowing nothing of music, I feel like a fish out of water among a group of musicians.
+对音乐一窍不通. 我在一群音乐家中感到非常不舒服.
+
+I feel like just a fish out of water at the party where I know no one.
+在一个一个人都不认识的聚会上我感到很不舒服.
+
+## What's the hurry
+什么事这么着急? 着什么急啊!
+
+A: What's the hurry?
+干什么这么着急?
+
+B: I'm late for work.
+我上班迟到了.
+
+What's the hurry? You haven't had your breakfast.
+干什么这么着急? 你还没有吃早饭呢.
+
+We still have half an hour. What's the hurry!
+我们还有半个小时. 着什么急啊!
+
