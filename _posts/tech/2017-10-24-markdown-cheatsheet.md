@@ -617,3 +617,24 @@ With a reference later in the document defining the URL location:
 
 
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
+## Additional
+
+Emoji
+
+:smile:
+
+abbreviation:
+
+*[Wiki]: wikipedia.org
+
+Wiki link
+
+[[https://www.wikipedia.org/]]
+
+Task
+
+- [taskname] taskslla
+
+
+

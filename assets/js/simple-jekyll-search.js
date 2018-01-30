@@ -430,5 +430,7 @@ SimpleJekyllSearch({
 
 $('#search-input').focusout(function (){
     this.value = "";
-    $('#results-container').html('');
+    setTimeout(function () {
+        $('#results-container').html('');
+    }, 150);
 });
