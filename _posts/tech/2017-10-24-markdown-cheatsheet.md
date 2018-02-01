@@ -615,26 +615,33 @@ With a reference later in the document defining the URL location:
 
 [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-
     [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-## Additional
+Linked logo: [![alt text](/assets/images/book-1.png)]
+(http://wordpress.com/ "Title")
 
-Emoji
+## Task List
 
-:smile:
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
-abbreviation:
+## Definition List
 
-*[Wiki]: wikipedia.org
+WordPress
+:  A semantic personal publishing platform
+Markdown
+:  Text-to-HTML conversion tool
 
-Wiki link
+## Abbreviations
 
-[[https://www.wikipedia.org/]]
+Markdown converts text to HTML.
 
-Task
+*[HTML]: HyperText Markup Language
 
-- [taskname] taskslla
+## Footnotes
 
+I have more [^1] to say up here.
 
-
+[^1]: To say down here.

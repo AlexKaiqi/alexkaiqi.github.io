@@ -1,0 +1,203 @@
+---
+title: 爱英语-18
+date: 2018-01-31 9:16:42
+tags: english oral speak
+reprint-from: 喜马拉雅-爱英语
+---
+
+## It's not that
+并不是说
+
+It's not that we are unwilling to lend you money. We are short of money too.
+并不是说我们不愿意借钱给你. 我们也缺钱.
+
+It's not that we don't wanna work. It's just we really need a break.
+并不是说我们不想工作. 只是我们真的需要休息一下.
+
+It's not that I don't to hang out with you guys. I really don't have time.
+并不是我不想和你们一起玩. 我真的没时间.
+
+## In the pink
+健康, 气色很好
+
+I really feel in the pink after the holiday.
+假期过后我真的感觉气色很好.
+
+The old couple are in the pink in spite of their old age.
+尽管年纪大了, 这对老夫妻气色真好.
+
+I'm happy to hear that he is in the pink after the surgery.
+我很高心听到手术后他很健康.
+
+## Packed like sardines
+非常拥挤, 拥挤得像沙丁鱼罐头
+
+We are packed like sardines on the rush hour subway.
+地铁高峰期, 我们被挤得想沙丁鱼罐头一样.
+
+During the past national holiday tourists were packed like sardines in the Forbidden City.
+刚刚过去得国庆节, 游客们在故宫被挤得像沙丁鱼罐头一样.
+
+I'd better stay at home during the holiday. I don't want to be packed like sardines.
+我假期最好呆在家里. 我可不想被挤得像狗一样.
+
+## That explains everything
+这就说得通了, 原来如此
+
+She is a Virgo. That explains everything.
+她是处女座. 原来如此.
+
+That explains everything. Now I see why you are in the bad mood.
+原来如此. 现在我明白为什么你心情不好了.
+
+They had a huge fight. That explains everything.
+他们大吵了一架. 原来如此.
+
+## Where was I?
+我刚讲到哪里了
+
+Where was I? Right, I was talking about where to spend our holiday.
+我刚讲到哪里了? 对了, 我刚刚正在讨论假期去哪.
+
+Where was I? I was saying we should think of another solution.
+我刚讲到哪里了? 我刚刚在将我们应该另想一种解决方案.
+
+Where were we? We were just talking about eating out.
+我们刚刚讲到哪了? 我们刚刚在说出去吃饭.
+
+## I'm going nowhere fast
+毫无进展
+
+I've been working on this problem all day. But I'm going nowhere fast.
+我已经一整天在解决这个问题了. 但现在依然毫无进展.
+
+Without a proper education, you will go nowhere fast.
+没有好的教育, 你将寸步难行.
+
+The program is going nowhere fast. Maybe we should look at it from another angle.
+项目毫无进展. 或许我们应该从另一个角度看这个事.
+
+## Be on board
+赞成
+
+I think we can go to the countryside for the summer. Who is on board?
+我认为我们可以在郊外度过暑假. 有人赞同吗?
+
+Is your new manager gonna on board with the plan? He is strict.
+你们得新经理会赞同这个计划吗? 他很严厉.
+
+As my partner you have to on board with me.
+作为我的搭档, 你一定得赞同我.
+
+## For a reason
+有理由
+
+He is mad for a reason. We'd better leave him alone.
+他生气是有理由的. 我们最好不要打扰他.
+
+They got good  results for a reason. They've worked so hard.
+他们获得好的结果是有理由的. 他们非常努力地工作了.
+
+I said it for a reason. Hope you can bear it in mind.
+我说这事是由理由的. 希望你们可以把话放在心里.
+
+## Dead wrong
+完全错误
+
+He is right about many things. But he is dead wrong about this one.
+他关于很多事情的看法都是对的. 但他对这件事的看法完全错误.
+
+If you think mastering a foreign language is easy. You are dead wrong.
+如果你认为掌握一门外语很简单就大错特错了.
+
+You are dead wrong about him. You may change your mind after you get to know him.
+你对他的看法大错特错. 在了解他后你对他的看法或许会改变.
+
+## What do you say
+你怎么看
+
+They want us to stay for dinner. What do you say?
+他们想要我们留下来吃晚餐. 你怎么看?
+
+My parents want us to live with them after we get married. What do you say?
+我的父母希望我们结婚后可以和他们一起住. 你怎么看?
+
+Jem suggests we take turns to clean the room. What do you say?
+Jem 建议我们轮流打扫房间. 你怎么看?
+
+## Brag
+吹牛皮
+
+He always brag about his daughter who has a PHD.
+他一直炫耀他博士学位的女儿.
+
+New Yorkers like to brag about how great their city is.
+纽约人喜欢吹他们的城市多么的好.
+
+He constantly brags about how well he speaks english.
+他不断的炫耀他英语说的多么好.
+
+## I told you so
+我就说了嘛
+
+I told you so. But you never listen.
+我就说了嘛. 但你就是不听.
+
+I told you so. Whatever the result, you have to accept.
+我就说了嘛. 不管结果怎样, 你都要接受.
+
+I told you so. Next time you may wanna consider other's suggestion.
+我就说了嘛. 下次你或许想要接受其他人的意见.
+
+## Stuck
+卡住
+
+I get stuck in traffic. I may not be able to get home by 7:00.
+我卡在路上了. 我或许不能再7点之前回家了.
+
+I will still be working after I get married. I don't want to get stuck in house work.
+结婚后我依旧会工作. 我可不想身陷家务事中.
+
+We are stuck in the village because of the snow storm.
+因为暴风雪我们卡在了这个村庄.
+
+## I can live with that
+我可以忍受这个
+
+My neighbors are quite noisy. But I can live with that.
+我的邻居很吵. 但我还忍得住.
+
+The house is a little bit old. But I can live with that.
+房子有点老旧了. 但我可以忍受.
+
+I can live with longer working hours. But the salary is so low.
+我可以忍受长一点的工作时间. 但工资太低了.
+
+## Keep it together
+放轻松, 冷静
+
+Keep it together. It's not as bad as you think.
+冷静. 事情还没有你想的那么糟.
+
+Come on, keep it together. You can do a good job.
+加油. 冷静. 你可以做好的.
+
+Don't cry. Keep it together. It's not the end of the world.
+别哭. 放轻松. 这又不是世界末日.
+
+## Keep the change
+不用找零钱了
+
+Here's one hundred dollars. Keep the change.
+这是一百美元. 不用找了.
+
+Please keep the change. That's for your tip.
+留下这些零钱吧. 这事给你的小费.
+
+Here's the money. You can keep the change.
+钱给你. 多的就留给你了.
+
+
+
+
+

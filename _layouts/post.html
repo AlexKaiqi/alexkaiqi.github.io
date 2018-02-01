@@ -82,6 +82,7 @@
         // extract headings from html
         $('article>h1, article>h2, article>h3,article>h4,article>h5, article>h6').each(function(i) {
             var n = 0;
+            if(this.id === undefined || this.id === null || this.id === '') return;
             switch(this.tagName) {
                 case "H1": n = 1; break;
                 case "H2": n = 2; break;
