@@ -127,7 +127,7 @@ B: I'm sorry. I already have plans for Friday.
 If you want to talk to me, I'm available from 3:00 to 4:00.
 如果你想要和我谈话. 我三点到四点有空.
 
-Mr. Smith is on holiday. And he is not available for your interview.
+Mr.Smith is on holiday. And he is not available for your interview.
 Smith 先生正在度假. 现在没空接受你们的采访.
 
 Are you available? I need to talk to you.

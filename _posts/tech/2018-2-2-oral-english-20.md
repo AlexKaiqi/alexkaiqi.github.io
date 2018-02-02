@@ -25,3 +25,171 @@ I hear you. But we are a team and should work as a team.
 
 I hear you. You wanna move out and live on your own.
 我理解你了. 你想要搬出去一个人生活.
+
+## I'all walk you out
+我会送你出去
+
+You may get lost. Let me walk you out.
+你可能会迷路. 让我送你出去吧.
+
+She is your guest. Maybe you should walk her out.
+她是你的客人. 或许你应该送她出去.
+
+Don't worry. I'll walk you out. You won't feel embarrassed.
+别担心. 我会送你出去. 你不会感到窘迫.
+
+## Keep it to yourself
+保守秘密
+
+I'm about to leave this country. But I don't want everyone to know it. So keep it to yourself.
+我要离开这个国家了. 但我不想每个人都知道这件事. 所以不要告诉其他人.
+
+I don't want people to know I got promoted. Just keep it to yourself, OK?
+我不想让人知道我升职了. 就当作秘密, 行吗?
+
+I've planned a secret birthday party for my girlfriend. But it is still one week to go. Keep it to yourself.
+我为我的女朋友计划了一个秘密的生日聚会. 但还有一周才到. 不要告诉其他人.
+
+##  Period
+就这样
+
+You look so pale. I am not letting you alone. Period.
+你看起来面色苍白. 我不会让你单独一个人的. 就这样.
+
+You have to get use to the working environment if you can't change it. Period.
+如果你不能改变工作环境就只能适应它. 就这样.
+
+## Have a short temper
+急性子
+
+He has a short temper. It's not easy to live with him.
+他是一个急性子. 和他一起生活并不容易.
+
+Aron has a short temper and can easily get excited.
+Aron 是个急性子, 很容易激动.
+
+I'm sorry to be short-tempered. But I'm learning to control it.
+我为自己的急性子感到抱歉. 但我正在学习控制它.
+
+## I think I'll pass
+我想我就不用了
+
+A: Do you want to go to the party after work?
+工作后打算去参加聚会吗?
+
+B: I think I'll pass. It's really a long day for me. I just wanna go home.
+我看算了. 真是漫长的一天. 我只想回家.
+
+A: You wanna come and have some pizza?
+你想要过来吃点披萨吗?
+
+B: I think I'll pass. I'm on a diet.
+我想还是算了. 我正在节食.
+
+## Fit in
+适合, 合群
+
+She has a way with kids and fit in beautifully.
+她和小孩子相处有一手, 能够很好的相处融洽.
+
+I'm heading for Britain next week. I'm not sure whether I can fit in.
+我下周打算去英国. 我不清楚能不能适应.
+
+My daughter has transferred to a new school. But she doesn't seem to fit in.
+我的女儿换了一个新的学校. 但是她看起来没有很好融入进去,
+
+## That was close / Close one
+差一点
+
+That was close. I almost hit the car beside us.
+差一点就撞到我们旁边的车了.
+
+That was close. I almost got caught by the teacher.
+差一点就被老师抓住了.
+
+Close one. I almost told her the truth.
+我差一点就告诉她真相了.
+
+## How did it go
+关系怎么样了, 进展如何
+
+I heard you went on the date. So how did it go.
+我听说你去约会了. 进展如何.
+
+You went to that job interview. How did it go. Did you get it?
+你去了那个工作面试了. 进展如何. 拿下了吗?
+
+How did it go with you and Sam. I went into him yesterday.
+你和 Sam 关系怎么样了. 我昨天撞见他了.
+
+How did it go with the fireman. You have been seen him for a month.
+你和那个消防员进展如何了. 你已经和他约会一个月了.
+
+## Call it even
+扯平
+
+It was your treat last time. This time it's on me. Now we call it even.
+上次你请的客. 这次算我的. 现在我们就扯平了.
+
+A: You lost my keys?
+我弄丢了我的钥匙?
+
+B: You broke my lamp?
+你打碎了我的台灯?
+
+A: Call it even?
+算扯平了吧?
+
+B: Ok.
+好的
+
+## I'm in my twenties
+我二十多岁
+
+She is still in her twenties and doesn't know much about the world.
+她只是二十多岁, 还少不经事.
+
+My mother doesn't look like someone in her fifties. You may still think her still in her thirties.
+我的母亲看起来不像五十多岁的人. 你或许会认为她还只是四十多岁.
+
+Although Mr.Jack is in his eighties. He can run Marathon.
+尽管 Jack 先生八十多岁了. 他还可以跑马拉松.
+
+## I've had enough
+我吃饱了
+
+A: Do you want more fish?
+你要再吃点鱼吗?
+
+B: No thanks. I've had enough.
+不用了, 谢谢. 我已经吃饱了.
+
+A: How about one more drink?
+要不再来点喝的?
+
+B: I've had enough. Plus, I have to get up early in the morning.
+我已经喝饱了. 另外, 我早上必须早起.
+
+## Be full of oneself
+自私
+
+She is full of herself and doesn't care about others at all.
+她心里想的只有自己, 一点也不关心其他人.
+
+You are so full of yourself. I'm sick of your arrogance.
+你太自私了. 我受够了你的无知自大.
+
+Don't be full of yourself. You have to learn to fit in.
+别太自私. 你必须学会适应.
+
+## I'm with you
+我赞同你
+
+I'm with you. It's too late. We'd better stay and wait for the morning.
+我同意你. 太晚了. 我们最好留下来等到早上.
+
+I'm with your mom. You should learn to be independent before you actually enter the society.
+我同你你妈妈的想法. 你应该在真正走向社会前学会独立.
+
+I'm with Morgan. We should be fully prepared in this competitive world.
+我同意 Morgan 的观念. 在这个充满竞争的社会我们应该做好万全的准备.

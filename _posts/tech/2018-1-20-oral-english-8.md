@@ -182,7 +182,7 @@ Where are you heading? The movie is about to start.
 I feel blue. He never shew up.
 我很伤心. 他从来没有出现.
 
-I am expecting mr.Smith to show up tonight.
+I am expecting Mr.Smith to show up tonight.
 我希望 Smith 先生今晚能够出现.
 
 It's an important event. You have to show up.
