@@ -6,136 +6,194 @@ reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Hello?
+表示引起注意
 
 Hello? I'm right here. I can hear you.
+有没有搞错. 我就在这里. 能听清楚.
 
 Hello? That's not true. I didn't broke your nose on purpose.
+有没有搞错. 才不是这样. 我又不是故意把你鼻子搞骨折的.
 
 ## You are so sweet
+你真贴心, 你真好
 
 You are so sweet. Thanks for holding the door for me.
+你真好. 谢谢你帮我开门.
 
 I couldn't finish my work without your help. You are so sweet.
+没有你的帮助我是完成不了这个工作的. 你真好.
 
 You help take care of your neighbor's kid when she goes to work. That's so sweet.
+你在邻居上班时帮助照看他们的小孩. 你真好.
 
 ## What's with you
+发生了什么
 
-What's with you. You look so upset.
+What's with you? You look so upset.
+怎么了? 你看起来很失落.
 
-What's with you. Something going wrong at work?
+What's with you? Something going wrong at work?
+怎么了? 工作有什么问题吗?
 
-A: What's with you. You can't stop smiling.
+A: What's with you? You can't stop smiling.
+你怎么了? 你笑得停不下了.
 
 B: I just got engaged.
+我刚刚订婚了.
 
 ## Be out of one's league
+高攀不起
 
 She is good looking and very talented. I feel like she is out of my league.
+她长的好看有有天赋. 我感觉自己高攀不起.
 
 She is out of your league. You should stop think about her.
+你配不上她. 你应该停止考虑她.
 
 Everybody thinks your mother is out of my league. But I got her anyway.
+每个人都认为我配不上你母亲. 但我还是把她搞到了.
 
 ## You know what
+你猜怎么着
 
 You know what? I don't feel like talking right now. Can you leave me alone?
+你猜怎么着? 我现在不想谈话. 可以让我一个人待会吗?
 
 You know what? I've passed all of my exams.
+你猜怎么着? 我通过了所有考试.
 
-You know what? I'm making coffee. Do you want some.
+You know what? I'm making coffee. Do you want some?
+你猜怎么着? 我正在冲咖啡. 你想来点吗?
 
 ## How is it going
+最近怎么样
 
 A: How is it going? I haven't see you for a year.
+最近怎么样? 我有一年没见你了.
 
 B: Pretty good. I had a baby.
+很好. 我有一个小孩了.
 
 How is it going? Still working at the bank?
+最近怎么样? 还在银行上班吗?
 
 ## What are you getting at
+你想表达什么
 
 What are you getting at? There is no need to bit around the bush.
+你想表达什么? 没有必要拐弯抹角.
 
 I don't know what you are getting at. Maybe we should seat down and talk about it.
+我不明白你想要表达什么. 或许我们应该坐下谈谈.
 
 ## I have to say
+不得不说
 
-I have to say. You've grown into a beautiful lady.
+I have to say you've grown into a beautiful lady.
+不得不说, 你已经成长为一个美丽的女士了.
 
-I have to say. That is an excellent speech.
+I have to say that is an excellent speech.
+不得不说, 那是一场出色的演讲.
 
-I have to say. You are the most passionate person I've ever met.
+I have to say you are the most passionate person I've ever met.
+不得不说, 你是我见过的最热情的人.
 
 ## Take some days off
+请几天假
 
 My parents are coming to visit. So I want to take some days off.
+我父母要来玩几天. 所以我想请几天假.
 
 You don't look well. Why don't you take a few days off.
+你看起来不舒服. 为什么不请几天假呢.
 
 I'd like to take some days off and do some reading.
+我想要请几天假, 然后看点书.
 
 ## Get held up
+被耽搁了
 
 I'm so sorry I kept you waiting. I got held up at work.
+抱歉让你久等了. 我被工作耽搁了.
 
 I got help up in traffic. I came here as fast as I could.
+我在路上被堵住了. 我尽可能快的赶到这里.
 
-He is always on time. Maybe he got help up by something.
+He is always on time. Maybe he got held up by something.
+他一直都是守时的. 或许他被什么事情耽搁了.
 
 ## No need to worry
+没必要担心
 
 No need to worry. I'am a grow up. I can take care of myself.
+别担心. 我已经是成年人了. 我可以照顾好自己.
 
 He is a smart kid. No need to worry about him.
+他是个聪明的小孩. 没必要担心他.
 
 No need to worry. You will fit in well.
+不用担心. 你会很好的适应的.
 
 ## And I was like
+我感觉像
 
 I saw the result and knew that I didn't pass. And I was like "No way"!
+我看到了结果, 知道了自己没有通过. 然后感觉"不可能"!
 
 I remember when my daughter said her first word. And I was "Oh my god. I can't believe it"!
+我还记得女儿第一次说话. 当时感觉"哦, 上帝. 简直不敢相信"!
 
 She walked up to me and said hello. And I was like "Wow, I'm,the happiest person in the world"!
+她朝我这边走来, 打了个招呼. 我感觉"哇, 自己是最幸福的人了"!
 
 ## I'm good
+不用了, 已经饱了
 
 A: I'm making coffee. Do you want some?
+我做了点咖啡. 你想来点吗?
 
 B: No I'm good. Thank you.
+不用了, 谢谢.
 
 A: I'm ordering pizza. Do you want some?
+我正在点披萨. 你想要来点吗?
 
 B: No I'm good. I'm still digesting my last one.
+不用了. 我还在消化上一次的食物呢.
 
 ## I'm cool with it
+我同意, 我接受
 
 I know you are already have plans tonight. I'm cool with it.
+我知道你今晚已经有安排了. 我可以接受.
 
 I know you are only taking my younger sister to the disney land. And I'm cool with it. I have homework to do.
+我知道你只带妹妹去迪士尼. 我接受. 我还有作业要写.
 
 You want to start your own business. I'm totally cool with it. But you can't take all of my money.
+你想要自己做生意. 我完全同意. 但不要把我所有的钱拿走.
 
 ## Petty
+小气, 吝啬
 
 He is a petty man. He never tips.
+他是给小气的人. 他从来不给小费.
 
 I thought he was petty. But I was wrong about him.
+我之前认为他是个小气的人. 但我看错他了.
 
 You are a petty petty petty man. I didn't think you would use my mistake against me.
+你真是个小气到死的人. 我没想到你会利用我的失误来攻击我.
 
 ## You are so dead
+你死定了
 
 You told mom and dad that I failed the exam? You are so dead.
+你告诉妈妈我考试挂了? 你死定了.
 
 You lost your wedding ring? You are so dead.
+你弄丢了你的结婚戒指? 你死定了.
 
 You stood her up? Wow, you are dead.
-
-## Here's the thing
-
-Here's the thing. We don't have enough money. So we can't buy you a car.
-
-Here's the thing. If you want something. You have to earn it by yourself.
+你放她鸽子了? 哇, 你死定了.
 
