@@ -23,4 +23,3 @@ She's been tied up today. She didn't get around to eating until now.
 
 ## Sleep over
 
-If you don't mind
