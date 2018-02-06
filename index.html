@@ -1,14 +1,39 @@
 ---
 layout: default
 ---
-<div class="row">
-    <section class="col-md-4">
-        <h2>书籍</h2>
-    </section>
-    <section class="col-md-4">
-        <h2>生活</h2>
-    </section>
-    <section class="col-md-4">
-        <h2>技术</h2>
-    </section>
+<div class="card-columns">
+    {% for post in site.posts %}
+    {% if post.background-image %}
+    <div class="card card-book">
+        <div class="card-img-wapper">
+            <img class="card-img" src="{{ post.background-image }}" alt="Card image cap">
+            <div class="card-img-overlay">
+                <a href="{{ post.url }}">
+                    <p class="card-text">{{ post.content | strip_html | strip_newlines | truncate: 60 }}</p>
+                </a>
+            </div>
+        </div>
+        <div class="card-body">
+            <a href="{{ post.url }}">
+                <h2 class="card-title">{{ post.title }}</h2>
+            </a>
+        </div>
+        <div class="card-footer">
+            <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+        </div>
+    </div>
+    {% else %}
+    <div class="card card-tech">
+        <div class="card-body">
+            <a href="{{ post.url }}">
+                <h2 class="card-title">{{ post.title }}</h2>
+            </a>
+            <p class="card-text">{{ post.content | strip_html | strip_newlines | truncate: 100 }}</p>
+        </div>
+        <div class="card-footer">
+            <a href="{{ post.url }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
 </div>
