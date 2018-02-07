@@ -1,6 +1,6 @@
 ---
 title: Git Github 技巧
-background-image: /assets/images/git.gif
+background-image: /assets/images/git.png
 date: 2017-10-28 10:22:11
 tags: git github cheatsheet
 reprint-from: https://github.com/tiimgreen/github-cheat-sheet
