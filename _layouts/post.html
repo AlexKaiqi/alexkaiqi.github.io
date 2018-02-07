@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+<head>
+    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+</head>
+
 <body data-spy="scroll" data-target="#article-nav-aside ">
 {% include nav.html %}
 
