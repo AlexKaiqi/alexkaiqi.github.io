@@ -13,12 +13,8 @@ layout: default
                 </a>
             </div>
         </div>
-        <div class="card-body">
-            <a href="{{ post.url }}">
-                <h2 class="card-title">{{ post.title }}</h2>
-            </a>
-        </div>
         <div class="card-footer">
+            <a href="{{ post.url }}" class="card-link">{{ post.title  | truncate: 8}}</a>
             <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
         </div>
     </div>

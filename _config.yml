@@ -81,6 +81,11 @@ defaults:
       type: posts
     values:
       categories: tech
+  - scope:
+      path: _posts/tech/oral-english
+      type: posts
+    values:
+      background-image: /assets/images/english.jpg
   -
     scope:
       path: _posts/life
