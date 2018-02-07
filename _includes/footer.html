@@ -2,7 +2,7 @@
 <footer class="container">
     <div class="row">
         <!-- personal info and legal statement -->
-        <section class="col-sm-4">
+        <section class="col-sm-4 text-center">
             <nav class="nav flex-column">
                 <a href="/" class="navbar-brand">
                     <img src="{{ site.url }}/assets/images/logo.png" alt="Alex Kai" width="80px">
@@ -16,7 +16,7 @@
         </section>
         <!-- if is has tags, show related articles -->
         {% if page.tags %}
-        <section class="col-sm-4">
+        <section class="col-sm-4 text-center">
             <h5>相关文章</h5>
             <nav class="nav flex-column">
                 {% assign maxRelated = 4 %}
@@ -46,13 +46,13 @@
         </section>
         <!--if has no tags, show something else -->
         {% else %}
-        <section class="col-sm-4">
+        <section class="col-sm-4 text-center">
             <h5>心情</h5>
         </section>
         {% endif %}
 
         <!-- recent articles -->
-        <section class="col-sm-4">
+        <section class="col-sm-4 text-center">
             <h5>最新文章</h5>
             <nav class="nav flex-column">
                 {% assign recent_post = (site.posts | sort: 'date') | reverse %}
