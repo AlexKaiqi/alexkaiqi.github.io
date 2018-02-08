@@ -22,7 +22,7 @@ The manager hit the ceiling at the bad news.
 听到这个坏消息, 经理大发雷霆.
 
 Maria hit the ceiling because her husband forgot their anniversary.
-Maria 大发雷霆. 应为她的丈夫忘记了他们的周年纪念日.
+Maria大发雷霆. 应为她的丈夫忘记了他们的周年纪念日.
 
 ## Keep in touch
 保持联系
@@ -73,7 +73,7 @@ You should forgive a green hand like him.
 薄弱环节, 致命要害
 
 Morgan's Achilles' heel is that he is not brave.
-Morgan 的致命弱点是不勇敢.
+Morgan的致命弱点是不勇敢.
 
 His Achilles' heel is his pride.
 他的致命弱点是他的骄傲.

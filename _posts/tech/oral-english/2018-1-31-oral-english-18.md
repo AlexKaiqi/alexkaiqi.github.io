@@ -121,7 +121,7 @@ My parents want us to live with them after we get married. What do you say?
 我的父母希望我们结婚后可以和他们一起住. 你怎么看?
 
 Jem suggests we take turns to clean the room. What do you say?
-Jem 建议我们轮流打扫房间. 你怎么看?
+Jem建议我们轮流打扫房间. 你怎么看?
 
 ## Brag
 吹牛皮

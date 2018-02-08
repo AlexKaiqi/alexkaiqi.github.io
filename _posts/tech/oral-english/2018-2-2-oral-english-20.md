@@ -64,7 +64,7 @@ He has a short temper. It's not easy to live with him.
 他是一个急性子. 和他一起生活并不容易.
 
 Aron has a short temper and can easily get excited.
-Aron 是个急性子, 很容易激动.
+Aron是个急性子, 很容易激动.
 
 I'm sorry to be short-tempered. But I'm learning to control it.
 我为自己的急性子感到抱歉. 但我正在学习控制它.
@@ -118,7 +118,7 @@ You went to that job interview. How did it go. Did you get it?
 你去了那个工作面试了. 进展如何. 拿下了吗?
 
 How did it go with you and Sam. I went into him yesterday.
-你和 Sam 关系怎么样了. 我昨天撞见他了.
+你和Sam关系怎么样了. 我昨天撞见他了.
 
 How did it go with the fireman. You have been seen him for a month.
 你和那个消防员进展如何了. 你已经和他约会一个月了.
@@ -151,7 +151,7 @@ My mother doesn't look like someone in her fifties. You may still think her stil
 我的母亲看起来不像五十多岁的人. 你或许会认为她还只是四十多岁.
 
 Although Mr.Jack is in his eighties. He can run Marathon.
-尽管 Jack 先生八十多岁了. 他还可以跑马拉松.
+尽管Jack先生八十多岁了. 他还可以跑马拉松.
 
 ## I've had enough
 我吃饱了
@@ -190,4 +190,4 @@ I'm with your mom. You should learn to be independent before you actually enter 
 我同你你妈妈的想法. 你应该在真正走向社会前学会独立.
 
 I'm with Morgan. We should be fully prepared in this competitive world.
-我同意 Morgan 的观念. 在这个充满竞争的社会我们应该做好万全的准备.
+我同意Morgan的观念. 在这个充满竞争的社会我们应该做好万全的准备.

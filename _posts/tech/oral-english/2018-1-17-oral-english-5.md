@@ -33,7 +33,7 @@ I guess we are in the same boat, because we are both refused.
 我猜我们出境相同, 因为我们都被拒了.
 
 Henry was punished for being late, but he knows others are in the same boat with him.
-Henry 因为迟到受罚了, 但他知道其他人和他出境相同.
+Henry因为迟到受罚了, 但他知道其他人和他出境相同.
 
 ## Think nothing of something
 别放在心上
@@ -42,7 +42,7 @@ Think nothing of it, he is in the bad mood today.
 别放在心上, 他今天心情不好.
 
 Tom was rude just now, think nothing of it.
-Tom 刚刚很无礼, 别放在心上.
+Tom刚刚很无礼, 别放在心上.
 
 A: Thanks you so much for helping me out.
 十分感谢你帮了我.

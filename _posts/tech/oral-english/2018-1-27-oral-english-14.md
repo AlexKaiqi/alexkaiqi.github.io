@@ -11,7 +11,7 @@ People love others not for who they are but for how they make them feel.
 人们对于别人的喜欢不是因为他们是谁, 而是因为他们给自身带来的感受.
 
 Johnny just told me a joke. It really cracked me up.
-Johnny 刚刚跟我讲了个笑话. 真是笑死我了.
+Johnny刚刚跟我讲了个笑话. 真是笑死我了.
 
 You crack me up. You are the funniest guy I've ever met.
 你真是笑死我了我. 你是我见过的最搞笑的人.

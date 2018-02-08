@@ -10,7 +10,7 @@ You are a fresh man right? Let me show you around our campus.
 你是新生吧? 我带你参观一下我们的校园.
 
 Jenifer has been here for only two months. You can show her around tomorrow.
-Jenifer 来这才两个月. 你明天可以带他逛逛.
+Jenifer来这才两个月. 你明天可以带他逛逛.
 
 ## Make yourself at home
 别客气, 就当自己家一样
@@ -188,5 +188,5 @@ We raised our eyebrows when we saw him step on a cat.
 当我们看到他踩在一只猫身上时很惊讶.
 
 The teacher raised his eyebrows when he heard that Tom dropped out of school.
-老师听到 Tom 辍学后很惊讶.
+老师听到Tom辍学后很惊讶.
 

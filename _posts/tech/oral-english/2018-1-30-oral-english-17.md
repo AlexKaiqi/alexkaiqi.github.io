@@ -126,7 +126,7 @@ If you want to talk to me, I'm available from 3:00 to 4:00.
 如果你想要和我谈话. 我三点到四点有空.
 
 Mr.Smith is on holiday. And he is not available for your interview.
-Smith 先生正在度假. 现在没空接受你们的采访.
+Smith先生正在度假. 现在没空接受你们的采访.
 
 Are you available? I need to talk to you.
 你有空吗? 我想要和你谈话.
@@ -168,7 +168,7 @@ B: Well, I've seen better days.
 好吧, 不怎么样了.
 
 Every one thinks the Morgans are poor. They have also seen better days.
-每个人都认为 Morgan 家族很穷. 但他们也有过风光的时候.
+每个人都认为Morgan家族很穷. 但他们也有过风光的时候.
 
 My car has seen better days. But it's still running.
 我的车已经大不如前了. 但还能跑.
@@ -180,7 +180,7 @@ My washing machine has seen better days. I'm thinking about buying a new one.
 有效, 管用
 
 My friend Aron told me a way of hitting on girls. It works like a charm.
-我的朋友 Aron 告诉了我一个撩妹技巧. 十分管用.
+我的朋友Aron告诉了我一个撩妹技巧. 十分管用.
 
 One way to make a good impression is to smile and looking into their eyes. It works like a charm.
 留下好印象的一个方法是微笑并且直视对方的眼睛. 这很有效.

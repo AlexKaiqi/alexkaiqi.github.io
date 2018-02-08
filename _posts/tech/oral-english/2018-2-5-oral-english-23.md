@@ -22,7 +22,7 @@ I'm running late. I'll catch up with you later.
 我要迟到了. 我等会会追上你.
 
 Look how fast Marry is walking. She must be running late.
-看 Marry 走的多快. 他一定是要迟到了.
+看Marry走的多快. 他一定是要迟到了.
 
 Hurry up. Or you will be running late.
 赶紧. 否则你会迟到的.
@@ -103,7 +103,7 @@ I'm telling you. You look just like your mother.
 难倒我了
 
 A: Who's the guy there talking with Lily?
-那边和 Lily 谈话的男孩是谁?
+那边和Lily谈话的男孩是谁?
 
 B: Beats me. Never saw him before.
 难倒我了. 从来没见过.

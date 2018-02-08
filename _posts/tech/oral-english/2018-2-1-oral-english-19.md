@@ -64,7 +64,7 @@ I'm not seeing anyone. I'm focusing on my work.
 我没有在和任何人约会. 我在专注于工作.
 
 You are seeing Alon? You two are a good match.
-你在和 Alon 约会吗? 你们俩真配.
+你在和Alon约会吗? 你们俩真配.
 
 ## The long face
 拉长着脸, 板着脸, 不高兴
@@ -94,10 +94,10 @@ May I have your name? We work on the same floor.
 可以告诉我你的名字吗? 我们在同一楼层工作.
 
 A: I'm Mary, your new partner. May I have your name?
-我是 Mary, 你的新搭档. 可以告诉我你的名字吗?
+我是Mary, 你的新搭档. 可以告诉我你的名字吗?
 
 B: Call me Alon. Pleasant to meet you.
-请称呼我 Alon. 很高兴见到你.
+请称呼我Alon. 很高兴见到你.
 
 ## Take it out on
 朝某人发脾气

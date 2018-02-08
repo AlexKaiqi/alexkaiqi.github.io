@@ -18,13 +18,13 @@ Happiness is more important than money, because money will come and go.
 如何称呼你
 
 I'm Jenifer, how do I address you?
-我叫 Jenifer, 该如何称呼你?]
+我叫Jenifer, 该如何称呼你?]
 
 A: How do I address you?
 我该如何称呼你?
 
 B: Please call me Frank.
-叫我 Frank 就行了.
+叫我Frank就行了.
 
 ## My hands are full right now
 我现在很忙
@@ -72,10 +72,10 @@ Are you pulling my leg, I'm very serious right now.
 你在拿我开玩笑吗, 我现在非常认真.
 
 Jone always pulls my leg.
-Jone 总是拿我开玩笑.
+Jone总是拿我开玩笑.
 
 Marry is a serious person, don't pull her leg.
-Marry 是一个严肃的人, 不要开她的玩笑.
+Marry是一个严肃的人, 不要开她的玩笑.
 
 ## Neck and neck
 不分上下, 势均力敌
@@ -87,7 +87,7 @@ In terms of speed, my old car is neck and neck with a new one.
 说到速度, 我的旧车和新的一样快.
 
 Jack and Morgan were neck and neck when they were running.
-Jack 和 Morgan 之前跑步时不分上下.
+Jack和Morgan之前跑步时不分上下.
 
 ## Blue
 心情低落
@@ -180,7 +180,7 @@ B: Thank you. I am flattered.
 小气鬼, 吝啬的人
 
 I don't like Charly, he is a cheap skate.
-我不喜欢 Charly, 他是个小气鬼.
+我不喜欢Charly, 他是个小气鬼.
 
 Don't be like a cheap skate. You don't have to buy everything.
 别弄得跟个小气鬼一样, 你又不需要买下所有的东西.

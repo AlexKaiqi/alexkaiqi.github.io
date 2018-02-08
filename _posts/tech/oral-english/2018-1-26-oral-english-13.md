@@ -19,7 +19,7 @@ I know computers like the back of my hand.
 抢走某人的风头
 
 Sam stole my thunder telling people it's his idea. Well, it's mine.
-Sam 抢走了我的风头, 告诉别人那是他的主意. 但那是我的.
+Sam抢走了我的风头, 告诉别人那是他的主意. 但那是我的.
 
 I didn't mean to steal your thunder. I have no idea that he will propose me today.
 我不是故意抢走了你的风头的. 我完全不知道他今天会向我求婚.
@@ -31,7 +31,7 @@ She is mad at me, because I stole her thunder.
 出众, 引人注目
 
 Lila really stands out from the rest of her class.
-Lila 在班上很出众.
+Lila在班上很出众.
 
 His talent stands out in comparision with others.
 与其他人相比, 他的才能十分出众.
@@ -43,7 +43,7 @@ Her beautiful voice makes her stand out in the crowd.
 说话直率的人
 
 What's most attractive about Derek is that he is a straight talker.
-Derek 最吸引人的地方是他是一个说话直率的人.
+Derek最吸引人的地方是他是一个说话直率的人.
 
 She is known for being a straight talker.
 她以说话直率著称.
@@ -106,7 +106,7 @@ Thank you for all your support. It meant the world to me.
 谢谢你们的支持. 那对我来说意味着一切.
 
 Your help and encouragement to Tom meant the world to his family.
-你对 Tom 的帮助和鼓励对他的家人来说意味着一切.
+你对Tom的帮助和鼓励对他的家人来说意味着一切.
 
 I don't know how to thank you for what you have done to me. I just want you to know that it meant the world.
 我不知道如何感谢你为我做的一切. 我只想让你知道这对我来说意味着一切.

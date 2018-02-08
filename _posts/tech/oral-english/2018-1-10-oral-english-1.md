@@ -168,7 +168,7 @@ B: A little bird told me.
 我听说的.
 
 Janne and Lorry got married secretly, a little bird told me.
-Janne 和 Lorry 秘密的结婚了, 我听说的.
+Janne和Lorry秘密的结婚了, 我听说的.
 
 ## It never rains, but it pours
 祸不单行

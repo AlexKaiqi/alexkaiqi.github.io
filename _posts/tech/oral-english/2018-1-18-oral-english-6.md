@@ -187,7 +187,7 @@ There is no such thing as a free launch, you must make efforts in order to succe
 为某人热烈鼓掌
 
 Tom has solved the problem all by himself, let's give him a big hand.
-Tom 独自一人解决了这个问题, 让我们为他报以热烈掌声.
+Tom独自一人解决了这个问题, 让我们为他报以热烈掌声.
 
 Morgan saved the whole team. We should give him a big hand.
-Morgan 拯救了整个团队, 我们应该为他热烈鼓掌.
+Morgan拯救了整个团队, 我们应该为他热烈鼓掌.

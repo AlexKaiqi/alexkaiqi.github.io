@@ -144,7 +144,7 @@ They are very good friends, but from time to time they step on each others toes.
 一个巴掌拍不响
 
 Don't blame Marry alone, because it takes two to tangle.
-别指责 Marry 一个人, 一个巴掌拍不响.
+别指责Marry一个人, 一个巴掌拍不响.
 
 It takes two to tangle, but I think it's more his fault.
 一个巴掌拍不响, 但我认为他的过错大一些.

@@ -67,7 +67,7 @@ Don't get high hat in front of your parents.
 别再父母面前摆架子.
 
 Marry is not very popular because she often gets high hat.
-Marry 不是很受欢迎, 因为她经常摆架子.
+Marry不是很受欢迎, 因为她经常摆架子.
 
 Don't get high hat. Everyone should be respected.
 别摆架子. 每个人都应该被尊重.
@@ -165,7 +165,7 @@ Your proposer is great. I can't agree more.
 你的提议太棒了. 我完全赞同.
 
 Jack's opinion is reasonable. I can't agree more.
-jack 的观点十分合理. 我完全赞同.
+jack的观点十分合理. 我完全赞同.
 
 ## Excuse me for a moment
 失陪一下

@@ -64,7 +64,7 @@ Volunteers have to work around the clock in order to save lives.
 为了拯救生命, 志愿者不得不日以继夜的工作.
 
 July's grandfather is ill. She has to watch him in the hospital around the clock.
-July 的祖父生病了. 她不得不全天候在医院照看他.
+July的祖父生病了. 她不得不全天候在医院照看他.
 
 ## Make ends meet / Can't make ends meet
 收支平衡 / 入不敷出

@@ -49,7 +49,7 @@ I have to go, as for the arrangement, suit yourself.
 临阵退缩, 打退堂鼓
 
 Frank got cold feet before the wedding started.
-在婚礼开始前 Frank 临阵退缩了.
+在婚礼开始前Frank临阵退缩了.
 
 You can never have a good result if you get cold feet before the exam.
 如果你在考试前临阵退缩了, 你永远拿不到好的成绩.
@@ -169,7 +169,7 @@ I don't want to be a pain in the neck, but I've told so many times to clean your
 我也不想被你讨厌, 但我已经跟你说过好多遍要打扫你的房间了.
 
 I really hope Tom is not coming, because he is a pain in the neck.
-我真的不希望 Tom 过来, 因为他很讨厌.
+我真的不希望Tom过来, 因为他很讨厌.
 
 ## The tip of the iceberg
 冰山一角

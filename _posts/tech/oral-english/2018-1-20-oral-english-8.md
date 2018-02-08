@@ -145,7 +145,7 @@ We have the upper hand, because we have more people.
 我们占上风, 因为我们人数更多.
 
 Aron has the upper hand. He is a lot stronger.
-Aron 有优势. 他更强壮.
+Aron有优势. 他更强壮.
 
 If you learn english well, you will have the upper hand in the future.
 如果你英语学好, 将来就会有优势.
@@ -181,7 +181,7 @@ I feel blue. He never shew up.
 我很伤心. 他从来没有出现.
 
 I am expecting Mr.Smith to show up tonight.
-我希望 Smith 先生今晚能够出现.
+我希望Smith先生今晚能够出现.
 
 It's an important event. You have to show up.
 这个活动很重要. 你必须出席.
