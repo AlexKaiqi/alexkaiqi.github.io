@@ -1,8 +1,6 @@
 ---
 title: 爱英语-3
 date: 2018-01-14 09:08:59
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## On the tip of one's tongue

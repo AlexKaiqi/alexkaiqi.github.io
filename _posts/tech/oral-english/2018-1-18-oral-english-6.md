@@ -1,8 +1,6 @@
 ---
 title: 爱英语-6
 date: 2018-01-18 13:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## For the time being

@@ -1,8 +1,6 @@
 ---
 title: 爱英语-21
 date: 2018-02-3 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Hello?

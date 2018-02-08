@@ -1,8 +1,6 @@
 ---
 title: 爱英语-8
 date: 2018-01-20 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## See you around

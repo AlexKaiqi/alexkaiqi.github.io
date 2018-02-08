@@ -1,11 +1,7 @@
 ---
 title: 爱英语-7
 date: 2018-01-19 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
-
-
 ## Money will come and go
 钱乃身外之物
 

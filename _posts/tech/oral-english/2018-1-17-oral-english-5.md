@@ -1,11 +1,7 @@
 ---
 title: 爱英语-5
 date: 2018-01-16 10:57:29
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
-
-
 ## Talk is cheap
 说的容易, 光说没用
 

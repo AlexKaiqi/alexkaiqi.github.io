@@ -86,6 +86,8 @@ defaults:
       type: posts
     values:
       background-image: /assets/images/english.jpg
+      tags: english oral speak
+      reprint-from: 喜马拉雅-爱英语
   -
     scope:
       path: _posts/life

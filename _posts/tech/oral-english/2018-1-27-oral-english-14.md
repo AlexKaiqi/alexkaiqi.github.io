@@ -1,8 +1,6 @@
 ---
 title: 爱英语-14
 date: 2018-01-27 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Crack somebody up

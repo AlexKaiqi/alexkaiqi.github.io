@@ -1,8 +1,6 @@
 ---
 title: 爱英语-10
 date: 2018-01-22 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Show someone around
@@ -61,8 +59,6 @@ I'm sorry I can't make it to your birthday party. Have a good of it.
 
 This event is very interesting. I had a good of it.
 这个活动十分有趣. 我玩的很开心.
-
-
 ## In the long run
 长期来看, in the long term
 

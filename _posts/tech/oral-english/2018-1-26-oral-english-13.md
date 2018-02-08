@@ -1,8 +1,6 @@
 ---
 title: 爱英语-13
 date: 2018-01-26 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Know something/someone like the back of one's hand

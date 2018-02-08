@@ -1,11 +1,7 @@
 ---
 title: 爱英语-4
 date: 2018-01-16 10:45:32
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
-
-
 ## Check somebody out
 看的入迷, 盯着看
 

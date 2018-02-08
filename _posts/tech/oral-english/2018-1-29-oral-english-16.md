@@ -1,8 +1,6 @@
 ---
 title: 爱英语-16
 date: 2018-01-29 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Can I have a word
@@ -39,8 +37,6 @@ Don't mention the thing last week. I'm already over it.
 
 I don't feel anything at all seeing her with her new boyfriend. Because I'm over it.
 看到她和她的新男友在一起我什么感觉都没有.
-
-
 ## Have a running nose
 流鼻涕
 

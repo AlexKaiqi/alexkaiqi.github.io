@@ -1,8 +1,6 @@
 ---
 title: 爱英语-20
 date: 2018-02-2 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## You are the best

@@ -1,8 +1,6 @@
 ---
 title: 爱英语-22
 date: 2018-02-4 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Here's the thing
@@ -196,9 +194,5 @@ Kudos for quitting smoking. That was not easy.
 
 Kudos to you. You've made great progress.
 恭喜你. 你取得了巨大的进步.
-
-
-
-
 
 

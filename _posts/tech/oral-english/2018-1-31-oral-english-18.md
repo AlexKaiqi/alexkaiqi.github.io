@@ -1,8 +1,6 @@
 ---
 title: 爱英语-18
 date: 2018-01-31 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## It's not that
@@ -196,8 +194,4 @@ Please keep the change. That's for your tip.
 
 Here's the money. You can keep the change.
 钱给你. 多的就留给你了.
-
-
-
-
 

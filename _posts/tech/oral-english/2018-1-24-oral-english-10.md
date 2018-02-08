@@ -1,8 +1,6 @@
 ---
 title: 爱英语-11
 date: 2018-01-24 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Follow one's nose

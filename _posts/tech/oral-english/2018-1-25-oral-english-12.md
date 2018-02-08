@@ -1,8 +1,6 @@
 ---
 title: 爱英语-12
 date: 2018-01-25 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## You are going to far

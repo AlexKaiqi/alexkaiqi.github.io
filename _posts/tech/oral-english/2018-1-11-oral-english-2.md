@@ -1,8 +1,6 @@
 ---
 title: 爱英语-2
 date: 2018-01-11 13:07:30
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Not one's cup of tea

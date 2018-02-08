@@ -1,8 +1,6 @@
 ---
 title: 爱英语-24
 date: 2018-02-6 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## Have a knack for something
@@ -152,25 +150,4 @@ Don't take it personally. He is just in the bad mood.
 Don't take it personally if they don't answer your call. Maybe they are just busy.
 
 Don't take it personally. He meant no harm.
-
-## Indoorsy
-
-He is an indoorsy person. He stays at home for most of his time.
-
-She is kind of indoorsy. She doesn't like socializing.
-
-I have an impression that all of the scientists are indoorsy.
-
-## Feel like doing
-
-Do you feel like a cup of tea?
-
-What do you feel like doing when the exams are over?
-
-I don't feel like getting up early on weekends.
-
-
-
-
-
 

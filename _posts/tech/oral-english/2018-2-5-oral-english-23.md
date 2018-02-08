@@ -1,8 +1,6 @@
 ---
 title: 爱英语-22
 date: 2018-02-5 9:16:42
-tags: english oral speak
-reprint-from: 喜马拉雅-爱英语
 ---
 
 ## You'll do all right
@@ -200,7 +198,5 @@ It's so nice of you to ask. The thing is, I already have plans.
 
 There is nothing wrong about trying. The thing is, you have to try in the right direction.
 尝试没有错. 关键是你必须朝着对的方向.
-
-
 
 
