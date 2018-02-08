@@ -73,30 +73,134 @@ B: Ok. That will do.
 好的. 茶就行.
 
 ## I'm all for it
+我完全支持
 
 If we have to decide between fried chicken and pizza. I'm for pizza.
+如果必须要在炸鸡和披萨之间选择. 我支持披萨.
 
-As a mother, I'm all for creating a safe campus enviroment for our children.
+As a mother, I'm all for creating a safe campus environment for our children.
+作为一个母亲. 我完全支持为孩子创建一个安全的校园环境.
 
 It's sound's like a feasible plan. I'm all for it.
+听起来是个可行的计划. 我完全支持.
 
 ## I'm against it
+我不支持
 
 I'm against you staying at the Apa hotel.
+我不赞成你留在Apa酒店.
 
 It may put you in harms way. So I'm totally against it.
+它可能伤害到你. 所以我完全反对.
 
 I really want to do this. But my parents are against it.
+我真的想做这件事. 但我的父母反对这个.
 
 ## Like
+大概
 
 I have like 50 yuan. How much do you need?
+我有大概50元. 你需要多少?
 
 I have like half an hour. We'd better be quick.
+我有大概半个小时. 我们最好快点.
 
 It's gonna take like two days to finish the task.
+完成这个任务大概要花费半个小时.
 
-##
+## It's a stone's throw from here
+离这里很近
 
+The hotel is a stone's throw from the west lake. I love it.
+旅馆距离西湖很近. 我很喜欢.
 
+The super market is a stone from here. You won't miss it.
+超市距离这里很近. 你不会错过的.
+
+## What's new in
+发生了什么新鲜事
+
+What's new in work? Boss is still so grumpy?
+工作有什么新情况吗? 老板还是爱发脾气?
+
+What's new in movie? I heard Steven Chou's new movie was on.
+电影有什么新消息吗? 我听说Steven Chou的新电影上映了.
+
+## No matter what
+不管发生什么
+
+I will always have your back no matter what.
+不管发生什么我永远都会支持你.
+
+Never stop learning no matter what.
+不管发生什么都不要停止学习.
+
+If you want to do something. You do it, no matter what.
+如果有什么想要去做的事. 不管发生什么你都要去做.
+
+## I don't get it
+我不明白
+
+I'm sorry. I didn't get your name.
+抱歉. 我没听清楚你的名字.
+
+I don't get it. What do you mean by that?
+我不明白. 你这是什么意思?
+
+You didn't read the news? No wonder you don't get what I mean.
+你没看新闻吗? 难怪你不知道我的意思.
+
+## Nice
+很棒
+
+Nice dress. Where did you get it?
+很棒的裙子. 你在哪买的?
+
+Nice car. What happened to your old one?
+很棒的车. 你的老车怎么了?
+
+Nice apartment. Large space and good lighting.
+很棒的公寓. 很大的空间以及好的采光.
+
+## That would be nice
+那真是太好了
+
+A: Can I get you some water?
+我可以帮你倒杯水吗?
+
+B: Oh, that would be nice. Thank you.
+哇, 那真是太好了. 谢谢你.
+
+A: How about we meet tomorrow and talk about it?
+明天见个面然后讨论一下这个怎么样?
+
+B: That would be nice. Where shall we meet?
+那真是太好了. 我们应该在哪里见面呢?
+
+A: Let me give you a lift. It's a long walk.
+让我搭你一程吧. 走路很远.
+
+B: Thanks. That would be so nice.
+谢谢. 那真是太好了.
+
+## Sounds good
+听起来不错
+
+A: Honey, tomorrow is valentines day. Let's go and have some sushi.
+亲爱的, 明天是情人节. 我们去吃点寿司吧.
+
+B: Sounds good to me. I like sushi.
+听不来不错. 我喜欢寿司.
+
+A: Mom. What do you think of a trip to JiuZhaigou?
+妈. 你觉得去九寨沟旅游怎么样?
+
+B: Sounds good. But how much would it cost?
+听起来不错. 但要花多少钱?
+
+A: May I get you some tea?
+可以帮你倒点茶吗?
+
+B: Yeah, It's sounds good. Thank you.
+嗯. 听起来不错. 谢谢.
 
