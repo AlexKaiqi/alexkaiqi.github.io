@@ -181,15 +181,15 @@ It doesn't matter what you wear as long as you look tidy.
 只要你看起来整洁, 穿什么并不重要.
 
 ## Drama queen
-大嘴巴
+做作, 小题大做的人
 
 I'm so glad Janis is not here. She is such a drama queen. She will make a thing of it.
-我很高心Janis不在这里. 她真是个大嘴巴. 她会搞事的.
+我很高心Janis不在这里. 她真是个做作的人. 她会搞事的.
 
 Stop being such a drama queen. You don't know what's going on.
-别再喋喋不休了. 你不知道发生了什么.
+别再小题大做. 你不知道发生了什么.
 
 Her boyfriend is a drama queen. She can't stand it.
-她的男朋友是个大嘴巴. 她忍受不了这个.
+她的男朋友是个做作的人. 她忍受不了这个.
 
 
