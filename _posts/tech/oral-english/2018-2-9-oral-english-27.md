@@ -1,0 +1,208 @@
+---
+title: 爱英语-27
+date: 2018-02-09 15:33:31
+---
+
+## Get to know
+了解
+
+I want to spend more time with you. So I can get to know you better.
+我想要和你在一起更久. 这样我就可以更加了解你.
+
+We are new here and are just starting to get to know the city.
+我们是新来的, 才开始了解这个城市.
+
+It may take a long time to get to know yourself.
+要了解你自己可能要花很长时间.
+
+## You got it
+当然
+
+A: Can you check on the babies? I heard them crying.
+可以帮我看看小宝宝的情况吗? 我听到他们哭声了.
+
+B: You got it.
+当然.
+
+A: I need to go out for a minute. Can you cover me?
+我需要外出一会儿. 可以帮我代班吗?
+
+B: You got it. Go ahead.
+当然. 去吧.
+
+A: Would you answer the door please? I think it's my boyfriend.
+可以请你开一下门吗? 我想是我的男朋友.
+
+B: You got it.
+当然.
+
+## Ta-da
+嘿
+
+I have a little present for you. Ta-da, it's your favorite book.
+我有个小礼物给你. 嘿, 是你最喜欢的书.
+
+Ta-da, look what I got for you. A nice pair of shoes.
+嘿, 看看我给你带了什么. 一双美丽的鞋子.
+
+## I'm sorry to ask, but
+很抱歉打扰, 但
+
+I'm sorry to ask, but I might need some help here.
+很抱歉打扰, 但我可能需要一些帮助.
+
+I'm sorry to ask, but do you know where I can find this information?
+很抱歉打扰, 但你知道哪里可以找到这条消息吗?
+
+## Impress someone
+给某人留下深刻印象
+
+I'm meeting my future mother in law tomorrow. I will do everything to impress her.
+我明天要去和未来的丈母娘见面. 我会用尽方法给她留下深刻印象.
+
+She did not impress her boss at all.
+她一点也没有给她老板留下印象.
+
+## I knew it
+我就知道
+
+A: Marry and Ben are dating!
+Marry和Ben在约会.
+
+B: I knew it. I knew there was something going on.
+我就知道. 我就知道有什么事.
+
+A: Michel isn't coming tonight.
+Michel今晚不来了.
+
+B: I knew it. He always stands me up.
+我就知道. 他总是放我鸽子.
+
+## If you want
+如果你想的话
+
+A: You sure you can handle it?
+你确定你可以搞定它吗?
+
+B: I can stay if you want.
+如果你想的话我可以留下.
+
+We can take a break if you want.
+如果你想的话我们可以休息一下.
+
+I can watch the kids for you if you want. I have nothing to do anyway.
+如果你想的话我可以帮你看一下孩子. 反正我也没有什么事情做.
+
+## We are doing ok
+我们很好
+
+A: Hey! How are doing?
+Hey! 最近怎么样?
+
+B: I'm doing ok. Just a bit busy.
+我很好. 只是有点忙.
+
+I'm doing ok. But my sister is under a lot of pressure.
+我很好. 但我姐姐现在压力很大.
+
+The accident was really bad. But he is doing ok now.
+事故十分严重. 但是他没事.
+
+## A big fan of
+大粉丝
+
+He is a big fan of basketball. He plays it whenever he has time.
+他热衷于篮球. 他一有时间就打篮球.
+
+I'm a big fan of Beijing. I love its diversity.
+我是北京的大粉丝. 我喜欢她的多元化.
+
+I'm not a big fan of rock music. I think it's a little noisy.
+我不太喜欢摇滚乐. 我觉得它有点吵.
+
+## It's not for me
+这不适合我
+
+I spend one year working as a saleswoman. Then I realised it's not for me.
+我花了一年时间做销售. 然后我意识到这不适合我.
+
+I don't want to live the kind of life without any change. It's just not for me.
+我不想过着一成不变的生活. 就是不适合我.
+
+When I had my first boyfriend I realised maybe it's not for me.
+当我有了第一个男朋友时. 我意识到他或许不适合我.
+
+## Check please
+结账
+
+## How was your day
+今天怎么样
+
+A: How was your day?
+今天怎么样?
+
+B: Good. Learned a lot of stuff today.
+很好. 今天学到了很多东西.
+
+A: How was your day?
+今天怎么样?
+
+B: Well. Busy as a bee.
+好吧. 忙成狗.
+
+## Thanks for asking
+谢谢关心
+
+A: How was your cold?
+你感冒怎么样了?
+
+B: Much better. Thanks for asking.
+好多了. 谢谢关心.
+
+A: How is your brother now? I heard he had a little accident.
+你兄弟现在怎么样了? 我听说他出了事故.
+
+B: He is fine. Thanks for asking.
+他很好. 谢谢关心.
+
+A: How is your interview?
+你的面试怎么养了?
+
+B: I got the offer.Thanks for asking.
+我拿到offer了. 谢谢关心.
+
+## The last thing
+最不想
+
+He is the last person I wanna see in the world.
+他是这个世界上我最不想见到的人.
+
+The last thing I would do is lying to you.
+我最不想做的事就是对你说谎.
+
+Being late for work is the last thing I would do.
+迟到是我最不会做的事.
+
+## I'll get to you later
+我待会找你
+
+I see you are busy now. I'll get back to you later.
+我看你现在很忙. 我待会再找你.
+
+A: Can you check some information for me?
+你可以帮我看点信息吗?
+
+B: Sorry. My hands are full right now.
+抱歉. 我现在忙的不可开交.
+
+A: Ok. I'll get to you later.
+好吧. 我待会再找你.
+
+
+
+
+
+
+
+
+
