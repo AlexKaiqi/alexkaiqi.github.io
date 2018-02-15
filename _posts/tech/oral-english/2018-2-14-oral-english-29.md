@@ -187,7 +187,7 @@ I'm so glad Janis is not here. She is such a drama queen. She will make a thing 
 我很高心Janis不在这里. 她真是个做作的人. 她会搞事的.
 
 Stop being such a drama queen. You don't know what's going on.
-别再小题大做. 你不知道发生了什么.
+别再小题大做. 你不知道发生了什么.额为34鹅鹅鹅饿eeeeeee
 
 Her boyfriend is a drama queen. She can't stand it.
 她的男朋友是个做作的人. 她忍受不了这个.
