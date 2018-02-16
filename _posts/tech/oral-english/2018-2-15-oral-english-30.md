@@ -1,6 +1,6 @@
 ---
-title: 爱英语-29
-date: 2018-02-13 9:33:31
+title: 爱英语-30
+date: 2018-02-15 9:33:31
 ---
 
 ## Be around
@@ -82,95 +82,115 @@ B: Exactly. I don't think I can pass it.
 完全正确. 我不认为我可以通过.
 
 A: That guy truly doesn't know what a good manner is.
+那个男孩真是不知道礼貌怎么写.
 
 B: Exactly. He should watch his mouth.
+完全正确. 他应该管好自己的嘴.
 
 ## Comfort zoom
+舒适圈
 
 Real progress lies outside of our comfort zoom.
+真的进步处于我们舒适圈之外.
 
 At first you may be afraid of leaving your comfort zoom. But once you do it, amazing things will happen.
+起初你可能害怕离开舒适圈. 但一旦你做了, 就会有神奇的事情发生.
 
 You need to get out of your comfort zoom and try something new.
+你需要离开你的舒适圈并且尝试一些新东西.
 
 ## Come on in
+请进
 
 Come on in. We are expecting you.
+请进. 我们正希望你过来呢.
 
 Come on in. And make yourself at home.
+请进. 把这里当作自己的家.
 
 ## Poor you
+可怜
 
 A: My dog died yesterday.
+我的小狗昨天死了.
 
 B: Poor you. You must be heart broken.
+真可怜. 你一定很伤心.
 
 A: My computer broke down. And all my work disappeared.
+我的电脑坏掉了. 所有的工作都没了.
 
 B: Poor you. You've been working on it for a week.
+真可怜. 你都在这个上面忙了一周了.
 
 ## Is this seat taken
+这个位置有人吗
 
 A: Excuse me, is this seat taken?
+打扰一下. 这个位置有人吗?
 
 B: I'm not sure.
+我不确定.
 
 A: Is this seat taken?
+这个位置有人吗?
 
 B: I'm afraid the seat is taken.
+有人了.
 
 Is this seat taken? Can I seat here?
+这个位置有人吗? 我可以坐吗?
 
 ## The dragon boat festival
+端午节
 
 Rice dumpling with date
+枣肉馅粽子
 
 ## You can't have it all
+你不可能什么都拥有
 
 Unless you are super rich, you can't have it all.
+除非你非常富有. 你不可能什么都有.
 
 If I have learned anything from this experience, it's that you can't have it all.
+如果说我从这个经历中学到什么, 那就是你不能什么都拥有.
 
 Recognizing we can't have it all, we can be a lot happier.
+意识到我们不能十全十美, 我们可以更加幸福.
 
 ## Rocks
+很棒
 
 This amusement park rocks. I'm having so much fun.
+这个游乐园太棒了. 我现在玩的很开心.
 
 SiShuan Rocks. It's a paradise for foodies like me.
+四川真棒. 对我这样的吃货来说这里就是天堂.
 
 ## Express oneself
+表达自己
 
 Everyone has the right to express himself.
+每个人都有权利表达自己.
 
 Body language is also a way of expressing oneself.
+肢体语言也是一种表达自己的方法.
 
 Sorry I haven't express myself clearly.
+抱歉我不能表述清楚.
 
-##
+## be being
+正在(可能平时不是)
 
 Don't read too much into it. He is just being polite.
+别想太多. 他只是在有礼貌.
 
 A: You told her you liked her food.
+你告诉他你喜欢她的食物.
 
 B: I was just being nice.
+我刚刚只是在客气.
 
 I guess you asked for it. You are being so rude.
-
-## Big day
-
-This is a big day in your life. We are going to celebrate.
-
-Tomorrow is your big day. We are all excited about it.
-
-It's gonna be a big day. A lot of important figures are gonna be here.
-
-## Affluent
-
-He comes from an affluent family.
-
-In some of the affluent countries, pollution s the main problem.
-
-They are not well off and live in the village.
-
-Everyone wants to be financially comfortable.
+我猜你是自找的. 你现在很粗鲁.
