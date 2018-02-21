@@ -1,0 +1,197 @@
+---
+title: 爱英语-32
+date: 2018-02-19 9:33:31
+---
+
+## Roll call
+点名
+
+Roll call starts at 9:00. Don't be late.
+9点钟点名. 不要迟到了.
+
+I'm gonna make a roll call to see who is not here.
+我打算点个名, 看看谁不在.
+
+## Call names
+骂人
+
+After such name calling, who would want to work with him.
+在如此的辱骂之后, 谁会想和他一起工作.
+
+They both have hot temper and often call each other names.
+他们都有着暴脾气, 经常辱骂对方.
+
+## Be all about
+满脑子都是
+
+My son is all about studying and doesn't know a thing about dating.
+我的儿子满脑子学习, 都不知道约会.
+
+I'm all about improving my spoken english.
+我满心想着提升英语口语.
+
+He is all about the girl he met in the library last week.
+他满脑子想着上周在图书馆见到的女孩.
+
+## Or what
+还是什么
+
+You are trembling. Are you cold or what?
+你在发抖. 你是冷还是什么?
+
+You don't look well. Are you sick or what?
+你看起来不太好. 你是生病了还是什么?
+
+Do you wanna get fired or what?
+你是想被炒鱿鱼还是什么?
+
+## Needless to say
+不用说
+
+Needless to say, we got to seize every chance.
+不用说, 我们必须抓住每个机会.
+
+Needless to say, she is the most hard-working person in the company. And she deserves the promotion.
+不用说, 她是公司里工作最努力的人. 她的升职是应得的.
+
+Character, needless to say, is an important consideration when I choose a partner.
+品性, 不用说, 是我选择搭档的一个重要考虑因素.
+
+## Bring up
+抚养, 提出
+
+I'm glad you bring that up. I'd like to discuss it with you.
+我很高兴你提出那个. 我会和你讨论这件事的.
+
+You'd better not bring up what has happened in the past in your fight.
+你最好不要在吵架中提出已经发生过的事.
+
+That question has been brought up in many occasions.
+那个问题已经在很多场合被提出了.
+
+## Fight
+吵架
+
+Marry is in the fight with his boyfriend.
+Marry正在和她的男朋友吵架.
+
+We had a huge fight this morning. I don't wanna see him now.
+我们今天早上大吵了一架. 我现在不想见到他.
+
+We've got to stop fighting over money again and again.
+我们必须停止一次又一次的因为钱的问题吵架.
+
+After a couple of fights, we have found the best way to get along.
+几次吵架之后, 我们找到了一起相处最好的方式.
+
+## Tons of / Loads of
+很多
+
+I have tons of work to do.
+我有很多工作要做.
+
+These ads are full of people who look like they are having tons of fun.
+这些广告上全都是看起来非常开心的人.
+
+I've got loads of money.
+我赚了很多钱.
+
+One thing I don't like winter is that I have to wear loads of clothes.
+我不喜欢冬天的一个原因是我必须穿很多衣服.
+
+## Let's
+好啊
+
+A: Let's throw a surprise party for his party.
+让我们为他准备一个惊喜派对吧.
+
+B: Ok, let's. That will be fun.
+好啊. 那一定会有趣.
+
+A: Let's play monopoly.
+来玩大富翁吧.
+
+B: Good, let's. It's a good way to kill time.
+很好. 是个打发时间的好方法.
+
+## Make oneself clear
+表达清楚
+
+I'm I making myself clear? If not, I will repeat one more time.
+我有没有表述清楚? 如果没有, 我会再重复一遍.
+
+Let me make myself clear. I agree with you that learning english well isn't easy.
+让我说清楚. 我同意把英语学好不容易.
+
+Sorry. If I didn't make myself clear, I need more time than that.
+抱歉. 如果我没有表述清楚, 我需要更多时间.
+
+## Late
+迟到
+
+Sorry for being late.
+抱歉迟到了.
+
+I'm sorry for keeping you waiting. I was caught in the traffic jem.
+抱歉让你等了. 我遇到了堵车.
+
+Sorry to keep you waiting. Something urgent happened.
+抱歉让你一直等. 有紧急事情.
+
+## My phone died
+手机没电了
+
+My phone is dead. I need to charge it.
+我的手机没电了. 我需要给它充电.
+
+I'm really sorry. I didn't get your call. My phone died.
+真的很抱歉. 我没有接到你的电话. 我手机没电了.
+
+## Let's face it
+面对现实
+
+Let's face it. If you don't have a college degree, t will be hard for you to find a high-paid job.
+面对现实吧. 如果你没有大学文凭, 找到一个高薪工作很麻烦.
+
+Let's face it. She works a lot harder than you.
+面对现实吧. 她比你工作努力多了.
+
+Let's face it. I'm more handsome.
+面对现实吧. 我更帅.
+
+## Talk over
+讨论
+
+We spend hours talking over the details of the plan.
+我花了几个小时讨论计划的细节.
+
+You can give me a call. And we'll talk things over.
+你可以给我打电话. 我们可以讨论一下.
+
+Do you have a moment? I wanna talk this over with you.
+你有时间妈? 我想要和你讨论一下这件事.
+
+## Stroke
+中暑
+
+There are mad changes to get sun stroke at this high temperature.
+在这么高温的天气下有可能中暑.
+
+I got hit stroke from running in the sun yesterday.
+昨天在太阳下面跑步中暑了.
+
+## Not bad
+还行, 一般般
+
+A: What do you think of this movie?
+你觉得这部电影怎么样?
+
+B: Not bad, but not good as I expected.
+还行, 但没有我期望的那么好.
+
+A: How is the fried chicken?
+炸鸡怎么样?
+
+B: Not bad.
+还行.
+
