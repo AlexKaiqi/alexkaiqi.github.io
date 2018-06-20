@@ -82,7 +82,7 @@ defaults:
     values:
       categories: tech
   - scope:
-      path: _posts/tech/oral-english
+      path: _posts/english/oral-english
       type: posts
     values:
       background-image: /assets/images/english.jpg
@@ -118,8 +118,8 @@ nav-items:
     url:          /book
 #  - name:         旅游
 #    url:          /travel
-#  - name:         生活
-#    url:          /life
+  - name:         English
+    url:          /english
   - name:         技术
     url:          /tech
   - name:         归档
