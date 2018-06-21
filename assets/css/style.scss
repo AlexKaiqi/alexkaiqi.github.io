@@ -7,7 +7,8 @@
 body {
 
   @extend .bg-dark; // dark theme
-  @extend .text-muted; // base font color
+  @extend .text-light; // base font color
+
   position: relative; // for bootstrap scrollspy
 
   /**
@@ -81,19 +82,20 @@ Style for post content navigator
     /**
     Style for post header
      */
-    & > header {
+    & > .post-header {
       margin-bottom: 1rem;
     }
 
     /**
     Style for post content
      */
-    & > article {
+    & > .post-content {
       font-size: $article-font-size;
       line-height: $article-line-height;
       margin-bottom: 2rem;
+      color: $article-font-color;
 
-      & > table {
+      table {
         @extend .table;
         @extend .table-dark;
         @extend .table-striped;
@@ -102,7 +104,6 @@ Style for post content navigator
           background-color: darkgrey;
           color: black;
         }
-        @extend .text-muted;
       }
       blockquote {
         @extend .blockquote;
@@ -114,7 +115,7 @@ Style for post content navigator
           color: mediumslateblue;
         }
       }
-      & > p img {
+      p img {
         @extend .img-fluid;
         @extend .img-thumbnail;
       }
@@ -127,7 +128,7 @@ Style for post content navigator
     Style for post footer
      */
     & > footer {
-
+      @extend .text-muted;
     }
   }
 
