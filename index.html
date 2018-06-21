@@ -14,7 +14,9 @@ layout: default
         </div>
         <div class="card-footer">
             <a href="{{ post.url }}" class="card-link">{{ post.title  | truncate: 8}}</a>
+<!--
             <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+-->
         </div>
     </div>
     {% endfor %}
@@ -29,8 +31,10 @@ layout: default
             </div>
         </div>
         <div class="card-footer">
-            <a href="{{ post.url }}" class="card-link">{{ post.title  | truncate: 8}}</a>
+            <a href="{{ post.url }}" class="card-link">{{ post.title}}</a>
+<!--
             <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+-->
         </div>
     </div>
     {% endfor %}
