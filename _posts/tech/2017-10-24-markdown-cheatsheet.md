@@ -1,7 +1,7 @@
 ---
 title: Markdown cheatsheet
 date: 2017-10-24 15:23:22
-tags: markdown cheatsheet
+tags: markdown
 ---
 # Typography
 
@@ -38,10 +38,6 @@ HTML:
 <h6>h6 Heading</h6>
 ```
 
-<br>
-<br>
-<br>
-
 
 ## Horizontal Rules
 
@@ -60,30 +56,35 @@ ___
 ***
 
 
-<br>
-<br>
-<br>
-
-
 ## Body Copy
 
-Body copy written as normal, plain text will be wrapped with `<p></p>` tags in the rendered HTML.
+Body copy written as normal, 
+plain text will be wrapped with `<p></p>` tags in the rendered HTML.
 
 So this body copy:
 
 ``` markdown
-Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.
+Lorem ipsum dolor sit amet, graecis denique ei vel, 
+at duo primis mandamus. Et legere ocurreret pri, 
+animal tacimates complectitur ad cum. 
+Cu eum inermis inimicus efficiendi. 
+Labore officiis his ex, 
+soluta officiis concludaturque ei qui, 
+vide sensibus vim ad.
 ```
 renders to this HTML:
 
 ``` html
-<p>Lorem ipsum dolor sit amet, graecis denique ei vel, at duo primis mandamus. Et legere ocurreret pri, animal tacimates complectitur ad cum. Cu eum inermis inimicus efficiendi. Labore officiis his ex, soluta officiis concludaturque ei qui, vide sensibus vim ad.</p>
+<p>
+    Lorem ipsum dolor sit amet, graecis denique ei vel, 
+    at duo primis mandamus. Et legere ocurreret pri, 
+    animal tacimates complectitur ad cum. 
+    Cu eum inermis inimicus efficiendi. 
+    Labore officiis his ex, 
+    soluta officiis concludaturque ei qui, 
+    vide sensibus vim ad.
+</p>
 ```
-
-
-<br>
-<br>
-<br>
 
 
 ## Emphasis
@@ -136,12 +137,6 @@ Which renders to:
 
 ~~Strike through this text.~~
 
-
-<br>
-<br>
-<br>
-
-
 ## Blockquotes
 For quoting blocks of content from another source within your document.
 
@@ -153,13 +148,13 @@ Add `>` before any text you want to quote.
 
 Renders to:
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.
+Add `>` before any text you want to quote.
 
 and this HTML:
 
 ``` html
 <blockquote>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+  <p>Add `>` before any text you want to quote.</p>
 </blockquote>
 ```
 
@@ -184,17 +179,14 @@ odio non est accumsan facilisis. Aliquam id turpis in dolor tincidunt mollis ac 
 Nunc augue augue, aliquam non hendrerit ac, commodo vel nisi.
 
 
-<br>
-<br>
-<br>
-
-
 ## Lists
 
 ### Unordered
-A list of items in which the order of the items does not explicitly matter.
+A list of items in which the order of the items 
+does not explicitly matter.
 
-You may use any of the following symbols to denote bullets for each list item:
+You may use any of the following symbols to denote 
+bullets for each list item:
 
 ```markdown
 * valid bullet
@@ -320,11 +312,6 @@ Renders to:
 8. Eget porttitor lorem
 
 
-<br>
-<br>
-<br>
-
-
 ## Code
 
 ### Inline code
@@ -347,6 +334,7 @@ Or indent several lines of code by at least four spaces, as in:
     line 2 of code
     line 3 of code
 ```
+Renders to:
 
     // Some comments
     line 1 of code
@@ -364,7 +352,7 @@ Sample text here...
 ```
 </pre>
 
-
+Renders to:
 ```
 Sample text here...
 ```
@@ -452,15 +440,11 @@ And this complicated HTML:
 ```
 
 
-<br>
-<br>
-<br>
-
-
-
 ## Tables
-Tables are created by adding pipes as dividers between each cell, and by adding a line of dashes (also separated by bars) beneath the header. Note that the pipes do not need to be vertically aligned.
-
+Tables are created by adding pipes as dividers between 
+each cell, and by adding a line of dashes (also separated 
+by bars) beneath the header. Note that the pipes do not 
+need to be vertically aligned.
 
 ``` markdown
 | Option | Description |
@@ -520,11 +504,6 @@ Adding a colon on the right side of the dashes below any heading will right alig
 | ext    | extension to be used for dest files. |
 
 
-<br>
-<br>
-<br>
-
-
 ## Links
 
 ### Basic link
@@ -582,12 +561,9 @@ Content for chapter one.
 ## Chapter 3 <a id="chapter-3"></a>
 Content for chapter one.
 ```
-**NOTE** that specific placement of the anchor tag seems to be arbitrary. They are placed inline here since it seems to be unobtrusive, and it works.
-
-
-<br>
-<br>
-<br>
+**NOTE** that specific placement of the anchor tag 
+seems to be arbitrary. They are placed inline here 
+since it seems to be unobtrusive, and it works.
 
 
 ## Images
@@ -608,17 +584,20 @@ Like links, Images also have a footnote style syntax
 
 ``` markdown
 ![Alt text][id]
+[id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 ```
-![Alt text][id]
 
-With a reference later in the document defining the URL location:
+Renders to:
+
+![Alt text][id]
 
 [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-    [id]: http://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+With a reference later in the document defining the URL location:
 
-Linked logo: [![alt text](/assets/images/book-1.png)]
-(http://wordpress.com/ "Title")
+Linked logo: 
+
+[![alt text][id]](http://wordpress.com/ "Title")
 
 ## Task List
 
@@ -645,3 +624,26 @@ Markdown converts text to HTML.
 I have more [^1] to say up here.
 
 [^1]: To say down here.
+
+## Align
+
+may or may not supported, you can use
+
+```markdown
+->center aligned text<-
+```
+
+or 
+ ```html
+<p style="text-align:center">
+    center aligned text
+</p>
+```
+    
+Renders to:
+
+<p style="text-align:center">
+center aligned text
+</p>
+->center aligned text<-
+ 

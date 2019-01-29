@@ -420,7 +420,7 @@ SimpleJekyllSearch({
     resultsContainer: document.getElementById('results-container'), // REQUIRED. The container element in which the search results should be rendered in. Typically an <ul>.
     json: '/search.json', // REQUIRED. You can either pass in an URL to the search.json file, or the results in form of JSON directly, to save one round trip to get the data.
     searchResultTemplate: '<a href="{url}" class="list-group-item list-group-item-action text-light">' +
-    '{title} ' + ' <span class="float-right">{date}</span>' +
+    '{title} '+
     '</a>', // OPTIONAL. The template of a single rendered search result. The templating syntax is very simple: You just enclose the properties you want to replace with curly braces.
     noResultsText: 'NoResultFound', // OPTIONAL. The HTML that will be shown if the query didn't match anything.
     limit: 10, // OPTIONAL. You can limit the number of posts rendered on the page.

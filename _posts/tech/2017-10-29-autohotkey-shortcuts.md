@@ -1,7 +1,7 @@
 ---
 title: AutoHotKey Useful ShortCuts
 date: 2017-10-29 08:58:26
-tags: autohotkey shortcut
+tags: autohotkey
 ---
 
 ## Start a program

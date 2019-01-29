@@ -1,24 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<body>
-<head>
-    <meta http-equiv="x-dns-prefetch-control" content="on">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-    <meta name="renderer" content="webkit">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta http-equiv="Cache-Control" content="no-transform"/>
-    <meta http-equiv="Cache-Control" content="no-siteapp"/>
-    <title>{{ site.title }}</title>
-    {% include head.html %}
-</head>
-{% include nav.html %}
+{% include head.html %}
 
-<!-- area of main content-->
-<main class="container">
-{{ content }}
-</main>
+<body data-spy="scroll" data-target="#article-nav-aside">
 
-{% include footer.html %}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3 d-none d-md-block px-0">
+            <div class="side-panel">
+                {% include profile.html %}
+            </div>
+        </div>
+        <div class="col-md-9">
+
+            {% include nav.html %}
+
+            <div class="row px-5">
+                <!-- main area of the post -->
+                {{ content }}
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
 
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
@@ -27,3 +33,5 @@
 <script src="{{'/assets/js/simple-jekyll-search.js' | prepend: site.baseurl }}"></script>
 </body>
 </html>
+
+

@@ -1,42 +1,86 @@
 ---
-layout: default
 ---
-<div class="card-columns">
-    {% for post in site.categories.book %}
-    <div class="card with-image">
-        <div class="card-img-wapper">
-            <img class="card-img" src="{% if post.background-image %}{{ post.background-image }}{% else %}/assets/images/book-1.jpg{% endif %}" alt="Card image cap">
-            <div class="card-img-overlay">
-                <a href="{{ post.url }}">
-                    <p class="card-text">{{ post.content | strip_html | strip_newlines | truncate: 60 }}</p>
-                </a>
+<!DOCTYPE html>
+<html lang="en" style="height: 100%; margin:0">
+{% include head.html %}
+<body style="height: 100%;margin:0" >
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-3 d-none d-md-block px-0">
+            <div class="cover">
+                {% include profile.html %}
             </div>
         </div>
-        <div class="card-footer">
-            <a href="{{ post.url }}" class="card-link">{{ post.title  | truncate: 8}}</a>
-<!--
-            <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
--->
-        </div>
-    </div>
-    {% endfor %}
-    {% for post in site.categories.tech %}
-    <div class="card with-image">
-        <div class="card-img-wapper">
-            <img class="card-img" src="{% if post.background-image %}{{ post.background-image }}{% else %}/assets/images/book-1.jpg{% endif %}" alt="Card image cap">
-            <div class="card-img-overlay">
-                <a href="{{ post.url }}">
-                    <p class="card-text">{{ post.content | strip_html | strip_newlines | truncate: 60 }}</p>
-                </a>
-            </div>
-        </div>
-        <div class="card-footer">
-            <a href="{{ post.url }}" class="card-link">{{ post.title}}</a>
-<!--
-            <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
--->
-        </div>
-    </div>
-    {% endfor %}
+        <div class="col-md-9">
+            {% include nav.html %}
+            <div class="row px-5">
+                <!-- main area of the post -->
+                {% for post in site.posts %}
+                {% if post.categories == "english" %}
+                <div class="card index-card card-english">
+                    <a href="{{ post.url }}">
+                        <h2 class="card-title">{{ post.title }}</h2>
+                    </a>
+                    <div class="card-body">
+                        <div class="card-text">
+                            {% assign size = post.content | size | minus: 2 %}
+                            {% assign sentences = post.content | strip_newlines | slice: 1,size | split: "><" %}
+                            {% for s in sentences limit:14 %}
+                            {{ s |prepend:'<' | append: '>' }}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{ post.url }}" class="card-link">{{ post.title | truncate: 8}}</a>
+                        <a href="{{ post.url }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+                        <a href="{{ post.url }}">
+                            <span class="badge badge-pill badge-info">阅读更多</span>
+                        </a>
+                    </div>
+                </div>
+                {% else %}
+                <div class="card index-card card-tech">
+                    <a href="{{ post.url }}">
+                        <h2 class="card-title">{{ post.title }}</h2>
+                    </a>
 
+                    <div class="card-body">
+                        <p class="card-text">
+                            {% if post.description %}
+                            {{ post.description }}
+                            {% else %}
+                            {{ post.content | strip_html | strip_newlines | truncate: 500 }}
+                            {% endif %}}
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="{{ post.url }}" class="card-link">{{ post.title | truncate: 8}}</a>
+
+                        <a href="{{ post.url }}" class="card-link">{{ post.date  | date: "%Y-%m-%d" }}</a>
+
+                    </div>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
 </div>
+
+<script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+<script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
+<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+<!-- Configuration for search script. See <a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a> for more information-->
+<script src="{{'/assets/js/simple-jekyll-search.js' | prepend: site.baseurl }}"></script>
+<!-- click page to trigger css animation -->
+<script>
+    $(document).click(function() {
+        const cover = $('.cover');
+        if(!cover.hasClass('horizontalTransition'))
+        {
+            cover.addClass('horizontalTransition');
+        }
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,82 @@
+/**
+Style for general card
+ */
+.index-card {
+  color: $article-font-color;
+  background: $background-color url(pics/background/#{$background-pattern});
+  a {
+    text-decoration: none;
+    @extend .text-muted;
+  }
+  .card-title {
+    @extend .p-0;
+    color: $index-card-title-color;
+  }
+  .card-body {
+    @extend .p-0;
+  }
+  .card-footer {
+    @extend .p-0;
+    @extend .px-2;
+    font-size: 0.8rem;
+  }
+}
+
+/**
+Style for card in tech.html
+ */
+.card-tech {
+  @extend .w-100;
+  margin-bottom: 0.5rem;
+}
+/**
+Style for card in english.html
+ */
+.card-english {
+  @extend .w-100;
+  margin-bottom: 0.5rem;
+  .card-title {
+    color: $index-card-title-color;
+  }
+  .card-body {
+    .card-text  {
+      h2 {
+        color: $h2-font-color;
+        font-size: $h2-font-size;
+        @extend .d-inline;
+      }
+      & > p:nth-child(even) {
+        color: darkgray;
+        font-size: 0.8rem;
+        @extend .d-inline;
+        &::after {
+          content: '\A';
+          white-space: pre;
+        }
+      }
+      & > p:nth-child(odd) {
+        @extend .d-inline;
+      }
+    }
+  }
+}
+
+/**
+Style card in archives.html
+ */
+.card-archives {
+  .card-title {
+    @extend .p-1;
+    font-size: 1.0rem;
+  }
+}
+
+/**
+Style for card in tags.html
+ */
+.card-tags {
+  .card-title {
+    @extend .p-1;
+    font-size: 1.0rem;
+  }
+}

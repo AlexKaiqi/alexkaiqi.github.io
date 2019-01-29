@@ -2,46 +2,54 @@
 permalink: tags
 ---
 <!-- index page that categorizes posts by tags -->
+<main class="main-content">
+    <!-- tags navigator -->
+    <header class="post-header">
+        <h1 class="post-title">
+            标签分类的博文--点击自动查找相应`Tags`
+        </h1>
+        <section class="post-tags">
+            <div>
+                {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort%}
+                {% for tag in tags %}
+                <span class="badge badge-pill">
+                     <a href="#{{ tag }}">
+                        {{ tag }} {{ site.tags[tag].size }}
+                     </a>
+                </span>
+                {% endfor %}
+            </div>
+        </section>
+    </header>
 
-<!-- tags navigator -->
-<section class="post-tags">
-    <h1>标签分类的博文--点击自动查找相应`Tags`</h1>
-    <div>
-        {% assign tags = site.posts | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
+    <hr>
+
+    <div class="post-content">
+        <!-- tags in alphabetical order-->
         {% for tag in tags %}
-        <span class="badge badge-pill">
-             <a href="#{{ tag }}">
-                {{ tag }} {{ site.tags[tag].size }}
-             </a>
-        </span>
-        {% endfor %}
-    </div>
-</section>
+        <section id="{{ tag }}">
+            <h2 id="{{ yearMonth.name }}" style="color: #B2CDEB" >{{ tag }}</h2>
+            <!-- posts of a certain tag -->
+            <div class="d-flex flex-wrap">
+                {% for post in site.tags[tag] %}
+                <div class="card index-card card-tags">
+                    <a href="{{ post.url }}">
+                        <h2 class="card-title">{{ post.title }}</h2>
+                    </a>
+                    <div class="card-body">
 
-<hr>
-
-<!-- tags in alphabetical order-->
-{% for tag in tags %}
-<section id="{{ tag }}">
-
-    <h2 class="text-muted">{{ tag }}</h2>
-
-    <!-- posts of a certain tag -->
-    <div class="card-columns">
-        {% for post in site.tags[tag] %}
-        <div class="card card-tags">
-            <div class="card-body">
-                <a href="{{ post.url }}">
-                    <h2 class="card-title">{{ post.title | truncate: 18}}</h2>
-                </a>
+                    </div>
+                    <div class="card-footer d-flex align-content-around">
+                        <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
+                        <a href="/{{ post.categories }}" class="card-link float-right">{{ post.categories }}</a>
+                    </div>
+                </div>
+                {% endfor %}
             </div>
-            <div class="card-footer">
-                <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
-                <a href="/{{ post.categories }}" class="card-link float-right">{{ post.categories }}</a>
-            </div>
-        </div>
+
+        </section>
         {% endfor %}
     </div>
 
-</section>
-{% endfor %}
+
+</main>

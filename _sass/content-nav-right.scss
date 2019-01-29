@@ -1,0 +1,30 @@
+
+/**
+Style for post content navigator
+*/
+.content-nav-right {
+  padding-left: 0;
+
+  ul {
+    list-style-type: none;
+    padding: 0.5rem;
+  }
+  ul:nth-child(1n) {
+    padding: 0;
+  }
+
+  a {
+    font-size:0.8rem;
+    color: lightgray;
+    text-overflow: ellipsis;
+
+    /* Required for text-overflow to do anything */
+    white-space: nowrap;
+    overflow: hidden;
+
+    &:hover {
+      text-decoration: none;
+      color: lightslategray;
+    }
+  }
+}

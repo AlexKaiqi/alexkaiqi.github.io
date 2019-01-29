@@ -1,0 +1,34 @@
+/**
+Style for navigation bar
+ */
+.navbar-top {
+  @extend .navbar-dark;
+  color: $article-font-color;
+  background: $background-color url(pics/background/#{$background-pattern});
+  margin-bottom: 2rem;
+  .search-box {
+    input {
+      @extend .bg-light;
+      @extend .text-muted;
+      padding: 0 12px 0 25px;
+      background-color: whitesmoke;
+      border: 1px solid;
+      border-radius: 20px;
+      &:focus {
+        outline: none;
+        border-color: white;
+      }
+    }
+    .results-container {
+      display: block;
+      position: absolute;
+      top: 3.5rem;
+      left: inherit;
+      width: inherit;
+      z-index: 9999;
+      .list-group-item {
+        background-color: gray;
+      }
+    }
+  }
+}

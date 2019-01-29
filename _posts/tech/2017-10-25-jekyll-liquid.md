@@ -1,7 +1,7 @@
 ---
 title: Jekyll Liquid
 date: 2017-10-25 10:34:11
-tags: jekyll liquid
+tags: jekyll liquid 搭建博客
 
 my_defined_variable_name: my defined content
 show_heading: true

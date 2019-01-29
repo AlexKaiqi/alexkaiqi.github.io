@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body data-spy="scroll" data-target="#article-nav-aside">
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-3 d-none d-lg-block px-0">
+            <div class="side-panel">
+                {% include profile.html %}
+            </div>
+        </div>
+        <div class="col-lg-9">
+
+            {% include nav.html %}
+
+            <div class="row">
+
+                <!-- main area of the post -->
+                <main class="main-content col-12">
+
+                    <iframe class="w-100" src="/assets/htmls/2.多变量线性回归.html" frameborder="0" scrolling="no" onload="resizeIframe(this)" />
+                    <!-- disqus integration -->
+                    {% include disqus.html %}
+
+                </main>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+<script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
+<script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+<!-- Configuration for search script. See <a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a> for more information-->
+<script src="{{'/assets/js/simple-jekyll-search.js' | prepend: site.baseurl }}"></script>
+
+</body>
+</html>
+
+

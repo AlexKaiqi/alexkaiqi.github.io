@@ -1,27 +1,37 @@
 ---
 permalink: archives
+title: 归档
 ---
 <!-- index page that archives all posts by month in descending order -->
-<h1>Archives</h1>
+<main class="main-content">
+    <header class="post-header">
+        <h1 class="post-title">归档</h1>
+    </header>
+    <hr>
+    <div class="post-content">
+        {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y-%b'"  %}
+        {% for yearMonth in postsByYearMonth %}
+        <section>
+            <h2 id="{{ yearMonth.name }}" style="color: #B2CDEB" >{{ yearMonth.name }}</h2>
+            <div class="d-flex flex-wrap">
+                {% for post in yearMonth.items %}
+                <div class="card index-card card-archives">
+                    <a href="{{ post.url }}">
+                        <h2 class="card-title">{{ post.title}}</h2>
+                    </a>
+                    <div class="card-body">
 
-{% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y-%b'"  %}
-{% for yearMonth in postsByYearMonth %}
-<section>
-    <h2 id="{{ yearMonth.name }}">{{ yearMonth.name }}</h2>
-    <div class="card-columns">
-        {% for post in yearMonth.items %}
-        <div class="card card-archives">
-            <div class="card-body">
-                <a href="{{ post.url }}">
-                    <h2 class="card-title">{{ post.title}}</h2>
-                </a>
+                    </div>
+                    <div class="card-footer d-flex align-content-around">
+                        <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
+                        <a href="/{{ post.categories }}" class="card-link float-right">{{ post.categories }}</a>
+                    </div>
+                </div>
+                {% endfor %}
             </div>
-            <div class="card-footer">
-                <a href="/archives#{{ post.date | date: '%Y-%b' }}" class="card-link">{{ post.date | date: "%Y-%m-%d" }}</a>
-                <a href="/{{ post.categories }}" class="card-link float-right">{{ post.categories }}</a>
-            </div>
-        </div>
+        </section>
         {% endfor %}
     </div>
-</section>
-{% endfor %}
+
+</main>
+

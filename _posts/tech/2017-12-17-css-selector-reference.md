@@ -1,7 +1,8 @@
 ---
 title: CSS selector reference
 date: 2017-12-17 16:06:58
-tags: css selector
+tags: css css选择器 
+description: 从w3school整理了一些css选择器
 ---
 
 ## Selector reference

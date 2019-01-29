@@ -1,0 +1,52 @@
+/**
+Left panel
+ */
+.side-panel {
+  @extend .h-100;
+  @extend .w-25;
+  @extend .fixed-top;
+  display: inline-flex;
+  background-image: url($cover-image);
+  align-items: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.profile{
+  @extend .mx-auto;
+  @extend .text-center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  a.avatar-link {
+    border: 5px;
+    border-color: darkgray;
+  }
+  h1 {
+    margin-top: 1rem;
+    @extend .text-muted;
+  }
+
+  img.avatar {
+    width:100px;
+    height: 100px;
+    @extend .rounded-circle;
+    border: 5px;
+    border-color: lightcyan;
+  }
+
+  .quote {
+    @extend .text-muted;
+  }
+  .social-icons {
+    @extend .text-center;
+    .fa {
+      font-size: 1.5rem;
+      text-decoration: none;
+      margin: 5px 2px;
+      border-radius: 50%;
+      color: lightcyan;
+    }
+  }
+}

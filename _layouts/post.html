@@ -1,88 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<head>
-    <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-    <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-    <title>{{ page.title }} - {{ site.title }}</title>
-    {% include head.html %}
-</head>
 
-<body data-spy="scroll" data-target="#article-nav-aside ">
-{% include nav.html %}
+<body data-spy="scroll" data-target="#article-nav-aside">
 
 <div class="container-fluid">
     <div class="row">
+        <div class="col-lg-3 d-none d-lg-block px-0">
+            <div class="side-panel">
+                {% include profile.html %}
+            </div>
+        </div>
+        <div class="col-lg-9">
 
-        <!-- used only for spacing the content-->
-        <div class="col-xl-2 col-lg-1 d-none d-lg-block d-xl-block"></div>
-        <!-- main area of the post -->
-        <main class="main-content col-lg-8">
-            <!-- header of the post -->
-            <header class="post-header">
-                <h1>{{ page.title }}</h1>
-                <div class="post-data">
-                    <time datetime="{{ page.date | date: '%F'}}">发布时间：{{ page.date | date: "%F"}}
-                    </time>
-                    <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
-                       data-hover="博客分类: {{ page.category }}">博客分类: {{ page.category }}
-                    </a>
-                    <div class="post-tags">
-                        {% unless page.tags == empty %}
-                        {% for tag in page.tags %}
-                        <span class="badge badge-pill">
-                    <a href="/tags#{{ tag }}" title="访问{{ tag }}">
-                        {{ tag }}({{ site.tags[tag].size }})
-                    </a>
-                 </span>
-                        {% endfor %}
-                        {% endunless %}
-                    </div>
-                </div>
-            </header>
+            {% include nav.html %}
 
-            <hr>
+            <div class="row px-4">
 
-            <!-- content of the post -->
-            <article class="post-content">
-                {{ content }}
-            </article>
+                <!-- main area of the post -->
+                <main class="main-content col-md-9">
 
-            <!--legislation info of the post -->
-            <footer class="post-info">
-                {% if page.reprint-from %}
-                本文转载自<a href="{{page.reprint-from}}"> {{page.reprint-from}}</a><br>
-                {% else %}
-                本文由 <a href="/about">{{site.signoff}}</a> 创作，采用
-                <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a>
-                国际许可协议进行许可<br>
-                {% endif %}
-                本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>
-                最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
-            </footer>
-        </main>
+                    <!-- post header -->
+                    <header class="post-header">
+                        <h1 class="post-title d-inline">{{ page.title }}</h1>
+                        <time class="post-date float-right" datetime="{{ page.date | date: '%F'}}">
+                            编辑于: {{ page.date | date: "%F"}}
+                        </time>
+                        <div class="post-data">
+                            <div class="post-tags">
+                                <a href="/tags#{{ page.category }}" title="访问 {{ page.category }}"
+                                   data-hover="博客分类: {{ page.category }}">{{ page.category }}
+                                </a>
+                                {% unless page.tags == empty %}
+                                {% for tag in page.tags %}
+                                <span class="badge badge-pill">
+                                <a href="/tags#{{ tag }}" title="访问{{ tag }}">
+                                    {{ tag }}({{ site.tags[tag].size }})
+                                </a>
+                            </span>
+                                {% endfor %}
+                                {% endunless %}
+                            </div>
+                        </div>
+                    </header>
+                    <hr>
 
-        <!-- content navigator of the post  aside from main area -->
-        <aside class="article-nav-aside col-lg-2 d-none d-lg-block d-xl-block">
-            <ul id="article-nav-aside" class="list-group sticky-top">
-            </ul>
-        </aside>
+                    <!-- post-content -->
+                    <article class="post-content">
+                        {{ content }}
+                    </article>
+
+                    <!--post footer -->
+                    <footer class="post-footer">
+                        <div class="related-posts">
+                            {% include related-posts.html %}
+                        </div>
+                        {% if page.reprint-from %}
+                        本文转载自<a href="{{page.reprint-from}}"> {{page.reprint-from}}</a><br>
+                        {% else %}
+                        本文由 <a href="/about">{{site.signoff}}</a> 创作，采用
+                        <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a>
+                        国际许可协议进行许可<br>
+                        {% endif %}
+                        本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>
+                        最后编辑时间为: {{page.date | date: "%F %H:%M:%S"}}
+                    </footer>
+                    <!-- disqus integration -->
+                    {% include disqus.html %}
+
+                </main>
+
+                <!-- right content navigation bar -->
+                <aside class="col-md-3 d-none d-md-block content-nav-right">
+                    <ul id="content-nav" class="nav flex-column sticky-top">
+                    </ul>
+                </aside>
+
+            </div>
+        </div>
     </div>
 </div>
 
-<hr>
-{% if page.comments %}
-    {% include disqus.html %}
-{% endif %}
-{% include footer.html %}
+
 
 <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/popper.js/dist/umd/popper.js' | prepend: site.baseurl}}"></script>
 <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
 <!-- Configuration for search script. See <a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a> for more information-->
 <script src="{{'/assets/js/simple-jekyll-search.js' | prepend: site.baseurl }}"></script>
-<!-- script to create content navigator for the post aside from main area-->
-<!-- TODO  create a more delicate navigator -->
+
+<!-- create content navigation bar-->
 <script>
     $(document).ready(function() {
         var data = [];
@@ -106,19 +113,19 @@
         var html = '';
         level = data[0].number;
         for (var i in data) {
-             tag = data[i].number;
-             if (tag < data[0].n) throw "invalid list structure";
-             while (level < tag) {
-                 level++;
-                 html += "<ul>";
-             }
-             while ( level > tag) {
-                 level--;
-                 html += "</ul>";
-             }
-             html += '<li><a class="list-group-item bg-dark" href="#' + data[i].id + '" >' + data[i].innerText + '</a></li>';
+            tag = data[i].number;
+            if (tag < data[0].n) throw "invalid list structure";
+            while (level < tag) {
+                level++;
+                html += "<ul>";
+            }
+            while ( level > tag) {
+                level--;
+                html += "</ul>";
+            }
+            html += '<li class="nav-item"><a class="nav-link" href="#' + data[i].id + '" >' + data[i].innerText + '</a></li>';
         }
-        $('#article-nav-aside').html(html);
+        $('#content-nav').html(html);
         console.log(html);
         $('[data-spy="scroll"]').each(function () {
             var $spy = $(this).scrollspy('refresh');
@@ -126,7 +133,6 @@
 
     })
 </script>
-
 </body>
 </html>
 

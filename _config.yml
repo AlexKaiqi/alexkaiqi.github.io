@@ -82,11 +82,11 @@ defaults:
     values:
       categories: tech
   - scope:
-      path: _posts/english/oral-english
+      path: _posts/english/爱英语
       type: posts
     values:
-      background-image: /assets/images/english.jpg
-      tags: english oral speak
+      cover: /assets/images/english.jpg
+      tags: 英语口语
       reprint-from: 喜马拉雅-爱英语
       categories: english
   -
@@ -110,16 +110,19 @@ social:
   - name:       stackoverflow
     url:        https://stackoverflow.com/users/7967346/alex-kai
     username:   Alex Kai
+  - name: gmail
+    url: alexkaiqi@gmail.com
+    username: Alex Kai
 
 # Navigation bar configuration
 nav-items:
   - name:         首页
-    url:          /
-  - name:         书籍
-    url:          /book
+    url:          \#blogs
+#  - name:         书籍
+#    url:          /book
 #  - name:         旅游
 #    url:          /travel
-  - name:         English
+  - name:         英语口语
     url:          /english
   - name:         技术
     url:          /tech

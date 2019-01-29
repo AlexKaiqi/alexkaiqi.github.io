@@ -1,0 +1,39 @@
+/**
+Style for post-tags in tags.html
+ */
+.post-tags {
+  .badge.badge-pill {
+    margin-bottom: 0.5rem;
+    margin-right: 0.2rem;
+    transition: all 0.5s ease;
+    a {
+      text-decoration: none;
+      color: white;
+      font-size: 0.8rem;
+    }
+    &:hover {
+      filter: contrast(150%);
+      -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+      transform: scale(1.2);
+    }
+  }
+  .badge.badge-pill:nth-child(1n) {
+    background: $accent-color-info;
+  }
+  .badge.badge-pill:nth-child(2n) {
+    background: lightsalmon;
+  }
+  .badge.badge-pill:nth-child(3n) {
+    background: $accent-color-light-green;
+  }
+  .badge.badge-pill:nth-child(4n) {
+    background: lightslategray;
+  }
+  .badge.badge-pill:nth-child(5n) {
+    background: $accent-color-velvet;
+  }
+  .badge.badge-pill:nth-child(6n) {
+    background: $accent-color-light-coral;
+  }
+}

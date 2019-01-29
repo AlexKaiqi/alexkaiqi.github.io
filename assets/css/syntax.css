@@ -1,6 +1,11 @@
 /**
 Syntax highlight for post content
  */
+.highlighter-rouge{
+    background-color: #16181b;
+    padding: 1px 4px;
+    border-radius: 0.3rem;
+}
 pre {color: lightgray}
 .highlight code { color: lightgray; }
 .highlight pre { background-color: #272822; }

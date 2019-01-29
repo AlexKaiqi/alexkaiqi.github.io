@@ -1,7 +1,63 @@
 $font-family: -apple-system, SF UI Text, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
 $font-family-base: $font-family;
-$article-font-size: 1.2rem;
-$article-line-height: 1.5rem;
-$article-h2-font-size: 1.5rem;
+
+/**
+ Several accent colors, choose one or create your own!
+  */
+$accent-color-dark-cyan: darkcyan; // dark cyan
+$accent-color-bluish: #35B4DE;  // bluish
+$accent-color-light-sea-green: lightseagreen; // light sea green
+$accent-color-sea-blue: #3CA2A2;    // sea blue
+$accent-color-info: #87CEFA; // light blue
+$accent-color-greenish: #8FD6B3;  // greenish
+$accent-color-light-green: #46c47c; // light green
+$accent-color-green: #52B54B;  // green
+$accent-color-yellowish: #D2E354;  // yellowish
+$accent-color-warning: #ffff00; // warning
+$accent-color-light-salmon: lightsalmon; //light salmon
+$accent-color-light-coral: lightcoral; // light coral
+$accent-color-velvet: #C38FD6;  // velvet
+
+
+/**
+ site background.
+ use this or pick any from /css/pics/background folder or from transparenttextures.com
+  */
+$background-pattern: 'random-grey-variations.png';
+$background-color: #292929;
+
+/**
+Post style variables
+ */
+$article-font-family: $font-family;
+$article-font-size: 1.0rem;
+$article-line-height: 1.2rem;
 $article-font-color: lightgray;
+$article-title-size: 1.5rem;
+$article-title-color: darkcyan;
+
+$h1-font-size: 1.6rem;
+$h2-font-size: 1.4rem;
+$h3-font-size: 1.2rem;
+$h4-font-size: 1.1rem;
+$h5-font-size: 1.0rem;
+$h6-font-size: 0.9rem;
+$h1-font-color: #B2CDEB;
+$h2-font-color: #B2CDEB;
+$h3-font-color: #B2CDEB;
+$h4-font-color: #B2CDEB;
+$h5-font-color: #B2CDEB;
+$h6-font-color: #B2CDEB;
+
+$note-color: $accent-color-info;
+$warning-color: $accent-color-warning;
+
+/**
+Side panel
+ */
+
+$cover-image: '/assets/images/bg-4.jpg';
+$index-card-title-color: $accent-color-dark-cyan;
+
+
 @import "../node_modules/bootstrap/scss/bootstrap";

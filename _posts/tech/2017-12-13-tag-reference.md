@@ -1,12 +1,13 @@
 ---
 title: HTML5 tag reference
 date: 2017-12-13 13:04:44
-tags: html html5 tag reference
+tags: html html5 html标签
+description: 将常用的HTML标签整理了一遍, 包括一些HTML5推荐的语义标签的用法
 ---
 **Only html5 supported tags**
 
 ## Basic HTML
-
+    
 Tag | Description
 --- | ---
 [\<!DOCTYPE\>](https://www.w3schools.com/tags/tag_doctype.asp) | Defines the document type

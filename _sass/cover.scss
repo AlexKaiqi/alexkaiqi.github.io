@@ -1,0 +1,19 @@
+.cover {
+  @extend .h-100;
+  @extend .fixed-top;
+  width: 100%;
+  display: inline-flex;
+  background-image: url($cover-image);
+  align-items: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.cover.horizontalTransition {
+  width: 25%;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  -o-transition: 1s;
+  transition: 1s;
+}
