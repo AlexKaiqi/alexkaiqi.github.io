@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="PROJECT" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/LICENSE" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2015-11-01-installation.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-07-01-images.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-08-01-analytics-tags-comments.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-09-16-be-social.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-09-20-customizations.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-10-01-code-syntax-highlighting.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-11-02-text-formatting.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2016-12-01-jekyll-clean-theme.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2018-02-09-table-styles.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_posts/tech/2018-08-03-table-of-content.md" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/assets/css/pics" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
